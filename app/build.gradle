@@ -1,0 +1,30 @@
+plugins {
+	id 'application'
+}
+
+repositories {
+	jcenter()
+}
+
+dependencies {      
+	implementation 'com.google.code.gson:gson:2.8.6'
+	
+	testImplementation 'org.mockito:mockito-core:3.3.3'
+	testImplementation 'junit:junit:4.13'
+}
+
+application {
+	mainClassName = 'magic_clustering.Main'
+}
+
+jar {
+	manifest {
+		attributes(
+			'Main-Class': mainClassName
+		)
+	}
+}
+
+run {
+    standardInput = System.in
+}
