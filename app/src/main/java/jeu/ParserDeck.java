@@ -23,7 +23,7 @@ public class ParserDeck{
 
 			while((line = fileR.readLine()) != null) {
 				// si la ligne n'est pas vide et que le premier caractère est nombre :https://java2blog.com/java-isnumeric/
-				if(line.length()!=0 &&line.substring(0, 1).matches("[-+]?\\d*\\.?\\d+")){
+				if(line.length()!=0 &&line.substring(0, 1).matches("[0-9]+")){
 					Integer nombre = Integer.valueOf(line.substring(0, line.indexOf(" ")));
 					String nameCarte = line.substring(line.indexOf(" "));
 					Card card = new Card(nameCarte, 0); //0 = valeur par défaut le temps de faire le parser json

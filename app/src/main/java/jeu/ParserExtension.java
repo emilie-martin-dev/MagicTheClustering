@@ -23,17 +23,24 @@ public class ParserExtension{
 			BufferedReader fileR = new BufferedReader(new FileReader(this.file));
 			String line;
 
-			while((line = fileR.readLine()) != null) {
-				if(line.contains(this.cardName)){
-					GsonBuilder builder = new GsonBuilder();
-      				builder.setPrettyPrinting();
-      				Gson gson = builder.create();
-					System.out;println("la carte est présente dans le deck");
-
-				}else{
-					System.out.println("la carte recherchée n'est pas dans cette extension");
-				}
-			}
+// 			GsonBuilder builder = new GsonBuilder();
+// builder.setPrettyPrinting();
+// Gson  m_gson = builder.create();
+//
+// Type myType= new TypeToken<ArrayList<Card>>() {}.getType();
+// FileReader reader = new FileReader(path);
+// List<Card> cards= m_gson.fromJson(reader, myType);
+			// while((line = fileR.readLine()) != null) {
+			// 	if(line.contains(this.cardName)){
+			// 		GsonBuilder builder = new GsonBuilder();
+      		// 		builder.setPrettyPrinting();
+      		// 		Gson gson = builder.create();
+			// 		System.out.println("la carte est présente dans le deck");
+			//
+			// 	}else{
+			// 		System.out.println("la carte recherchée n'est pas dans cette extension");
+			// 	}
+			//}
 
 
 		}catch(Exception e){
