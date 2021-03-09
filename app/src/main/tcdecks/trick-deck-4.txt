@@ -1,0 +1,47 @@
+Main
+4 Badlands
+3 City of Brass
+1 Library of Alexandria
+1 Strip Mine
+2 Swamp
+4 Underground Sea
+3 Volcanic Island
+1 Ancestral Recall
+1 Balance
+1 Black Lotus
+1 Boomerang
+1 Braingeyser
+1 Chaos Orb
+4 Dark Ritual
+1 Demonic Tutor
+1 Earthquake
+1 Fireball
+2 Flash Counter
+3 Lightning Bolt
+1 Mana Drain
+1 Mind Twist
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Recall
+1 Regrowth
+1 Sol Ring
+1 Sylvan Library
+2 The Abyss
+1 Time Walk
+1 Timetwister
+4 Underworld Dreams
+1 Wheel of Fortune
+4 Winds of Change
+
+Sideboard
+3 Hypnotic Specter
+1 Shivan Dragon
+2 Blue Elemental Blast
+3 Gloom
+1 Mirror Universe
+3 Red Elemental Blast
+2 Shatter
+

@@ -1,0 +1,39 @@
+Main
+4 Mishra's Workshop
+4 Underground Sea
+4 Mishra's Factory
+4 Strip Mine
+3 Island
+1 Swamp
+1 Library of Alexandria
+1 Black Lotus
+1 Mox Emerald
+1 Mox Ruby
+1 Mox Jet
+1 Mox Sapphire
+1 Sol Ring
+2 Mana Vault
+2 Sage of Lat-Nam
+2 Tetravus
+4 Triskelion
+4 Su-Chi
+1 Time Walk
+1 Ancestral Recall
+1 Timetwister
+1 Recall
+1 Mind Twist
+1 Demonic Tutor
+3 Animate Dead
+4 Copy Artifact
+1 Chaos Orb
+1 Forcefield
+1 Candelabra of Tawnos
+3 Icy Manipulator
+
+Sideboard
+4 City in a Bottle
+3 Gloom
+3 The Abyss
+4 Serendib Efreet
+1 Nevinyrral's Disk
+

@@ -1,0 +1,31 @@
+Main
+2 Will-o'-the-Wisp
+4 Black Knight
+4 Order of the Ebon Hand
+4 Hypnotic Specter
+4 Sengir Vampire
+1 Mox Jet
+4 Dark Ritual
+1 Mind Twist
+1 Chaos Orb
+1 Demonic Tutor
+1 Drain Life
+4 Hymn to Tourach
+2 Terror
+3 Nevinyrral's Disk
+1 Maze of Ith
+4 Strip Mine
+18 Swamp
+1 Urborg
+
+Sideboard
+2 The Rack
+2 Aeolipile
+2 City in a Bottle
+1 Drain Life
+1 Terror
+2 Disrupting Scepter
+3 Gloom
+1 Greed
+1 Haunting Wind
+

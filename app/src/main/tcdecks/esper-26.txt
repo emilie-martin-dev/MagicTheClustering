@@ -1,0 +1,42 @@
+Main
+1 Library of Alexandria
+2 City of Brass
+1 Strip Mine
+4 Mishra's Factory
+4 Underground Sea
+4 Scrubland
+4 Swamp
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Pearl
+1 Mox Jet
+1 Sol Ring
+1 Chaos Orb
+3 Swords to Plowshares
+3 Disenchant
+1 Balance
+1 Demonic Tutor
+1 Mind Twist
+1 Time Walk
+1 Ancestral Recall
+1 Timetwister
+4 Dark Ritual
+3 Sinkhole
+3 Underworld Dreams
+4 Hypnotic Specter
+2 Sengir Vampire
+3 Black Knight
+4 Juzám Djinn
+
+Sideboard
+1 Maze of Ith
+3 Black Vise
+1 Swords to Plowshares
+1 Disenchant
+1 Spirit Link
+1 Circle of Protection: Red
+1 Divine Offering
+2 Blue Elemental Blast
+2 Energy Flux
+2 Nevinyrral's Disk
+

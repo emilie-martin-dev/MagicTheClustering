@@ -1,0 +1,36 @@
+Main
+2 Psionic Blast
+1 Timetwister
+1 Time Walk
+1 Ancestral Recall
+1 Wheel of Fortune
+1 Fireball
+4 Atog
+4 Chain Lightning
+4 Lightning Bolt
+4 Savannah Lions
+1 Balance
+1 Chaos Orb
+1 Sol Ring
+4 Black Vise
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Ankh of Mishra
+4 Mishra's Factory
+4 Strip Mine
+4 Volcanic Island
+4 City of Brass
+4 Plateau
+
+Sideboard
+4 Disenchant
+4 Red Elemental Blast
+3 Blood Moon
+1 Earthquake
+2 Blue Elemental Blast
+1 Hurkyl's Recall
+

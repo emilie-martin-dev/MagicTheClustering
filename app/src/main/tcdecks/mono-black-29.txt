@@ -1,0 +1,32 @@
+Main
+1 Strip Mine
+1 Urborg
+15 Swamp
+1 Black Lotus
+1 Mox Jet
+1 Sol Ring
+1 Chaos Orb
+1 Demonic Tutor
+1 Mind Twist
+4 Dark Ritual
+4 Sinkhole
+4 Underworld Dreams
+4 Hypnotic Specter
+2 Sengir Vampire
+4 Black Knight
+4 Juzám Djinn
+3 Paralyze
+4 Juggernaut
+2 Nevinyrral's Disk
+2 Animate Dead
+2 Drain Life
+
+Sideboard
+1 Maze of Ith
+2 Disrupting Scepter
+3 Gloom
+4 Terror
+2 Royal Assassin
+2 Phyrexian Gremlins
+1 Sorceress Queen
+

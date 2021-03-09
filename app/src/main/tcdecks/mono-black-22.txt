@@ -1,0 +1,23 @@
+Main
+1 The Rack
+4 Black Knight
+4 Order of the Ebon Hand
+4 Hypnotic Specter
+4 Su-Chi
+4 Underworld Dreams
+4 Dark Ritual
+4 Strip Mine
+4 Mishra's Factory
+1 Urborg
+17 Swamp
+4 Maze of Ith
+4 Hymn to Tourach
+1 Demonic Tutor
+
+Sideboard
+2 The Rack
+1 City in a Bottle
+4 Royal Assassin
+4 Gloom
+4 Haunting Wind
+

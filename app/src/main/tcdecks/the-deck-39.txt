@@ -1,0 +1,36 @@
+Main
+4 Underground Sea
+4 Volcanic Island
+4 Tundra
+6 Plains
+6 Island
+1 Strip Mine
+1 Sol Ring
+4 Jayemdae Tome
+1 Chaos Orb
+4 Counterspell
+1 Mana Drain
+4 Serra Angel
+4 Swords to Plowshares
+4 Disenchant
+4 Lightning Bolt
+1 Braingeyser
+1 Mind Twist
+1 Recall
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Balance
+1 Demonic Tutor
+
+Sideboard
+2 Red Elemental Blast
+2 Disrupting Scepter
+2 Juggernaut
+2 Control Magic
+1 Stone Rain
+1 Disintegrate
+2 Divine Offering
+2 Blue Elemental Blast
+1 Dust to Dust
+

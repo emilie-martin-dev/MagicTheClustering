@@ -1,0 +1,33 @@
+Main
+4 Black Knight
+2 Juggernaut
+2 Juzám Djinn
+4 Order of the Ebon Hand
+2 Sengir Vampire
+2 Badlands
+2 City of Brass
+1 Library of Alexandria
+1 Maze of Ith
+4 Mishra's Factory
+4 Scrubland
+4 Strip Mine
+6 Swamp
+1 Balance
+4 Dark Ritual
+1 Demonic Tutor
+3 Disenchant
+1 Fireball
+4 Hymn to Tourach
+1 Mind Twist
+1 Sol Ring
+3 Swords to Plowshares
+3 The Rack
+
+Sideboard
+1 Berserk
+2 Blood Moon
+1 Maze of Ith
+2 Nevinyrral's Disk
+2 Paralyze
+2 Terror
+

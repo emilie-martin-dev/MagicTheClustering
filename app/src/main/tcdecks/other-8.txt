@@ -1,0 +1,35 @@
+Main
+3 Will-o'-the-Wisp
+4 Evil Eye of Orms-by-Gore
+3 Paralyze
+3 Drain Life
+3 Nevinyrral's Disk
+1 Guardian Beast
+1 Greed
+1 Demonic Tutor
+1 Mind Twist
+4 Hymn to Tourach
+1 Mirror Universe
+1 Jayemdae Tome
+1 City in a Bottle
+1 Chaos Orb
+1 Icy Manipulator
+1 Sol Ring
+1 Mox Jet
+17 Swamp
+4 Mishra's Factory
+4 Strip Mine
+1 Library of Alexandria
+1 Urborg
+2 Maze of Ith
+
+Sideboard
+1 Greed
+2 Disrupting Scepter
+3 Terror
+2 Ivory Tower
+4 Gloom
+1 Hellfire
+1 City in a Bottle
+1 Nevinyrral's Disk
+

@@ -1,0 +1,37 @@
+Main
+4 Black Knight
+4 Order of the Ebon Hand
+4 Hypnotic Specter
+2 Sengir Vampire
+2 Underworld Dreams
+4 Dark Ritual
+1 Chaos Orb
+1 Paralyze
+1 Drain Life
+1 Mind Twist
+4 Hymn to Tourach
+3 Nevinyrral's Disk
+1 Demonic Tutor
+1 Ancestral Recall
+9 Swamp
+4 Underground Sea
+3 Mishra's Factory
+4 Strip Mine
+1 City of Brass
+1 Urborg
+1 Library of Alexandria
+1 Time Walk
+1 Mox Jet
+1 Mox Sapphire
+1 Black Lotus
+
+Sideboard
+4 Gloom
+1 Greed
+2 Energy Flux
+1 Underworld Dreams
+1 Maze of Ith
+2 City in a Bottle
+3 Terror
+1 Drain Life
+

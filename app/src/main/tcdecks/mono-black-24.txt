@@ -1,0 +1,39 @@
+Main
+1 Library of Alexandria
+1 Maze of Ith
+4 Mishra's Factory
+1 Strip Mine
+15 Swamp
+1 Urborg
+4 Black Knight
+4 Hypnotic Specter
+3 Juzám Djinn
+1 Royal Assassin
+1 Sengir Vampire
+1 Su-Chi
+1 Black Lotus
+1 Chaos Orb
+4 Dark Ritual
+1 Demonic Tutor
+2 Drain Life
+1 Greed
+1 Icy Manipulator
+1 Mind Twist
+1 Mox Jet
+1 Nevinyrral's Disk
+4 Sinkhole
+1 Sol Ring
+1 Terror
+3 Underworld Dreams
+
+Sideboard
+2 Juggernaut
+1 Su-Chi
+2 Gloom
+1 Jovial Evil
+1 Nevinyrral's Disk
+1 Oubliette
+3 Paralyze
+3 Terror
+1 Underworld Dreams
+

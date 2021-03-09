@@ -1,0 +1,47 @@
+Main
+3 Priest of Yawgmoth
+3 Dark Ritual
+1 Mind Twist
+1 Demonic Tutor
+3 Lightning Bolt
+2 Fireball
+1 Disintegrate
+1 Wheel of Fortune
+2 Sage of Lat-Nam
+1 Mana Drain
+1 Braingeyser
+1 Time Walk
+1 Timetwister
+1 Ancestral Recall
+1 Copy Artifact
+1 Chaos Orb
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Ruby
+1 Mox Pearl
+1 Mox Emerald
+1 Sol Ring
+1 Mana Vault
+1 Fellwar Stone
+4 Su-Chi
+2 Triskelion
+1 Tetravus
+3 City of Brass
+3 Underground Sea
+3 Volcanic Island
+3 Badlands
+3 Mishra's Factory
+2 Strip Mine
+1 Mishra's Workshop
+1 Swamp
+1 Island
+
+Sideboard
+3 Gloom
+2 Terror
+3 Red Elemental Blast
+2 Shatter
+3 Blue Elemental Blast
+2 City in a Bottle
+

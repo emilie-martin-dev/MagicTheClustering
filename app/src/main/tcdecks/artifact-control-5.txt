@@ -1,0 +1,41 @@
+Main
+2 Disrupting Scepter
+4 Icy Manipulator
+2 Tawnos's Coffin
+3 Jalum Tome
+1 Jayemdae Tome
+1 Chaos Orb
+4 Triskelion
+4 Tetravus
+2 Titania's Song
+1 Ancestral Recall
+1 Time Walk
+3 Disenchant
+1 Balance
+3 Fellwar Stone
+1 Mox Jet
+1 Mox Emerald
+1 Mox Sapphire
+1 Mox Ruby
+1 Mox Pearl
+1 Black Lotus
+1 Sol Ring
+4 Mishra's Workshop
+3 Mishra's Factory
+4 Strip Mine
+3 City of Brass
+3 Tundra
+3 Tropical Island
+1 Forcefield
+
+Sideboard
+1 Divine Offering
+1 Disenchant
+1 Circle of Protection: Black
+1 Circle of Protection: Red
+4 Serendib Efreet
+1 Erhnam Djinn
+3 Swords to Plowshares
+2 Blue Elemental Blast
+1 Forcefield
+

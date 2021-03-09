@@ -1,0 +1,44 @@
+Main
+4 Mishra's Factory
+1 Strip Mine
+1 Maze of Ith
+4 Underground Sea
+6 Swamp
+1 Urborg
+1 City of Brass
+1 Sol Ring
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+4 Dark Ritual
+4 Sinkhole
+4 Hymn to Tourach
+3 Underworld Dreams
+4 Hypnotic Specter
+3 Juzám Djinn
+3 Black Knight
+1 Order of the Ebon Hand
+1 Terror
+2 Drain Life
+1 Sengir Vampire
+1 Mind Twist
+1 Demonic Tutor
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Disrupting Scepter
+1 Nevinyrral's Disk
+1 Icy Manipulator
+1 Chaos Orb
+
+Sideboard
+2 City in a Bottle
+1 Icy Manipulator
+1 Ivory Tower
+2 Terror
+3 Gloom
+2 Paralyze
+1 Nevinyrral's Disk
+1 Underworld Dreams
+2 Black Vise
+

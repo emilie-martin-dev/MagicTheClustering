@@ -1,0 +1,37 @@
+Main
+4 City of Brass
+1 Library of Alexandria
+4 Mishra's Factory
+4 Scrubland
+1 Strip Mine
+3 Swamp
+4 Underground Sea
+4 Hypnotic Specter
+4 Juzám Djinn
+1 Ancestral Recall
+1 Balance
+1 Black Lotus
+1 Chaos Orb
+4 Dark Ritual
+1 Demonic Tutor
+4 Disenchant
+1 Mind Twist
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+4 Sinkhole
+1 Sol Ring
+3 Swords to Plowshares
+1 Time Walk
+1 Timetwister
+4 Underworld Dreams
+
+Sideboard
+1 Sengir Vampire
+3 Serra Angel
+3 Blue Elemental Blast
+2 Circle of Protection: Black
+2 Circle of Protection: Red
+2 Energy Flux
+2 Moat
+

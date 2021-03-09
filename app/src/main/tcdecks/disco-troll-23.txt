@@ -1,0 +1,43 @@
+Main
+4 Nevinyrral's Disk
+1 Sol Ring
+1 Black Lotus
+1 Mox Ruby
+1 Mox Sapphire
+1 Mox Jet
+1 Chaos Orb
+1 City in a Bottle
+4 Sedge Troll
+4 Lightning Bolt
+4 Counterspell
+1 Ancestral Recall
+2 Power Sink
+1 Mana Drain
+1 Spell Blast
+1 Psionic Blast
+1 Shatter
+4 Mishra's Factory
+1 Library of Alexandria
+4 Underground Sea
+3 City of Brass
+2 Badlands
+4 Strip Mine
+2 Island
+4 Volcanic Island
+1 Fireball
+1 Mind Twist
+1 Demonic Tutor
+1 Recall
+1 Braingeyser
+1 Time Walk
+
+Sideboard
+1 City in a Bottle
+2 Control Magic
+2 Terror
+1 Shatter
+3 Red Elemental Blast
+3 Blue Elemental Blast
+1 Shatterstorm
+2 Earthquake
+

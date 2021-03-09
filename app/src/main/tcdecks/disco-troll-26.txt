@@ -1,0 +1,41 @@
+Main
+4 Counterspell
+3 Power Sink
+1 Mana Drain
+1 Ancestral Recall
+4 Sedge Troll
+1 Sol'kanar the Swamp King
+1 Amnesia
+1 Guardian Beast
+1 Fireball
+4 Lightning Bolt
+1 Psionic Blast
+1 Braingeyser
+1 Time Walk
+1 Recall
+1 Demonic Tutor
+1 Mind Twist
+1 Sol Ring
+1 Chaos Orb
+4 Mishra's Factory
+4 Strip Mine
+2 Island
+1 Library of Alexandria
+4 Volcanic Island
+4 Underground Sea
+2 Badlands
+3 City of Brass
+4 Nevinyrral's Disk
+1 Mox Jet
+1 Mox Sapphire
+1 Mox Ruby
+1 Black Lotus
+
+Sideboard
+2 Control Magic
+2 Terror
+4 Blue Elemental Blast
+2 Shatter
+2 City in a Bottle
+3 Red Elemental Blast
+

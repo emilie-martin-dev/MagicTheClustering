@@ -1,0 +1,38 @@
+Main
+1 Sol Ring
+1 Chaos Orb
+2 City in a Bottle
+4 Black Vise
+4 Savannah Lions
+2 Serra Angel
+1 Energy Flux
+4 Lightning Bolt
+4 Disenchant
+4 Swords to Plowshares
+2 Hurkyl's Recall
+4 Psionic Blast
+1 Red Elemental Blast
+1 Unsummon
+1 Divine Offering
+3 Plateau
+1 Library of Alexandria
+1 Strip Mine
+3 Volcanic Island
+4 Tundra
+4 Mishra's Factory
+2 Plains
+1 Wheel of Fortune
+1 Balance
+4 Chain Lightning
+
+Sideboard
+1 Karma
+2 Circle of Protection: Black
+2 Circle of Protection: Red
+1 Energy Flux
+1 Divine Offering
+2 Red Elemental Blast
+3 Blue Elemental Blast
+1 Shahrazad
+1 Dust to Dust
+

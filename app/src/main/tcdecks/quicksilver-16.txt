@@ -1,0 +1,39 @@
+Main
+4 Erhnam Djinn
+4 Kird Ape
+4 Serendib Efreet
+1 Ancestral Recall
+2 Shatter
+2 Psionic Blast
+4 Counterspell
+4 Lightning Bolt
+1 Braingeyser
+1 Fireball
+1 Regrowth
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+1 Black Lotus
+1 Chaos Orb
+1 Mox Emerald
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Island
+1 Library of Alexandria
+1 Strip Mine
+2 City of Brass
+4 Mishra's Factory
+4 Taiga
+4 Tropical Island
+4 Volcanic Island
+2 Chain Lightning
+
+Sideboard
+3 Blue Elemental Blast
+2 Control Magic
+4 Nevinyrral's Disk
+3 Red Elemental Blast
+2 Shatter
+1 Spinal Villain
+

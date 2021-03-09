@@ -1,0 +1,33 @@
+Main
+4 Hymn to Tourach
+4 Hypnotic Specter
+4 Order of the Ebon Hand
+1 Mind Twist
+1 Demonic Tutor
+4 Sedge Troll
+4 Dark Ritual
+4 Nevinyrral's Disk
+2 Blood Moon
+2 Shatter
+1 Disintegrate
+4 Lightning Bolt
+1 Chaos Orb
+1 Sol Ring
+1 Mox Jet
+1 Mox Ruby
+1 Volcanic Island
+4 Badlands
+8 Swamp
+4 City of Brass
+4 Strip Mine
+
+Sideboard
+3 Terror
+3 Gloom
+2 City in a Bottle
+1 Energy Flux
+2 Shatter
+1 Shatterstorm
+2 Red Elemental Blast
+1 Blood Moon
+

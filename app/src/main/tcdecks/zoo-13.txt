@@ -1,0 +1,32 @@
+Main
+1 Scavenger Folk
+2 Erhnam Djinn
+2 Ghazbán Ogre
+3 Elvish Archers
+4 Argothian Pixies
+4 Kird Ape
+4 Savannah Lions
+3 Disenchant
+4 Lightning Bolt
+1 Regrowth
+1 Wheel of Fortune
+4 Chain Lightning
+2 Sylvan Library
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+4 City of Brass
+4 Plateau
+4 Savannah
+4 Taiga
+
+Sideboard
+2 Karma
+1 King Suleiman
+2 Circle of Protection: Black
+1 Whirling Dervish
+2 Icatian Javelineers
+1 Disenchant
+2 Dust to Dust
+4 Red Elemental Blast
+

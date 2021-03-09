@@ -1,0 +1,43 @@
+Main
+4 Swords to Plowshares
+4 Disenchant
+2 Armageddon
+1 Chaos Orb
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Braingeyser
+1 Sylvan Library
+1 Regrowth
+4 Birds of Paradise
+4 Llanowar Elves
+4 Serendib Efreet
+4 Erhnam Djinn
+4 Serra Angel
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Library of Alexandria
+1 Strip Mine
+2 City of Brass
+4 Tropical Island
+4 Tundra
+4 Savannah
+1 Plains
+
+Sideboard
+3 Energy Flux
+1 Control Magic
+1 Preacher
+1 Spirit Link
+1 Circle of Protection: Red
+1 Flash Counter
+1 Mana Drain
+2 Psionic Blast
+1 King Suleiman
+1 Whirling Dervish
+2 Blue Elemental Blast
+

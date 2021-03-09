@@ -1,0 +1,37 @@
+Main
+1 Wheel of Fortune
+2 Sylvan Library
+4 Kird Ape
+1 Balance
+1 Sol Ring
+4 Lightning Bolt
+1 Maze of Ith
+1 Fireball
+2 Birds of Paradise
+4 Erhnam Djinn
+4 Savannah Lions
+4 Disenchant
+1 Regrowth
+2 Spirit Link
+3 Chain Lightning
+3 Serra Angel
+3 Swords to Plowshares
+1 Argothian Pixies
+3 Mishra's Factory
+2 Strip Mine
+4 Plateau
+4 Taiga
+2 City of Brass
+2 Savannah
+1 Mountain
+1 Forest
+
+Sideboard
+1 Shatterstorm
+2 Karma
+2 Whirling Dervish
+2 Tranquility
+3 Copper Tablet
+2 Red Elemental Blast
+3 Meekstone
+

@@ -1,0 +1,47 @@
+Main
+1 Mox Sapphire
+1 Mox Ruby
+1 Mox Jet
+1 Mox Pearl
+1 Mox Emerald
+1 Sol Ring
+1 Black Lotus
+1 Fellwar Stone
+1 Chaos Orb
+4 Erhnam Djinn
+3 Su-Chi
+2 Sylvan Library
+4 Counterspell
+4 Lightning Bolt
+1 Mana Drain
+1 Ancestral Recall
+2 Psionic Blast
+2 Shatter
+1 Crumble
+4 Tropical Island
+3 Volcanic Island
+1 Underground Sea
+1 Tundra
+3 City of Brass
+4 Mishra's Factory
+3 Strip Mine
+1 Library of Alexandria
+1 Time Walk
+1 Demonic Tutor
+1 Regrowth
+1 Disintegrate
+1 Mind Twist
+1 Braingeyser
+1 Timetwister
+1 Balance
+
+Sideboard
+2 Control Magic
+3 Red Elemental Blast
+2 Blue Elemental Blast
+1 Crumble
+1 Shatter
+2 Maze of Ith
+2 Tranquility
+2 Ice Storm
+

@@ -1,0 +1,36 @@
+Main
+4 Mishra's Factory
+1 Hammerheim
+1 Mishra's Workshop
+1 Strip Mine
+11 Mountain
+4 Atog
+1 Shivan Dragon
+2 Fireball
+2 Chain Lightning
+1 Wheel of Fortune
+4 Lightning Bolt
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+4 Mana Vault
+1 Chaos Orb
+3 Black Vise
+4 Su-Chi
+4 Juggernaut
+4 Triskelion
+1 Blood Moon
+
+Sideboard
+2 Shatter
+4 Red Elemental Blast
+1 Chain Lightning
+3 Blood Moon
+1 Shivan Dragon
+2 Earthquake
+2 Maze of Ith
+

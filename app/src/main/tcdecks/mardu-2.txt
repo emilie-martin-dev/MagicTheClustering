@@ -1,0 +1,48 @@
+Main
+1 Jayemdae Tome
+4 Juzám Djinn
+4 Hypnotic Specter
+4 Sedge Troll
+4 Swords to Plowshares
+3 Lightning Bolt
+1 Fireball
+1 Chaos Orb
+3 Disenchant
+1 Sinkhole
+1 Armageddon
+1 Demonic Tutor
+1 Mind Twist
+1 Fork
+1 Wheel of Fortune
+1 Ancestral Recall
+1 Time Walk
+3 Fellwar Stone
+1 Mox Ruby
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Pearl
+1 Black Lotus
+1 Sol Ring
+4 Scrubland
+4 Badlands
+3 Swamp
+1 Plains
+1 Strip Mine
+1 Library of Alexandria
+1 Mishra's Factory
+3 City of Brass
+1 Underground Sea
+
+Sideboard
+4 Red Elemental Blast
+1 Disenchant
+1 Divine Offering
+1 Dust to Dust
+1 Greater Realm of Preservation
+1 Armageddon
+1 Chains of Mephistopheles
+2 Underworld Dreams
+1 Terror
+1 Wrath of God
+1 Disrupting Scepter
+

@@ -1,0 +1,37 @@
+Main
+4 Sedge Troll
+2 Uthden Troll
+1 Nevinyrral's Disk
+3 City of Brass
+1 Library of Alexandria
+1 Strip Mine
+1 Sol Ring
+4 Swamp
+4 Plateau
+4 Scrubland
+2 Badlands
+1 Chaos Orb
+1 Jalum Tome
+4 Lightning Bolt
+4 Dark Ritual
+4 Swords to Plowshares
+3 Disenchant
+1 Balance
+4 Hypnotic Specter
+1 Mind Twist
+1 Demonic Tutor
+4 Underworld Dreams
+1 Fireball
+1 Wheel of Fortune
+2 Fellwar Stone
+
+Sideboard
+4 Red Elemental Blast
+2 Circle of Protection: Red
+1 Nevinyrral's Disk
+3 Black Vise
+2 Maze of Ith
+1 Disenchant
+1 Deathgrip
+1 Earthquake
+

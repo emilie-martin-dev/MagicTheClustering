@@ -1,0 +1,42 @@
+Main
+3 Bayou
+4 City of Brass
+1 Library of Alexandria
+1 Strip Mine
+3 Taiga
+4 Tropical Island
+4 Birds of Paradise
+2 Llanowar Elves
+3 Mahamoti Djinn
+1 Nicol Bolas
+3 Shivan Dragon
+4 Triskelion
+1 Vaevictis Asmadi
+1 Ancestral Recall
+1 Black Lotus
+1 Chaos Orb
+3 Concordant Crossroads
+1 Demonic Tutor
+4 Eureka
+1 Mana Vault
+1 Mirror Universe
+1 Mox Emerald
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Recall
+1 Regrowth
+1 Sol Ring
+3 Sylvan Library
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+2 Blue Elemental Blast
+2 City in a Bottle
+2 Earthquake
+3 Gloom
+3 Red Elemental Blast
+3 Shatter
+

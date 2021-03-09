@@ -1,0 +1,48 @@
+Main
+1 Bazaar of Baghdad
+3 City of Brass
+4 Island
+1 Library of Alexandria
+3 Tropical Island
+1 Underground Sea
+4 Volcanic Island
+1 Ancestral Recall
+1 Black Lotus
+1 Braingeyser
+1 Chaos Orb
+2 Counterspell
+1 Demonic Tutor
+1 Fireball
+4 Howling Mine
+1 Hurkyl's Recall
+1 Mana Drain
+1 Mana Short
+2 Mana Vault
+1 Mind Twist
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+3 Recall
+1 Regrowth
+1 Sol Ring
+3 Sylvan Library
+3 Time Vault
+1 Time Walk
+1 Timetwister
+2 Transmute Artifact
+4 Twiddle
+1 Wheel of Fortune
+
+Sideboard
+1 Island
+1 Shivan Dragon
+3 Blue Elemental Blast
+2 Boomerang
+1 Circle of Protection: Red
+2 Hurkyl's Recall
+1 Mana Short
+3 Red Elemental Blast
+1 Tranquility
+

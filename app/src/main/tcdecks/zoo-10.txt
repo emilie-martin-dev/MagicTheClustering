@@ -1,0 +1,38 @@
+Main
+4 Kird Ape
+2 Uthden Troll
+2 Dragon Whelp
+2 Shivan Dragon
+3 Gauntlet of Might
+2 Rock Hydra
+1 Sol Ring
+1 Chaos Orb
+4 Lightning Bolt
+3 Fireball
+2 Disenchant
+2 Spirit Link
+3 Sylvan Library
+1 Mana Vault
+4 Strip Mine
+5 Mountain
+1 Wheel of Fortune
+1 Swords to Plowshares
+1 Regrowth
+1 Mox Ruby
+1 Mox Emerald
+1 Mox Pearl
+4 Taiga
+4 Scrubland
+4 Plateau
+1 Balance
+1 Black Lotus
+
+Sideboard
+1 Earthquake
+1 Swords to Plowshares
+2 Disenchant
+2 Avoid Fate
+2 Circle of Protection: Red
+4 City in a Bottle
+3 Red Elemental Blast
+

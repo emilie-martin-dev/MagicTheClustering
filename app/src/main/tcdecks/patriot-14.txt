@@ -1,0 +1,45 @@
+Main
+4 Savannah Lions
+4 Serendib Efreet
+2 Serra Angel
+3 Disenchant
+1 Jayemdae Tome
+1 Braingeyser
+1 Ancestral Recall
+1 Time Walk
+3 Counterspell
+1 Mana Drain
+1 Balance
+1 Fireball
+4 Lightning Bolt
+3 Swords to Plowshares
+1 Demonic Tutor
+1 Mind Twist
+1 Sol Ring
+1 Chaos Orb
+1 Black Lotus
+1 Mox Ruby
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Pearl
+3 Strip Mine
+3 Mishra's Factory
+3 City of Brass
+1 Library of Alexandria
+3 Volcanic Island
+4 Tundra
+2 Plateau
+2 Scrubland
+
+Sideboard
+2 Blue Elemental Blast
+3 Red Elemental Blast
+1 Swords to Plowshares
+1 Circle of Protection: Red
+1 Circle of Protection: Black
+1 Disenchant
+1 Divine Offering
+1 Dust to Dust
+1 Spirit Link
+3 Black Vise
+

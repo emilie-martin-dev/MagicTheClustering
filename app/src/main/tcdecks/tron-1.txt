@@ -1,0 +1,32 @@
+Main
+4 Triskelion
+4 Su-Chi
+4 Tetravus
+4 Icy Manipulator
+4 Relic Barrier
+4 Howling Mine
+3 Winter Orb
+2 Tawnos's Coffin
+1 Chaos Orb
+1 Sol Ring
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Ruby
+1 Mox Emerald
+1 Mox Pearl
+4 Mishra's Factory
+4 Mishra's Workshop
+4 Strip Mine
+4 Urza's Power Plant
+4 Urza's Tower
+4 Urza's Mine
+
+Sideboard
+3 Black Vise
+3 Nevinyrral's Disk
+3 Disrupting Scepter
+2 Rocket Launcher
+2 City in a Bottle
+2 Ring of Immortals
+

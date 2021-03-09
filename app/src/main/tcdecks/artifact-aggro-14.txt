@@ -1,0 +1,40 @@
+Main
+4 Triskelion
+2 Tetravus
+2 Su-Chi
+4 Black Vise
+4 Ankh of Mishra
+4 Lightning Bolt
+3 Chain Lightning
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+1 Shatter
+1 Chaos Orb
+1 Sol Ring
+1 Fellwar Stone
+1 Mox Sapphire
+1 Black Lotus
+1 Mox Jet
+1 Mox Ruby
+1 Mox Emerald
+1 Mox Pearl
+4 Mishra's Workshop
+4 Volcanic Island
+4 Badlands
+1 City of Brass
+1 Island
+4 Mishra's Factory
+4 Strip Mine
+1 Library of Alexandria
+
+Sideboard
+2 The Abyss
+3 Blood Moon
+3 Red Elemental Blast
+2 City in a Bottle
+2 Hurkyl's Recall
+2 Earthquake
+1 Shatter
+

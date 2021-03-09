@@ -1,0 +1,44 @@
+Main
+1 Mox Ruby
+1 Mox Pearl
+1 Mox Jet
+1 Mox Emerald
+1 Mox Sapphire
+1 Chaos Orb
+2 Jayemdae Tome
+1 Sol Ring
+1 Black Lotus
+1 City in a Bottle
+2 Ivory Tower
+1 Cyclopean Tomb
+4 Air Elemental
+2 Ghost Ship
+2 Control Magic
+1 Steal Artifact
+1 Ancestral Recall
+4 Counterspell
+4 Psionic Blast
+1 Mana Drain
+1 Hurkyl's Recall
+14 Island
+1 Library of Alexandria
+4 Mishra's Factory
+1 Strip Mine
+1 Maze of Ith
+1 Time Walk
+1 Timetwister
+1 Braingeyser
+1 Recall
+1 Transmute Artifact
+
+Sideboard
+4 Black Vise
+2 Ivory Tower
+2 Time Elemental
+1 Steal Artifact
+1 Stasis
+2 Hurkyl's Recall
+1 Boomerang
+1 Volcanic Eruption
+1 Transmute Artifact
+

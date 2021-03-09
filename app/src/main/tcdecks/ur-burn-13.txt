@@ -1,0 +1,40 @@
+Main
+4 Serendib Efreet
+1 Serendib Djinn
+4 Flying Men
+4 Lightning Bolt
+4 Chain Lightning
+3 Psionic Blast
+4 Counterspell
+1 Fireball
+1 Blood Moon
+1 Fork
+1 Chaos Orb
+1 Shatter
+1 Wheel of Fortune
+1 Braingeyser
+1 Mox Ruby
+1 Mox Sapphire
+1 Black Lotus
+1 Sol Ring
+1 Ancestral Recall
+1 Timetwister
+1 Time Walk
+1 Mana Drain
+4 Volcanic Island
+4 Mishra's Factory
+2 City of Brass
+1 Strip Mine
+1 Library of Alexandria
+6 Island
+3 Mountain
+
+Sideboard
+2 Shatter
+2 Earthquake
+3 Red Elemental Blast
+2 Blue Elemental Blast
+2 Blood Moon
+2 Energy Flux
+2 Boomerang
+

@@ -1,0 +1,40 @@
+Main
+4 Power Sink
+4 Serendib Efreet
+3 Atog
+4 Su-Chi
+2 Triskelion
+1 Chaos Orb
+4 Lightning Bolt
+1 Braingeyser
+1 Demonic Tutor
+1 Mind Twist
+2 Fireball
+1 Time Walk
+1 Wheel of Fortune
+1 Ancestral Recall
+3 Black Vise
+1 Strip Mine
+4 Mishra's Factory
+3 Mana Vault
+3 Badlands
+1 Island
+4 Underground Sea
+3 Volcanic Island
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Mox Emerald
+1 Fellwar Stone
+1 Mountain
+1 City of Brass
+
+Sideboard
+4 Gloom
+2 Blue Elemental Blast
+2 Hurkyl's Recall
+2 Psionic Blast
+3 Red Elemental Blast
+2 Earthquake
+

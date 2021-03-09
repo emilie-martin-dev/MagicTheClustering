@@ -1,0 +1,45 @@
+Main
+4 City of Brass
+3 Plains
+3 Island
+1 Underground Sea
+4 Tundra
+1 Mishra's Factory
+1 Strip Mine
+1 Library of Alexandria
+1 Sol Ring
+1 Mox Pearl
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Ruby
+1 Mox Emerald
+1 Black Lotus
+1 Demonic Tutor
+1 Mind Twist
+1 Regrowth
+1 Balance
+1 Chaos Orb
+1 Psionic Blast
+1 Recall
+1 Timetwister
+1 Time Walk
+1 Ancestral Recall
+1 Braingeyser
+4 Savannah Lions
+4 Serendib Efreet
+2 Serra Angel
+4 Swords to Plowshares
+4 Disenchant
+4 Counterspell
+2 Power Sink
+1 Mana Drain
+
+Sideboard
+2 Moat
+3 Dust to Dust
+1 Circle of Protection: Black
+2 Circle of Protection: Red
+2 Spell Blast
+4 Blue Elemental Blast
+1 Greater Realm of Preservation
+

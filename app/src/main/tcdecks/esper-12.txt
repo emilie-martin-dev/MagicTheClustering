@@ -1,0 +1,36 @@
+Main
+4 Hymn to Tourach
+4 Psionic Blast
+4 Swords to Plowshares
+4 Disenchant
+4 Savannah Lions
+4 Order of the Ebon Hand
+4 Serendib Efreet
+4 Scrubland
+4 Underground Sea
+4 City of Brass
+4 Strip Mine
+2 Swamp
+2 Tundra
+1 Demonic Tutor
+1 Mind Twist
+1 Balance
+1 Serra Angel
+1 Ancestral Recall
+1 Time Walk
+1 Chaos Orb
+1 Sol Ring
+1 Black Lotus
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+
+Sideboard
+3 Blue Elemental Blast
+3 Psychic Purge
+2 Flash Counter
+2 Energy Flux
+2 Divine Offering
+2 Spirit Link
+1 Armageddon
+

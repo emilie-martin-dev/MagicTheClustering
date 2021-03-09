@@ -1,0 +1,44 @@
+Main
+3 City of Brass
+7 Island
+1 Library of Alexandria
+1 Maze of Ith
+4 Mishra's Factory
+1 Mountain
+1 Strip Mine
+4 Volcanic Island
+1 Serendib Djinn
+4 Serendib Efreet
+1 Ancestral Recall
+1 Black Lotus
+1 Black Vise
+2 Blood Moon
+1 Braingeyser
+4 Chain Lightning
+1 Chaos Orb
+4 Counterspell
+1 Earthquake
+1 Fireball
+4 Lightning Bolt
+1 Mana Drain
+1 Mox Ruby
+1 Mox Sapphire
+2 Psionic Blast
+1 Recall
+2 Red Elemental Blast
+1 Shatter
+1 Sol Ring
+1 Time Walk
+1 Timetwister
+
+Sideboard
+1 Blood Moon
+2 Blue Elemental Blast
+2 Control Magic
+1 Detonate
+1 Earthquake
+3 Energy Flux
+1 Falling Star
+2 Red Elemental Blast
+2 Shatter
+

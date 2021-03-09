@@ -1,0 +1,41 @@
+Main
+4 City of Brass
+3 Forest
+1 Library of Alexandria
+3 Mishra's Factory
+3 Plains
+4 Savannah
+1 Strip Mine
+4 Birds of Paradise
+4 Erhnam Djinn
+2 Serra Angel
+4 Su-Chi
+1 Ancestral Recall
+3 Armageddon
+1 Black Lotus
+1 Chaos Orb
+1 Demonic Tutor
+4 Disenchant
+1 Fellwar Stone
+1 Mind Twist
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Regrowth
+1 Sol Ring
+4 Swords to Plowshares
+2 Sylvan Library
+1 Time Walk
+
+Sideboard
+4 Whirling Dervish
+2 Circle of Protection: Black
+2 Circle of Protection: Red
+1 Divine Offering
+2 Dust to Dust
+1 Earthquake
+1 Sandstorm
+2 Spirit Link
+

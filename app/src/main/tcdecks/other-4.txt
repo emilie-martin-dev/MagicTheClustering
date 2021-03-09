@@ -1,0 +1,35 @@
+Main
+4 Serendib Efreet
+1 Library of Alexandria
+4 City of Brass
+4 Mishra's Factory
+4 Underground Sea
+4 Strip Mine
+5 Swamp
+1 Urborg
+1 Psionic Blast
+1 Ancestral Recall
+1 Time Walk
+1 Demonic Tutor
+1 Mind Twist
+2 Drain Life
+3 Sinkhole
+4 Order of the Ebon Hand
+3 Nevinyrral's Disk
+4 Hypnotic Specter
+4 Hymn to Tourach
+4 Dark Ritual
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+1 Sol Ring
+1 Chaos Orb
+
+Sideboard
+1 Mesa Pegasus
+3 Blue Elemental Blast
+3 Energy Flux
+3 Gloom
+3 Terror
+2 Ivory Tower
+

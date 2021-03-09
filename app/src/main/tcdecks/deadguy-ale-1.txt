@@ -1,0 +1,33 @@
+Main
+8 Swamp
+4 Scrubland
+4 City of Brass
+4 Mishra's Factory
+1 Strip Mine
+1 Mox Pearl
+1 Sol Ring
+4 Dark Ritual
+4 Hypnotic Specter
+2 Black Knight
+3 Order of the Ebon Hand
+3 Juzám Djinn
+3 Disenchant
+3 Swords to Plowshares
+1 Balance
+4 Sinkhole
+2 Drain Life
+2 Disrupting Scepter
+1 Demonic Tutor
+1 Mind Twist
+1 Greed
+3 Underworld Dreams
+
+Sideboard
+4 Hymn to Tourach
+4 Juggernaut
+1 Swords to Plowshares
+1 Paralyze
+2 Terror
+1 Disenchant
+2 Circle of Protection: Red
+

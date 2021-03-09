@@ -1,0 +1,43 @@
+Main
+4 Underground Sea
+4 Scrubland
+4 Strip Mine
+3 City of Brass
+3 Mishra's Factory
+1 Maze of Ith
+1 Library of Alexandria
+1 Swamp
+1 Black Lotus
+1 Mox Jet
+1 Mox Sapphire
+1 Mox Pearl
+4 Dark Ritual
+4 Swords to Plowshares
+3 Disenchant
+1 Balance
+1 Chaos Orb
+1 Sol Ring
+1 Demonic Tutor
+1 Time Walk
+1 Ancestral Recall
+1 Icy Manipulator
+4 Order of the Ebon Hand
+4 Hypnotic Specter
+1 Royal Assassin
+3 Juzám Djinn
+1 Sengir Vampire
+4 Hymn to Tourach
+1 Mind Twist
+
+Sideboard
+3 Energy Flux
+1 Paralyze
+1 Spirit Link
+1 Disenchant
+1 Nevinyrral's Disk
+1 Control Magic
+2 Blue Elemental Blast
+2 Circle of Protection: Red
+1 City in a Bottle
+2 Psionic Blast
+

@@ -1,0 +1,46 @@
+Main
+2 Serra Angel
+1 Fellwar Stone
+1 Chaos Orb
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Black Lotus
+1 Sol Ring
+4 Jayemdae Tome
+1 Mind Twist
+1 Demonic Tutor
+1 Fireball
+1 Regrowth
+1 Balance
+2 Moat
+4 Disenchant
+4 Swords to Plowshares
+4 Counterspell
+1 Mana Drain
+1 Ancestral Recall
+1 Braingeyser
+1 Timetwister
+1 Recall
+1 Time Walk
+1 Strip Mine
+1 Library of Alexandria
+2 Mishra's Factory
+3 Plains
+2 Island
+1 Underground Sea
+2 Volcanic Island
+4 Tundra
+4 City of Brass
+
+Sideboard
+3 Ivory Tower
+3 Red Elemental Blast
+2 Blue Elemental Blast
+2 Control Magic
+1 Maze of Ith
+2 Divine Offering
+2 Dust to Dust
+

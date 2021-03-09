@@ -1,0 +1,40 @@
+Main
+4 Badlands
+2 City of Brass
+3 Mishra's Factory
+3 Strip Mine
+6 Swamp
+2 Underground Sea
+4 Hypnotic Specter
+4 Juzám Djinn
+3 Order of the Ebon Hand
+1 Sengir Vampire
+1 Ancestral Recall
+1 Black Lotus
+1 Chaos Orb
+2 Dark Ritual
+1 Demonic Tutor
+1 Fireball
+4 Hymn to Tourach
+4 Lightning Bolt
+1 Mind Twist
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+2 Sinkhole
+1 Sol Ring
+1 Time Walk
+1 Timetwister
+3 Underworld Dreams
+1 Wheel of Fortune
+
+Sideboard
+2 Energy Flux
+1 Falling Star
+1 Flashfires
+3 Gloom
+3 Red Elemental Blast
+2 Shatter
+2 Terror
+1 Underworld Dreams
+

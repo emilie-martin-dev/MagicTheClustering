@@ -1,0 +1,28 @@
+Main
+15 Swamp
+1 Urborg
+4 Hymn to Tourach
+4 Dark Ritual
+3 Sengir Vampire
+2 Royal Assassin
+4 Order of the Ebon Hand
+4 Sinkhole
+4 Strip Mine
+4 Mishra's Factory
+4 Paralyze
+3 Black Knight
+4 Hypnotic Specter
+1 Drain Life
+1 Demonic Tutor
+1 Mind Twist
+1 Greed
+
+Sideboard
+4 Terror
+3 Juzám Djinn
+3 Gloom
+1 Drain Life
+2 Nevinyrral's Disk
+1 Royal Assassin
+1 Greed
+

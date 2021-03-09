@@ -1,0 +1,44 @@
+Main
+4 City of Brass
+4 Tundra
+2 Volcanic Island
+3 Island
+3 Strip Mine
+1 Library of Alexandria
+1 Fellwar Stone
+1 Sol Ring
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Counterspell
+1 Mana Drain
+1 Balance
+4 Disenchant
+4 Swords to Plowshares
+2 Moat
+1 Mind Twist
+3 Jayemdae Tome
+2 Serra Angel
+1 Timetwister
+1 Lightning Bolt
+1 Chaos Orb
+1 Fireball
+1 Ancestral Recall
+1 Braingeyser
+1 Time Walk
+1 Regrowth
+1 Demonic Tutor
+1 Recall
+
+Sideboard
+2 Land Tax
+3 Red Elemental Blast
+2 Control Magic
+2 Blue Elemental Blast
+2 Dust to Dust
+2 Ivory Tower
+2 Divine Offering
+

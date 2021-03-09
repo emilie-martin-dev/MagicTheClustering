@@ -1,0 +1,39 @@
+Main
+2 City of Brass
+1 Library of Alexandria
+1 Plains
+4 Savannah
+1 Strip Mine
+4 Tropical Island
+4 Tundra
+4 Birds of Paradise
+4 Erhnam Djinn
+4 Serendib Efreet
+3 Serra Angel
+3 Su-Chi
+1 Ancestral Recall
+3 Armageddon
+1 Black Lotus
+1 Braingeyser
+1 Chaos Orb
+4 Disenchant
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Regrowth
+1 Sol Ring
+4 Swords to Plowshares
+1 Sylvan Library
+1 Time Walk
+1 Timetwister
+
+Sideboard
+3 Maze of Ith
+2 King Suleiman
+2 Whirling Dervish
+2 Control Magic
+4 Divine Offering
+2 Greater Realm of Preservation
+

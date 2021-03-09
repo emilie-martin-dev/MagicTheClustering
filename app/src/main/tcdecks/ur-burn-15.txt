@@ -1,0 +1,40 @@
+Main
+1 Library of Alexandria
+4 Mishra's Factory
+2 City of Brass
+1 Hammerheim
+2 Mountain
+6 Island
+4 Volcanic Island
+1 Strip Mine
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Ruby
+1 Sol Ring
+1 Chaos Orb
+1 Black Vise
+4 Psionic Blast
+4 Chain Lightning
+1 Fireball
+4 Lightning Bolt
+4 Flying Men
+4 Serendib Efreet
+1 Serendib Djinn
+4 Counterspell
+1 Mana Drain
+1 Shatter
+1 Braingeyser
+1 Time Walk
+1 Timetwister
+1 Ancestral Recall
+1 Wheel of Fortune
+
+Sideboard
+3 Red Elemental Blast
+2 Blue Elemental Blast
+2 Shatter
+2 Blood Moon
+3 Energy Flux
+1 Control Magic
+2 Earthquake
+

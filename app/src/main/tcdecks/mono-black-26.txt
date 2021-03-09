@@ -1,0 +1,32 @@
+Main
+1 Library of Alexandria
+1 Maze of Ith
+3 Mishra's Factory
+4 Strip Mine
+11 Swamp
+1 Urborg
+3 Black Knight
+4 Hypnotic Specter
+4 Juzám Djinn
+1 Nightmare
+4 Order of the Ebon Hand
+2 Sengir Vampire
+1 Black Lotus
+1 Chaos Orb
+4 Dark Ritual
+1 Demonic Tutor
+1 Drain Life
+4 Hymn to Tourach
+1 Mind Twist
+1 Mox Jet
+2 Paralyze
+4 Sinkhole
+1 Sol Ring
+
+Sideboard
+1 Royal Assassin
+4 Black Vise
+3 Gloom
+4 Nevinyrral's Disk
+3 Terror
+

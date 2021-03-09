@@ -1,0 +1,40 @@
+Main
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Black Lotus
+1 Sol Ring
+1 Chaos Orb
+1 Mox Emerald
+4 Kird Ape
+4 Serendib Efreet
+3 Erhnam Djinn
+1 Sylvan Library
+4 Lightning Bolt
+1 Ancestral Recall
+1 Crumble
+2 Psionic Blast
+4 Mishra's Factory
+4 Taiga
+3 Volcanic Island
+4 Tropical Island
+3 City of Brass
+1 Bayou
+3 Strip Mine
+4 Chain Lightning
+1 Regrowth
+1 Mind Twist
+1 Braingeyser
+1 Wheel of Fortune
+1 Demonic Tutor
+1 Timetwister
+1 Time Walk
+
+Sideboard
+2 Argothian Pixies
+2 Whirling Dervish
+3 Energy Flux
+2 Control Magic
+2 Blue Elemental Blast
+4 Red Elemental Blast
+

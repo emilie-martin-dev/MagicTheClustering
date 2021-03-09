@@ -1,0 +1,41 @@
+Main
+3 Juzám Djinn
+3 Hypnotic Specter
+3 Serendib Djinn
+4 Order of the Ebon Hand
+1 Sengir Vampire
+2 Sinkhole
+3 Dark Ritual
+4 Hymn to Tourach
+3 Underworld Dreams
+1 Demonic Tutor
+1 Mind Twist
+5 Swamp
+4 Underground Sea
+4 Badlands
+3 City of Brass
+4 Strip Mine
+1 Library of Alexandria
+1 Chaos Orb
+1 Mox Jet
+1 Mox Sapphire
+1 Black Lotus
+1 Sol Ring
+1 Psionic Blast
+1 Terror
+1 Wheel of Fortune
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+
+Sideboard
+1 Earthquake
+1 Terror
+1 Nevinyrral's Disk
+3 Energy Flux
+2 Red Elemental Blast
+1 Blue Elemental Blast
+3 Gloom
+2 Shatter
+1 Sol'kanar the Swamp King
+

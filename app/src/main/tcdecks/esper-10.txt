@@ -1,0 +1,36 @@
+Main
+4 Hypnotic Specter
+4 Serra Angel
+4 Serendib Efreet
+4 Moat
+4 Disenchant
+4 Swords to Plowshares
+4 Hymn to Tourach
+4 Tundra
+4 Scrubland
+4 City of Brass
+4 Underground Sea
+3 Strip Mine
+1 Library of Alexandria
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Pearl
+1 Timetwister
+1 Ancestral Recall
+1 Time Walk
+1 Demonic Tutor
+1 Mind Twist
+1 Chaos Orb
+1 Recall
+1 Sol Ring
+
+Sideboard
+4 Blue Elemental Blast
+3 Boomerang
+1 Mana Drain
+1 Balance
+2 Wrath of God
+1 Nether Void
+3 Dust to Dust
+

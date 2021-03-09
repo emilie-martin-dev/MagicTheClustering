@@ -1,0 +1,50 @@
+Main
+2 Howling Mine
+2 Relic Barrier
+1 Chaos Orb
+1 The Hive
+1 City in a Bottle
+1 Mirror Universe
+1 Winter Orb
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mox Emerald
+1 Black Lotus
+1 Sol Ring
+2 Mana Vault
+3 Fellwar Stone
+3 Sage of Lat-Nam
+3 Su-Chi
+1 Guardian Beast
+4 Counterspell
+1 Ancestral Recall
+1 Mana Drain
+1 Library of Alexandria
+4 Mishra's Factory
+4 Island
+3 Underground Sea
+4 Volcanic Island
+1 Strip Mine
+2 Transmute Artifact
+1 Time Walk
+1 Timetwister
+1 Mind Twist
+1 Fireball
+1 Wheel of Fortune
+1 Braingeyser
+1 Recall
+1 Demonic Tutor
+
+Sideboard
+1 Winter Orb
+1 Mirror Universe
+1 City in a Bottle
+1 Tetravus
+1 Guardian Beast
+3 Gloom
+4 Red Elemental Blast
+2 Maze of Ith
+1 Earthquake
+

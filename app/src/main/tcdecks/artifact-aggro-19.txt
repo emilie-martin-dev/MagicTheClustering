@@ -1,0 +1,41 @@
+Main
+1 City of Brass
+1 Strip Mine
+8 Island
+4 Underground Sea
+3 Volcanic Island
+4 Mishra's Factory
+3 Mana Vault
+1 Sol Ring
+1 Fellwar Stone
+1 Mox Sapphire
+1 Mox Emerald
+1 Mox Ruby
+1 Mirror Universe
+1 Tetravus
+1 City in a Bottle
+1 Mana Drain
+1 Fireball
+4 Counterspell
+3 Copy Artifact
+2 Animate Dead
+1 Wheel of Fortune
+1 Mind Twist
+1 Demonic Tutor
+1 Braingeyser
+1 Jayemdae Tome
+4 Su-Chi
+4 Triskelion
+2 Transmute Artifact
+2 The Abyss
+
+Sideboard
+2 Red Elemental Blast
+2 Blue Elemental Blast
+2 Hurkyl's Recall
+1 Flash Counter
+1 City in a Bottle
+3 Gloom
+3 Maze of Ith
+1 Earthquake
+

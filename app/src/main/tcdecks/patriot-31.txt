@@ -1,0 +1,44 @@
+Main
+1 Library of Alexandria
+4 Tundra
+4 Volcanic Island
+1 Plateau
+1 Plains
+1 Island
+2 City of Brass
+3 Mishra's Factory
+1 Strip Mine
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Pearl
+1 Mox Ruby
+1 Sol Ring
+1 Chaos Orb
+4 Serendib Efreet
+3 Counterspell
+1 Mana Drain
+1 Time Walk
+1 Ancestral Recall
+1 Timetwister
+1 Balance
+3 Black Vise
+1 Jalum Tome
+1 Fireball
+1 Wheel of Fortune
+4 Psionic Blast
+4 Lightning Bolt
+3 Serra Angel
+4 Swords to Plowshares
+4 Disenchant
+
+Sideboard
+3 Red Elemental Blast
+2 Blue Elemental Blast
+1 Circle of Protection: Red
+1 Circle of Protection: Black
+2 City in a Bottle
+2 Control Magic
+1 Divine Offering
+2 Wrath of God
+1 Maze of Ith
+

@@ -1,0 +1,40 @@
+Main
+4 Volcanic Island
+4 Tropical Island
+2 City of Brass
+1 Library of Alexandria
+4 Mishra's Factory
+1 Chaos Orb
+1 Mox Ruby
+1 Mox Sapphire
+1 Mox Emerald
+1 Black Lotus
+1 Ancestral Recall
+1 Time Walk
+1 Fireball
+1 Regrowth
+1 Timetwister
+1 Strip Mine
+1 Sol Ring
+1 Wheel of Fortune
+4 Lightning Bolt
+4 Psionic Blast
+3 Crumble
+2 Su-Chi
+4 Argothian Pixies
+4 Serendib Efreet
+4 Kird Ape
+1 Ice Storm
+4 Taiga
+2 Sylvan Library
+
+Sideboard
+3 Red Elemental Blast
+3 Blue Elemental Blast
+2 Control Magic
+2 Su-Chi
+1 Ice Storm
+1 Island
+1 Hurricane
+2 Disintegrate
+

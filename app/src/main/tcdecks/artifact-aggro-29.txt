@@ -1,0 +1,44 @@
+Main
+1 Atog
+3 Sage of Lat-Nam
+3 Serendib Efreet
+4 Su-Chi
+1 Tetravus
+4 Triskelion
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Ancestral Recall
+1 Fireball
+3 Mana Vault
+1 Mind Twist
+1 Sol Ring
+1 Animate Dead
+1 Braingeyser
+1 Chaos Orb
+4 Copy Artifact
+1 Demonic Tutor
+1 Mana Drain
+1 Time Walk
+2 Psionic Blast
+1 Timetwister
+1 Wheel of Fortune
+2 City of Brass
+1 Island
+1 Library of Alexandria
+4 Mishra's Factory
+1 Mishra's Workshop
+1 Strip Mine
+4 Underground Sea
+4 Volcanic Island
+
+Sideboard
+3 Blue Elemental Blast
+2 Earthquake
+4 Red Elemental Blast
+3 Shatter
+3 Gloom
+

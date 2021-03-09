@@ -1,0 +1,39 @@
+Main
+3 Serra Angel
+3 Preacher
+4 Swords to Plowshares
+2 Spirit Link
+1 Meekstone
+1 Ivory Tower
+1 Fountain of Youth
+2 Land Tax
+1 Mox Jet
+1 Mox Pearl
+1 Fellwar Stone
+1 Sol Ring
+1 Balance
+4 Disenchant
+1 Icy Manipulator
+1 Jade Statue
+1 Chaos Orb
+3 Wrath of God
+2 Jalum Tome
+1 Jayemdae Tome
+1 Disrupting Scepter
+4 Mishra's Factory
+4 Strip Mine
+1 Maze of Ith
+1 Library of Alexandria
+14 Plains
+
+Sideboard
+2 Circle of Protection: Black
+3 Circle of Protection: Red
+2 Brass Man
+2 City in a Bottle
+1 Disrupting Scepter
+1 Dust to Dust
+1 Divine Offering
+2 Karma
+1 Wrath of God
+

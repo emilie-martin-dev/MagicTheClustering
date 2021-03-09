@@ -1,0 +1,43 @@
+Main
+4 Volcanic Island
+2 Badlands
+3 City of Brass
+1 Mishra's Workshop
+4 Strip Mine
+4 Mishra's Factory
+1 Sol Ring
+1 Fellwar Stone
+1 Black Lotus
+1 Mox Ruby
+1 Mox Emerald
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Pearl
+1 Chaos Orb
+1 City in a Bottle
+4 Black Vise
+3 Ankh of Mishra
+1 Demonic Tutor
+1 Wheel of Fortune
+1 Timetwister
+1 Ancestral Recall
+1 Time Walk
+4 Lightning Bolt
+4 Chain Lightning
+1 Fireball
+1 Fork
+2 Psionic Blast
+1 Shatter
+4 Su-Chi
+4 Atog
+
+Sideboard
+2 Blue Elemental Blast
+4 Red Elemental Blast
+2 Gloom
+2 Blood Moon
+2 Shatter
+1 Earthquake
+1 Falling Star
+1 City in a Bottle
+

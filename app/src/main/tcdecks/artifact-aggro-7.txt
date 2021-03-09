@@ -1,0 +1,36 @@
+Main
+2 City of Brass
+4 Mishra's Factory
+3 Strip Mine
+4 Volcanic Island
+2 Mountain
+3 Island
+2 Psionic Blast
+4 Lightning Bolt
+3 Chain Lightning
+4 Black Vise
+1 Sol Ring
+3 Howling Mine
+3 Winter Orb
+4 Relic Barrier
+4 Atog
+3 Serendib Efreet
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Chaos Orb
+1 Wheel of Fortune
+
+Sideboard
+4 Sleight of Mind
+3 Meekstone
+2 Earthquake
+2 Blue Elemental Blast
+4 Red Elemental Blast
+

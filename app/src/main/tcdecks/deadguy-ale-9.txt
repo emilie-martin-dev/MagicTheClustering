@@ -1,0 +1,41 @@
+Main
+4 City of Brass
+1 Maze of Ith
+4 Mishra's Factory
+1 Plains
+4 Scrubland
+1 Strip Mine
+3 Swamp
+2 Underground Sea
+2 Black Knight
+4 Hypnotic Specter
+1 Juzám Djinn
+2 Xenic Poltergeist
+1 Ancestral Recall
+1 Balance
+1 Black Lotus
+4 Dark Ritual
+1 Demonic Tutor
+4 Disenchant
+1 Mind Twist
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+4 Sinkhole
+1 Sol Ring
+4 Swords to Plowshares
+1 Time Walk
+1 Timetwister
+4 Underworld Dreams
+
+Sideboard
+1 Royal Assassin
+2 Xenic Poltergeist
+2 Blue Elemental Blast
+1 Circle of Protection: Red
+2 Divine Offering
+3 Energy Flux
+1 Nevinyrral's Disk
+2 Paralyze
+1 Spirit Link
+

@@ -1,0 +1,25 @@
+Main
+4 Strip Mine
+4 Mishra's Factory
+20 Plains
+4 Savannah Lions
+4 White Knight
+4 Order of Leitbur
+4 Icatian Javelineers
+4 Swords to Plowshares
+4 Disenchant
+3 Armageddon
+1 Balance
+1 Serra Angel
+1 Mox Pearl
+1 Black Lotus
+1 Chaos Orb
+
+Sideboard
+2 Circle of Protection: Black
+2 Circle of Protection: Red
+2 Spirit Link
+2 Divine Offering
+3 Nevinyrral's Disk
+4 Black Vise
+

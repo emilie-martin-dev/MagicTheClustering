@@ -1,0 +1,46 @@
+Main
+1 City of Brass
+1 Library of Alexandria
+4 Mishra's Factory
+1 Plains
+4 Plateau
+1 Strip Mine
+4 Tundra
+3 Volcanic Island
+4 Savannah Lions
+4 Serendib Efreet
+2 Serra Angel
+2 White Knight
+1 Ancestral Recall
+1 Balance
+1 Black Lotus
+3 Chain Lightning
+1 Chaos Orb
+4 Disenchant
+1 Fireball
+3 Lightning Bolt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Psionic Blast
+1 Sol Ring
+3 Swords to Plowshares
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+1 White Knight
+2 Blue Elemental Blast
+1 Circle of Protection: Black
+1 Circle of Protection: Red
+1 Divine Offering
+1 Dust to Dust
+2 Energy Flux
+2 Red Elemental Blast
+2 Sleight of Mind
+1 Swords to Plowshares
+1 Wrath of God
+

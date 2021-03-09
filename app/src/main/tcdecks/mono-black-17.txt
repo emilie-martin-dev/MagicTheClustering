@@ -1,0 +1,31 @@
+Main
+4 Dark Ritual
+4 Hypnotic Specter
+4 Sinkhole
+4 Paralyze
+4 Hymn to Tourach
+4 Order of the Ebon Hand
+2 Royal Assassin
+1 Drain Life
+1 Mind Twist
+1 Demonic Tutor
+1 Chaos Orb
+1 Mox Jet
+1 Black Lotus
+1 Sol Ring
+2 Meekstone
+3 Icy Manipulator
+4 Strip Mine
+4 Mishra's Factory
+1 Urborg
+14 Swamp
+
+Sideboard
+4 Juzám Djinn
+2 Nether Void
+3 Nevinyrral's Disk
+1 Gloom
+2 City in a Bottle
+1 The Tabernacle at Pendrell Vale
+1 Horror of Horrors
+

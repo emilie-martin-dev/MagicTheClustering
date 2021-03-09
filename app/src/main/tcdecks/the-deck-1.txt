@@ -1,0 +1,47 @@
+Main
+1 Library of Alexandria
+1 Strip Mine
+1 Mishra's Factory
+4 City of Brass
+4 Tundra
+4 Underground Sea
+2 Scrubland
+2 Island
+2 Plains
+1 Black Lotus
+1 Mox Pearl
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Ruby
+1 Mox Emerald
+1 Sol Ring
+1 Chaos Orb
+1 Disrupting Scepter
+3 Jayemdae Tome
+1 The Hive
+4 Swords to Plowshares
+4 Disenchant
+1 Divine Offering
+1 Balance
+1 Moat
+4 Counterspell
+1 Mana Drain
+1 Ancestral Recall
+1 Time Walk
+1 Braingeyser
+2 Recall
+1 Power Sink
+1 Demonic Tutor
+1 Mind Twist
+1 Regrowth
+1 Fireball
+
+Sideboard
+1 Ivory Tower
+3 Divine Offering
+1 Wrath of God
+4 Blue Elemental Blast
+1 Circle of Protection: Red
+1 Greed
+4 Hypnotic Specter
+

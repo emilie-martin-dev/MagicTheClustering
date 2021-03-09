@@ -1,0 +1,37 @@
+Main
+1 Library of Alexandria
+4 Mishra's Factory
+1 Plains
+3 Plateau
+1 Strip Mine
+3 Tundra
+3 Volcanic Island
+4 Savannah Lions
+1 Ancestral Recall
+4 Ankh of Mishra
+4 Black Vise
+4 Chain Lightning
+1 Chaos Orb
+2 City in a Bottle
+4 Disenchant
+2 Hurkyl's Recall
+4 Lightning Bolt
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Psionic Blast
+4 Swords to Plowshares
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+3 Blue Elemental Blast
+2 Control Magic
+1 Divine Offering
+1 Dust to Dust
+2 Greater Realm of Preservation
+1 Karma
+3 Red Elemental Blast
+2 Sleight of Mind
+

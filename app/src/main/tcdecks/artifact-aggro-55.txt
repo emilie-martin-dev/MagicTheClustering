@@ -1,0 +1,40 @@
+Main
+1 Black Lotus
+1 Sol Ring
+1 Mox Sapphire
+1 Mox Ruby
+1 Mox Pearl
+1 Mox Jet
+1 Mox Emerald
+1 Mana Vault
+2 Fellwar Stone
+4 Icy Manipulator
+1 City in a Bottle
+1 Chaos Orb
+1 Winter Orb
+4 Su-Chi
+4 Triskelion
+3 Tetravus
+4 Copy Artifact
+1 Ancestral Recall
+4 Mishra's Workshop
+4 Mishra's Factory
+1 City of Brass
+1 Library of Alexandria
+4 Volcanic Island
+4 Underground Sea
+4 Strip Mine
+1 Demonic Tutor
+1 Mind Twist
+1 Timetwister
+1 Time Walk
+1 Braingeyser
+
+Sideboard
+2 City in a Bottle
+3 Gloom
+3 Blood Moon
+4 Red Elemental Blast
+2 Blue Elemental Blast
+1 Swamp
+

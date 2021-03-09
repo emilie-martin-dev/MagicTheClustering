@@ -1,0 +1,39 @@
+Main
+2 City of Brass
+3 Mishra's Factory
+2 Plains
+4 Plateau
+4 Tundra
+4 Volcanic Island
+4 Savannah Lions
+4 Serendib Efreet
+3 White Knight
+1 Ancestral Recall
+1 Balance
+1 Black Lotus
+4 Chain Lightning
+1 Chaos Orb
+4 Disenchant
+4 Lightning Bolt
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Psionic Blast
+1 Sol Ring
+3 Swords to Plowshares
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+2 Preacher
+2 Blue Elemental Blast
+1 Circle of Protection: Black
+1 Circle of Protection: Red
+1 Control Magic
+1 Divine Offering
+1 Dust to Dust
+1 Earthquake
+2 Energy Flux
+3 Red Elemental Blast
+

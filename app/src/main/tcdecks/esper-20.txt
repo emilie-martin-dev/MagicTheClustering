@@ -1,0 +1,37 @@
+Main
+2 Serra Angel
+4 Serendib Efreet
+4 Zephyr Falcon
+4 Hypnotic Specter
+2 Moat
+1 Chaos Orb
+4 Swords to Plowshares
+1 Ancestral Recall
+4 Hymn to Tourach
+1 Balance
+1 Mind Twist
+4 Disenchant
+1 Demonic Tutor
+1 Mox Sapphire
+1 Sol Ring
+1 Mox Jet
+1 Mox Pearl
+1 Black Lotus
+1 Time Walk
+4 Tundra
+4 Underground Sea
+4 Strip Mine
+1 Library of Alexandria
+4 Scrubland
+4 City of Brass
+
+Sideboard
+4 Energy Flux
+1 Spirit Link
+2 Greed
+1 Circle of Protection: Red
+1 Circle of Protection: Black
+1 Control Magic
+4 Blue Elemental Blast
+1 Wrath of God
+

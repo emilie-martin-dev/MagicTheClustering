@@ -1,0 +1,40 @@
+Main
+4 Bayou
+3 City of Brass
+4 Mishra's Factory
+1 Strip Mine
+4 Tropical Island
+4 Underground Sea
+4 Argothian Pixies
+4 Erhnam Djinn
+4 Hypnotic Specter
+1 Serendib Djinn
+1 Su-Chi
+1 Ancestral Recall
+1 Black Lotus
+1 Braingeyser
+1 Chaos Orb
+4 Counterspell
+3 Crumble
+1 Demonic Tutor
+1 Mana Drain
+1 Mind Twist
+1 Mox Emerald
+1 Mox Jet
+1 Mox Sapphire
+3 Psionic Blast
+1 Regrowth
+1 Sol Ring
+2 Sylvan Library
+1 Time Walk
+1 Timetwister
+
+Sideboard
+4 Blue Elemental Blast
+3 Control Magic
+1 Crumble
+1 Psionic Blast
+1 Recall
+3 Terror
+2 Tranquility
+

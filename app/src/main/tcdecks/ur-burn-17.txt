@@ -1,0 +1,46 @@
+Main
+1 Mana Drain
+3 Counterspell
+3 Power Sink
+4 Lightning Bolt
+3 Chain Lightning
+4 Psionic Blast
+3 Fireball
+1 Chaos Orb
+1 Maze of Ith
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+1 Braingeyser
+1 Demonic Tutor
+1 Mind Twist
+1 Recall
+4 Serendib Efreet
+1 Sol'kanar the Swamp King
+1 Shivan Dragon
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Library of Alexandria
+1 City of Brass
+4 Volcanic Island
+4 Underground Sea
+3 Badlands
+2 Island
+1 Strip Mine
+
+Sideboard
+3 Control Magic
+1 Disrupting Scepter
+1 Gwendlyn Di Corci
+1 Jayemdae Tome
+1 Nevinyrral's Disk
+3 Red Elemental Blast
+3 Shatter
+2 Stone Rain
+

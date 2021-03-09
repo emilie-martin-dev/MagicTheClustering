@@ -1,0 +1,40 @@
+Main
+1 Scavenger Folk
+3 Birds of Paradise
+1 Regrowth
+2 Sylvan Library
+3 Argothian Pixies
+1 Shatter
+2 Fireball
+1 Demonic Tutor
+4 Kird Ape
+4 Lightning Bolt
+2 Serendib Efreet
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Psionic Blast
+2 Erhnam Djinn
+1 Mana Drain
+2 Counterspell
+1 Chaos Orb
+1 Sol Ring
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Black Lotus
+1 Mox Emerald
+2 City of Brass
+1 Strip Mine
+4 Mishra's Factory
+1 Island
+3 Forest
+2 Volcanic Island
+3 Taiga
+3 Volcanic Island
+1 Bayou
+
+Sideboard
+

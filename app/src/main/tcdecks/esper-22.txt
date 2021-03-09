@@ -1,0 +1,45 @@
+Main
+2 City in a Bottle
+1 Mox Sapphire
+1 Black Lotus
+4 Ivory Tower
+1 Sol Ring
+1 Mox Jet
+1 Chaos Orb
+1 Mox Pearl
+4 Serra Angel
+2 Sengir Vampire
+1 Mahamoti Djinn
+2 Moat
+4 Land Tax
+1 Ancestral Recall
+2 Counterspell
+2 Swords to Plowshares
+1 Mana Drain
+4 Disenchant
+3 Scrubland
+5 Plains
+3 Tundra
+1 Swamp
+3 Island
+1 Library of Alexandria
+2 Strip Mine
+1 Braingeyser
+1 Recall
+1 Demonic Tutor
+1 Balance
+1 Time Walk
+1 Timetwister
+1 Mind Twist
+
+Sideboard
+1 Disrupting Scepter
+1 Circle of Protection: Red
+1 Moat
+1 Greed
+1 Divine Offering
+2 Swords to Plowshares
+3 Sleight of Mind
+3 Dust to Dust
+2 Armageddon
+

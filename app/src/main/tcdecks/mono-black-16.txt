@@ -1,0 +1,39 @@
+Main
+1 Library of Alexandria
+4 Mishra's Factory
+4 Scrubland
+6 Swamp
+4 Strip Mine
+1 Urborg
+3 Black Knight
+4 Hypnotic Specter
+2 Juzám Djinn
+2 Sengir Vampire
+2 Su-Chi
+1 Balance
+1 Black Lotus
+1 Chaos Orb
+4 Dark Ritual
+1 Demonic Tutor
+4 Disenchant
+1 Mind Twist
+1 Mox Jet
+1 Mox Pearl
+4 Sinkhole
+1 Sol Ring
+4 Swords to Plowshares
+3 Underworld Dreams
+
+Sideboard
+1 Maze of Ith
+1 Hypnotic Specter
+1 Circle of Protection: Black
+3 Circle of Protection: Red
+1 Divine Offering
+1 Drain Life
+2 Nevinyrral's Disk
+1 Paralyze
+1 Spirit Link
+2 Terror
+1 Underworld Dreams
+

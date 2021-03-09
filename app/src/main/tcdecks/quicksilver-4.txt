@@ -1,0 +1,38 @@
+Main
+1 Island
+3 Volcanic Island
+4 Tropical Island
+3 Taiga
+3 City of Brass
+4 Mishra's Factory
+1 Library of Alexandria
+1 Strip Mine
+3 Fellwar Stone
+1 Mox Sapphire
+1 Sol Ring
+4 Serendib Efreet
+4 Erhnam Djinn
+4 Kird Ape
+1 Mana Drain
+3 Counterspell
+1 Fork
+1 Sylvan Library
+1 Wheel of Fortune
+1 Braingeyser
+4 Lightning Bolt
+4 Chain Lightning
+3 Psionic Blast
+1 Recall
+1 Regrowth
+1 Nevinyrral's Disk
+1 Black Vise
+
+Sideboard
+3 Red Elemental Blast
+2 Blue Elemental Blast
+3 Shatter
+2 Tranquility
+2 Control Magic
+1 Maze of Ith
+2 Nevinyrral's Disk
+

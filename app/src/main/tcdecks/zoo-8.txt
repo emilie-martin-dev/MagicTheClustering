@@ -1,0 +1,40 @@
+Main
+1 Mana Drain
+2 Counterspell
+2 Power Sink
+4 Lightning Bolt
+4 Psionic Blast
+1 Fireball
+2 Shatter
+1 Chaos Orb
+1 Maze of Ith
+1 Ancestral Recall
+1 Time Walk
+2 Sylvan Library
+1 Regrowth
+4 Argothian Pixies
+4 Serendib Efreet
+3 Erhnam Djinn
+1 Shivan Dragon
+1 Black Lotus
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Library of Alexandria
+4 City of Brass
+3 Tropical Island
+3 Volcanic Island
+3 Taiga
+1 Strip Mine
+4 Mishra's Factory
+
+Sideboard
+3 Blue Elemental Blast
+3 Energy Flux
+2 Fireball
+4 Red Elemental Blast
+3 Tranquility
+

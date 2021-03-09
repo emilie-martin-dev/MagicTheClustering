@@ -1,0 +1,41 @@
+Main
+3 City of Brass
+1 Island
+1 Library of Alexandria
+4 Mishra's Factory
+2 Plains
+3 Savannah
+1 Strip Mine
+3 Tropical Island
+3 Tundra
+4 Argothian Pixies
+2 Erhnam Djinn
+4 Savannah Lions
+4 Serendib Efreet
+2 Serra Angel
+1 Ancestral Recall
+1 Black Lotus
+1 Braingeyser
+1 Chaos Orb
+4 Disenchant
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Sapphire
+3 Psionic Blast
+1 Regrowth
+1 Sol Ring
+4 Swords to Plowshares
+1 Sylvan Library
+1 Time Walk
+1 Timetwister
+
+Sideboard
+2 Armageddon
+1 Balance
+3 Blue Elemental Blast
+1 Circle of Protection: Red
+2 Control Magic
+3 Energy Flux
+2 Spirit Link
+1 Wrath of God
+

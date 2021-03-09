@@ -1,0 +1,36 @@
+Main
+4 Dark Ritual
+2 Terror
+1 Demonic Tutor
+1 Mind Twist
+4 Hymn to Tourach
+2 Sinkhole
+4 Drain Life
+4 Syphon Soul
+2 Paralyze
+1 The Abyss
+4 The Rack
+1 Sol Ring
+1 Fellwar Stone
+1 Chaos Orb
+4 Yotian Soldier
+1 Serpent Generator
+11 Swamp
+4 Mishra's Factory
+4 Strip Mine
+2 Maze of Ith
+1 Urborg
+1 Bottomless Vault
+
+Sideboard
+3 Darkness
+2 Terror
+1 Paralyze
+1 Oubliette
+2 Takklemaggot
+1 Curse Artifact
+1 Pestilence
+1 Aeolipile
+1 Skull of Orm
+2 Nevinyrral's Disk
+

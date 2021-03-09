@@ -1,0 +1,38 @@
+Main
+3 Icy Manipulator
+2 Candelabra of Tawnos
+1 Forcefield
+1 Chaos Orb
+1 Sol Ring
+1 Mana Vault
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Ruby
+1 Mox Jet
+1 Mox Pearl
+1 Mox Emerald
+4 Su-Chi
+4 Triskelion
+2 Tetravus
+3 Sage of Lat-Nam
+3 Copy Artifact
+1 Ancestral Recall
+10 Island
+3 Strip Mine
+3 Mishra's Factory
+4 Mishra's Workshop
+1 Library of Alexandria
+1 Timetwister
+1 Time Walk
+2 Transmute Artifact
+4 Reconstruction
+
+Sideboard
+2 Nevinyrral's Disk
+2 City in a Bottle
+2 Golgothian Sylex
+1 Tetravus
+3 Blue Elemental Blast
+3 Hurkyl's Recall
+2 Psionic Blast
+

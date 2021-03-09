@@ -1,0 +1,38 @@
+Main
+4 Argothian Pixies
+1 Erhnam Djinn
+4 Kird Ape
+3 Preacher
+4 Savannah Lions
+1 Bazaar of Baghdad
+2 City of Brass
+2 Mishra's Factory
+4 Plateau
+4 Savannah
+4 Strip Mine
+4 Taiga
+1 Balance
+3 Chain Lightning
+1 Chaos Orb
+3 Disenchant
+1 Divine Offering
+4 Lightning Bolt
+1 Mox Pearl
+1 Mox Ruby
+1 Regrowth
+4 Swords to Plowshares
+2 Sylvan Library
+1 Wheel of Fortune
+
+Sideboard
+2 Circle of Protection: Black
+1 Circle of Protection: Red
+1 Crumble
+1 Divine Offering
+1 Dust to Dust
+1 Hurricane
+1 King Suleiman
+1 Meekstone
+4 Red Elemental Blast
+2 Thunder Spirit
+

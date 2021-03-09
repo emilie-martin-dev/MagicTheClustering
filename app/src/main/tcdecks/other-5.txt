@@ -1,0 +1,38 @@
+Main
+1 Library of Alexandria
+1 Strip Mine
+1 Mishra's Workshop
+2 City of Brass
+4 Badlands
+4 Underground Sea
+4 Volcanic Island
+2 Diamond Valley
+1 Swamp
+1 Black Lotus
+1 Sol Ring
+1 Mox Pearl
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Ruby
+1 Mox Emerald
+4 Mana Vault
+1 Chaos Orb
+4 Su-Chi
+4 Triskelion
+3 Sacrifice
+4 Rukh Egg
+2 Red Elemental Blast
+1 Demonic Tutor
+1 Mind Twist
+1 Time Walk
+1 Ancestral Recall
+4 Animate Dead
+4 Fireball
+
+Sideboard
+4 Gloom
+4 Hurkyl's Recall
+3 The Abyss
+2 Red Elemental Blast
+2 Tetravus
+

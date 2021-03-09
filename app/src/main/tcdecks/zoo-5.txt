@@ -1,0 +1,37 @@
+Main
+1 Mox Emerald
+1 Chaos Orb
+2 Wyluli Wolf
+2 Argothian Pixies
+3 Emerald Dragonfly
+4 Scryb Sprites
+2 Kird Ape
+3 Scavenger Folk
+4 Llanowar Elves
+2 Sylvan Library
+3 Giant Growth
+4 Lightning Bolt
+4 Strip Mine
+4 Mishra's Factory
+3 City of Brass
+1 Badlands
+4 Taiga
+1 Bayou
+2 Forest
+2 Pendelhaven
+3 Ice Storm
+1 Mind Twist
+1 Regrowth
+1 Disintegrate
+3 Chain Lightning
+
+Sideboard
+1 Scavenger Folk
+2 Concordant Crossroads
+3 Terror
+3 Artifact Blast
+1 Shatter
+2 Maze of Ith
+1 Falling Star
+2 Tranquility
+

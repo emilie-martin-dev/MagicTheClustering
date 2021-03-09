@@ -1,0 +1,42 @@
+Main
+4 Serendib Efreet
+4 Black Vise
+4 Lightning Bolt
+4 Chain Lightning
+3 Psionic Blast
+4 Counterspell
+2 Shatter
+1 Ancestral Recall
+1 Timetwister
+1 Time Walk
+1 Braingeyser
+1 Mana Drain
+1 Fireball
+1 Wheel of Fortune
+1 Demonic Tutor
+1 Mind Twist
+1 Chaos Orb
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+1 Black Lotus
+1 Sol Ring
+1 Strip Mine
+1 Library of Alexandria
+1 Badlands
+4 Volcanic Island
+4 Mishra's Factory
+3 City of Brass
+6 Island
+
+Sideboard
+2 Red Elemental Blast
+2 Blue Elemental Blast
+2 Psychic Purge
+1 Earthquake
+2 Artifact Blast
+1 Shatter
+2 Energy Flux
+1 Shatterstorm
+2 Blood Moon
+

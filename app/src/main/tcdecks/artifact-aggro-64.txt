@@ -1,0 +1,40 @@
+Main
+3 City of Brass
+2 Island
+4 Mishra's Factory
+1 Plains
+3 Plateau
+1 Strip Mine
+4 Volcanic Island
+4 Atog
+1 Ancestral Recall
+4 Ankh of Mishra
+1 Balance
+1 Black Lotus
+4 Black Vise
+2 Blood Moon
+3 Chain Lightning
+1 Chaos Orb
+2 City in a Bottle
+2 Disenchant
+4 Lightning Bolt
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+4 Psionic Blast
+1 Sol Ring
+2 Stone Rain
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+1 Blood Moon
+2 Circle of Protection: Red
+2 Disenchant
+3 Gloom
+1 Jayemdae Tome
+3 Karma
+1 Mox Jet
+2 Red Elemental Blast
+

@@ -1,0 +1,39 @@
+Main
+2 City of Brass
+2 Pendelhaven
+4 Taiga
+4 Volcanic Island
+3 Mountain
+1 Strip Mine
+1 Hammerheim
+3 Goblin King
+2 Ball Lightning
+1 Wheel of Fortune
+1 Timetwister
+1 Sylvan Library
+1 Fork
+1 Regrowth
+3 Scarwood Goblins
+1 Time Walk
+1 Ancestral Recall
+1 Mox Emerald
+1 Mox Ruby
+1 Mox Sapphire
+1 Black Lotus
+1 Fireball
+1 Goblin Artisans
+4 Goblin Balloon Brigade
+4 Goblins of the Flarg
+4 Chain Lightning
+4 Lightning Bolt
+4 Goblin Grenade
+
+Sideboard
+1 Forest
+1 Shatterstorm
+3 Shatter
+3 Blood Moon
+2 Tranquility
+1 Chaos Orb
+4 Red Elemental Blast
+

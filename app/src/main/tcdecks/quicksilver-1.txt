@@ -1,0 +1,35 @@
+Main
+3 Erhnam Djinn
+4 Kird Ape
+4 Serendib Efreet
+3 Birds of Paradise
+3 Counterspell
+1 Wheel of Fortune
+1 Regrowth
+4 Chain Lightning
+4 Lightning Bolt
+3 Psionic Blast
+1 Braingeyser
+1 Regrowth
+1 Sol Ring
+2 Sylvan Library
+1 Chaos Orb
+2 Fireball
+2 Unstable Mutation
+3 City of Brass
+4 Mishra's Factory
+4 Taiga
+4 Volcanic Island
+4 Tropical Island
+1 Strip Mine
+1 Library of Alexandria
+1 Maze of Ith
+
+Sideboard
+2 Control Magic
+1 Shatterstorm
+3 Red Elemental Blast
+3 Whirling Dervish
+4 Nevinyrral's Disk
+2 Shatter
+

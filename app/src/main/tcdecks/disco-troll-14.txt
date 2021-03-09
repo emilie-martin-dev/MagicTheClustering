@@ -1,0 +1,35 @@
+Main
+4 Hypnotic Specter
+4 Order of the Ebon Hand
+4 Sedge Troll
+4 Dark Ritual
+4 Lightning Bolt
+1 Ancestral Recall
+1 Demonic Tutor
+1 Fireball
+1 Mind Twist
+4 Hymn to Tourach
+1 Time Walk
+2 Blood Moon
+1 Chaos Orb
+1 Mox Jet
+1 Mox Sapphire
+1 Sol Ring
+4 Nevinyrral's Disk
+1 Black Lotus
+1 Volcanic Island
+1 Underground Sea
+4 Badlands
+3 City of Brass
+4 Strip Mine
+7 Swamp
+
+Sideboard
+3 Red Elemental Blast
+1 Blood Moon
+2 Shatter
+1 Shatterstorm
+3 Gloom
+3 Terror
+2 Energy Flux
+

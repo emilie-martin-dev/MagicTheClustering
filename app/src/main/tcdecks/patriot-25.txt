@@ -1,0 +1,38 @@
+Main
+3 Icatian Javelineers
+4 Order of Leitbur
+4 Savannah Lions
+4 Serendib Efreet
+4 City of Brass
+1 Library of Alexandria
+2 Plains
+4 Plateau
+3 Strip Mine
+4 Tundra
+1 Ancestral Recall
+1 Balance
+1 Black Lotus
+3 Chain Lightning
+1 Chaos Orb
+4 Disenchant
+1 Fireball
+4 Lightning Bolt
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Psionic Blast
+1 Sol Ring
+3 Swords to Plowshares
+1 Time Walk
+1 Wheel of Fortune
+
+Sideboard
+3 Blue Elemental Blast
+2 Circle of Protection: Black
+1 Circle of Protection: Red
+1 Divine Offering
+2 Dust to Dust
+1 Energy Flux
+4 Red Elemental Blast
+1 Swords to Plowshares
+

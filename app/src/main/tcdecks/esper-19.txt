@@ -1,0 +1,36 @@
+Main
+1 Mana Drain
+4 Swords to Plowshares
+4 Disenchant
+1 Chaos Orb
+3 Control Magic
+1 Mind Twist
+1 Demonic Tutor
+1 Ancestral Recall
+1 Time Walk
+1 Braingeyser
+4 Savannah Lions
+4 Order of Leitbur
+4 Serendib Efreet
+1 Black Lotus
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Sol Ring
+1 Library of Alexandria
+4 Mishra's Factory
+4 City of Brass
+4 Tundra
+2 Underground Sea
+5 Plains
+1 Island
+
+Sideboard
+2 Circle of Protection: Black
+3 Circle of Protection: Red
+2 Divine Offering
+3 Dust to Dust
+1 Serra Angel
+3 Aeolipile
+1 Control Magic
+

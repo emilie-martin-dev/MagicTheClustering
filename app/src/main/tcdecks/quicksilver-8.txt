@@ -1,0 +1,37 @@
+Main
+4 Kird Ape
+2 Fireball
+1 Wheel of Fortune
+4 Lightning Bolt
+3 Chain Lightning
+4 Serendib Efreet
+4 Psionic Blast
+1 Ancestral Recall
+1 Timetwister
+1 Time Walk
+1 Sylvan Library
+4 Argothian Pixies
+4 Erhnam Djinn
+1 Regrowth
+1 Sol Ring
+1 Mox Emerald
+1 Mox Ruby
+1 Mox Sapphire
+1 Black Lotus
+1 Chaos Orb
+4 Taiga
+1 Library of Alexandria
+4 Mishra's Factory
+3 City of Brass
+3 Volcanic Island
+4 Tropical Island
+
+Sideboard
+2 Shatter
+2 Shatterstorm
+3 Blue Elemental Blast
+3 Red Elemental Blast
+1 Control Magic
+2 Black Vise
+2 Tranquility
+

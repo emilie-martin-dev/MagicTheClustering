@@ -1,0 +1,28 @@
+Main
+4 Plateau
+4 Strip Mine
+2 City of Brass
+13 Mountain
+4 Goblin Balloon Brigade
+4 Goblins of the Flarg
+3 Goblin Digging Team
+3 Ball Lightning
+2 Goblin King
+4 Goblin Grenade
+4 Lightning Bolt
+4 Chain Lightning
+2 Fork
+1 Fireball
+1 Pyrotechnics
+2 Black Vise
+1 Wheel of Fortune
+2 Blood Lust
+
+Sideboard
+4 Disenchant
+3 Red Elemental Blast
+3 Shatterstorm
+2 Swords to Plowshares
+2 Nevinyrral's Disk
+1 Maze of Ith
+

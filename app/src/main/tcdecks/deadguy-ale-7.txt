@@ -1,0 +1,37 @@
+Main
+4 Order of the Ebon Hand
+4 Hypnotic Specter
+3 Sedge Troll
+2 Sengir Vampire
+4 Lightning Bolt
+1 Disintegrate
+1 Demonic Tutor
+1 Mind Twist
+1 Mox Jet
+1 Mox Pearl
+1 Sol Ring
+1 Chaos Orb
+4 Dark Ritual
+4 Hymn to Tourach
+3 Disenchant
+3 Swords to Plowshares
+1 Balance
+4 City of Brass
+4 Badlands
+3 Swamp
+1 Plateau
+4 Scrubland
+4 Strip Mine
+1 Library of Alexandria
+
+Sideboard
+2 Red Elemental Blast
+1 Disenchant
+1 Swords to Plowshares
+2 Dust to Dust
+2 Terror
+1 Drain Life
+2 City in a Bottle
+1 Shatterstorm
+3 Underworld Dreams
+

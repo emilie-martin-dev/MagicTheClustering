@@ -1,0 +1,47 @@
+Main
+1 Chaos Orb
+1 Mirror Universe
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Mox Emerald
+1 Sol Ring
+1 Black Lotus
+2 Fellwar Stone
+2 Jayemdae Tome
+1 Shivan Dragon
+2 Serra Angel
+1 Ancestral Recall
+1 Mana Drain
+4 Counterspell
+4 Swords to Plowshares
+4 Disenchant
+4 City of Brass
+4 Tundra
+2 Underground Sea
+2 Plains
+1 Strip Mine
+1 Library of Alexandria
+4 Volcanic Island
+4 Mishra's Factory
+1 Island
+1 Fireball
+1 Balance
+1 Braingeyser
+1 Demonic Tutor
+1 Mind Twist
+1 Recall
+1 Time Walk
+1 Timetwister
+
+Sideboard
+1 City in a Bottle
+2 Circle of Protection: Red
+2 Energy Flux
+3 Blue Elemental Blast
+4 Red Elemental Blast
+1 Divine Offering
+1 Maze of Ith
+1 Dust to Dust
+

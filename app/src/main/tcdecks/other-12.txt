@@ -1,0 +1,43 @@
+Main
+1 Hammerheim
+3 Island
+1 Library of Alexandria
+1 Maze of Ith
+4 Mishra's Factory
+4 Mountain
+1 Strip Mine
+1 Tolaria
+4 Volcanic Island
+1 Dragon Whelp
+2 Granite Gargoyle
+1 Mahamoti Djinn
+1 Shivan Dragon
+2 Su-Chi
+1 Two-Headed Giant of Foriys
+1 Ydwen Efreet
+1 Ancestral Recall
+1 Black Lotus
+4 Black Vise
+4 Chain Lightning
+1 Chaos Orb
+3 Fireball
+2 Fork
+4 Lightning Bolt
+1 Mox Ruby
+1 Mox Sapphire
+4 Psionic Blast
+2 Shatter
+1 Sol Ring
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+1 Mountain Yeti
+2 Su-Chi
+1 Mana Clash
+4 Mind Bomb
+3 Nevinyrral's Disk
+3 Psychic Purge
+1 Shatter
+

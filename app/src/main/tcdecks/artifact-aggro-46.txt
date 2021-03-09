@@ -1,0 +1,43 @@
+Main
+1 Library of Alexandria
+4 Strip Mine
+4 Underground Sea
+4 Volcanic Island
+4 Mishra's Factory
+4 Mishra's Workshop
+1 Mox Jet
+1 Mox Sapphire
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Black Lotus
+1 Sol Ring
+2 Sage of Lat-Nam
+4 Su-Chi
+4 Triskelion
+3 Juggernaut
+2 Icy Manipulator
+1 Transmute Artifact
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Animate Dead
+1 Demonic Tutor
+1 Mind Twist
+1 City in a Bottle
+1 Chaos Orb
+4 Copy Artifact
+1 Psionic Blast
+2 Lightning Bolt
+1 Wheel of Fortune
+
+Sideboard
+3 Gloom
+4 Red Elemental Blast
+1 Forcefield
+1 Earthquake
+1 Winter Orb
+1 City in a Bottle
+2 Hurkyl's Recall
+2 Blue Elemental Blast
+

@@ -1,0 +1,43 @@
+Main
+4 Hymn to Tourach
+2 Order of the Ebon Hand
+2 Black Knight
+4 Hypnotic Specter
+1 Sol Ring
+1 Chaos Orb
+1 Black Lotus
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Mox Ruby
+2 Swords to Plowshares
+4 Sedge Troll
+4 Lightning Bolt
+1 Fireball
+3 Serendib Efreet
+1 Ancestral Recall
+1 Time Walk
+1 Braingeyser
+1 Recall
+1 Demonic Tutor
+1 Mind Twist
+1 Library of Alexandria
+1 Mishra's Factory
+4 Strip Mine
+4 City of Brass
+4 Underground Sea
+3 Scrubland
+1 Volcanic Island
+4 Badlands
+
+Sideboard
+1 Control Magic
+2 Earthquake
+2 Red Elemental Blast
+3 Disenchant
+2 Blue Elemental Blast
+1 Terror
+1 Swords to Plowshares
+2 City in a Bottle
+1 Maze of Ith
+

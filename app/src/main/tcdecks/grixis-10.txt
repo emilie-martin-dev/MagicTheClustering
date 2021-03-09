@@ -1,0 +1,39 @@
+Main
+1 Badlands
+4 City of Brass
+6 Island
+1 Library of Alexandria
+4 Mishra's Factory
+1 Strip Mine
+4 Volcanic Island
+4 Serendib Efreet
+1 Ancestral Recall
+1 Black Lotus
+3 Blood Moon
+1 Braingeyser
+1 Chaos Orb
+4 Counterspell
+1 Demonic Tutor
+3 Earthquake
+1 Fireball
+4 Lightning Bolt
+1 Mana Drain
+1 Mind Twist
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+2 Power Sink
+4 Psionic Blast
+1 Sol Ring
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+1 Blood Moon
+2 Blue Elemental Blast
+3 Control Magic
+1 Earthquake
+4 Energy Flux
+4 Red Elemental Blast
+

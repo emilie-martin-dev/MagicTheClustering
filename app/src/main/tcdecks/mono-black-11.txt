@@ -1,0 +1,40 @@
+Main
+1 Black Knight
+4 Order of the Ebon Hand
+4 Hypnotic Specter
+4 Su-Chi
+2 Sengir Vampire
+1 Black Lotus
+1 Mox Jet
+1 Mox Pearl
+1 Ancestral Recall
+2 Dark Ritual
+1 Mind Twist
+1 Sol Ring
+4 Swords to Plowshares
+1 Balance
+1 Chaos Orb
+1 Demonic Tutor
+3 Disenchant
+4 Hymn to Tourach
+1 Time Walk
+4 City of Brass
+4 Mishra's Factory
+4 Scrubland
+4 Strip Mine
+1 Swamp
+4 Underground Sea
+1 Urborg
+
+Sideboard
+1 The Rack
+2 Circle of Protection: Red
+1 City in a Bottle
+1 Disenchant
+1 Divine Offering
+2 Sinkhole
+2 Disrupting Scepter
+3 Underworld Dreams
+1 Greed
+1 Library of Alexandria
+

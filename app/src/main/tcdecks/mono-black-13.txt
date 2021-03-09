@@ -1,0 +1,32 @@
+Main
+4 Dark Ritual
+4 Hypnotic Specter
+4 Su-Chi
+1 Royal Assassin
+1 Drain Life
+1 Icy Manipulator
+1 Nevinyrral's Disk
+1 Sol Ring
+1 Chaos Orb
+4 Paralyze
+4 Mishra's Factory
+1 Maze of Ith
+1 Strip Mine
+15 Swamp
+1 Demonic Tutor
+1 Mind Twist
+4 Sinkhole
+1 Urborg
+1 Greed
+4 Evil Presence
+4 Blight
+1 Sengir Vampire
+
+Sideboard
+3 Terror
+3 Gloom
+2 Nevinyrral's Disk
+2 Sengir Vampire
+4 Black Vise
+1 Maze of Ith
+

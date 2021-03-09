@@ -1,0 +1,35 @@
+Main
+2 Black Knight
+4 Order of the Ebon Hand
+4 Hypnotic Specter
+4 Juggernaut
+3 Sengir Vampire
+1 Mox Jet
+1 Mox Pearl
+4 Dark Ritual
+1 Mind Twist
+1 Sol Ring
+3 Swords to Plowshares
+1 Chaos Orb
+1 Demonic Tutor
+3 Disenchant
+1 Drain Life
+4 Hymn to Tourach
+3 City of Brass
+4 Scrubland
+4 Strip Mine
+10 Swamp
+1 Urborg
+
+Sideboard
+1 The Rack
+1 Circle of Protection: Black
+2 Circle of Protection: Red
+1 City in a Bottle
+1 Drain Life
+2 Disrupting Scepter
+3 Underworld Dreams
+1 Greed
+1 Library of Alexandria
+2 Mishra's Factory
+

@@ -1,0 +1,30 @@
+Main
+13 Swamp
+4 Strip Mine
+3 Mishra's Factory
+4 Order of the Ebon Hand
+4 Juzám Djinn
+4 Paralyze
+4 Hypnotic Specter
+1 Library of Alexandria
+1 Black Lotus
+1 Demonic Tutor
+3 Sengir Vampire
+4 Sinkhole
+4 Hymn to Tourach
+1 Urborg
+1 Mox Jet
+1 Mind Twist
+1 Royal Assassin
+3 Dark Ritual
+3 Black Knight
+
+Sideboard
+4 Terror
+3 Gloom
+3 Nevinyrral's Disk
+2 Juggernaut
+1 Ashes to Ashes
+1 Royal Assassin
+1 Drain Life
+

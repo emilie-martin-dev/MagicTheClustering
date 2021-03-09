@@ -1,0 +1,49 @@
+Main
+1 Shivan Dragon
+2 Serra Angel
+4 Disenchant
+4 Lightning Bolt
+4 Swords to Plowshares
+1 Balance
+1 Demonic Tutor
+1 Disintegrate
+1 Fireball
+1 Mind Twist
+1 Wrath of God
+1 Moat
+2 Blood Moon
+2 Land Tax
+1 Chaos Orb
+1 Fountain of Youth
+1 Icy Manipulator
+1 Ivory Tower
+1 Jayemdae Tome
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Sol Ring
+2 Disrupting Scepter
+1 Library of Alexandria
+1 Scrubland
+1 Swamp
+2 Mountain
+3 Badlands
+3 Strip Mine
+4 Plateau
+7 Plains
+
+Sideboard
+2 Red Elemental Blast
+1 Blood Moon
+1 Falling Star
+1 Earthquake
+1 Mountain Yeti
+2 City in a Bottle
+1 Fountain of Youth
+1 Ivory Tower
+1 Circle of Protection: Red
+1 Wrath of God
+1 Dust to Dust
+2 Divine Offering
+

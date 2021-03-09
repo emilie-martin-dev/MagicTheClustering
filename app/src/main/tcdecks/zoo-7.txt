@@ -1,0 +1,38 @@
+Main
+4 Argothian Pixies
+4 Kird Ape
+3 Preacher
+4 Savannah Lions
+2 Bazaar of Baghdad
+1 Mishra's Factory
+4 Plateau
+4 Savannah
+4 Strip Mine
+4 Taiga
+1 Avoid Fate
+1 Balance
+1 Black Lotus
+3 Chain Lightning
+1 Chaos Orb
+3 Disenchant
+4 Lightning Bolt
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Regrowth
+4 Swords to Plowshares
+3 Sylvan Library
+1 Wheel of Fortune
+
+Sideboard
+1 Avoid Fate
+1 Circle of Protection: Red
+1 Disenchant
+2 Dust to Dust
+1 Greater Realm of Preservation
+1 Hurricane
+1 Karma
+4 Red Elemental Blast
+2 Whirling Dervish
+1 Winter Orb
+

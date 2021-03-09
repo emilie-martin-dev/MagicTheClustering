@@ -8,7 +8,7 @@
 
 # Compilation du projet
 
-
+javac -d "build"  */*.java && java -cp "build" magic_clustering.Main (depuis un terminal ouvert dans src/main/java , pensez à créer un repertoire build à coté de jeu et magic_clustering avant de lancer la commande [solution temporaire])
 
 # Structuration du projet
 

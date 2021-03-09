@@ -1,0 +1,33 @@
+Main
+1 City of Brass
+5 Forest
+1 Hammerheim
+3 Mishra's Factory
+4 Mountain
+1 Pendelhaven
+1 Strip Mine
+4 Taiga
+4 Argothian Pixies
+2 Erhnam Djinn
+4 Kird Ape
+4 Llanowar Elves
+4 Scryb Sprites
+4 Chain Lightning
+3 Fireball
+4 Giant Growth
+4 Lightning Bolt
+1 Mox Emerald
+1 Mox Ruby
+1 Regrowth
+1 Sol Ring
+2 Sylvan Library
+1 Wheel of Fortune
+
+Sideboard
+4 Scavenger Folk
+3 Whirling Dervish
+1 Hurricane
+4 Red Elemental Blast
+2 Tranquility
+1 Tsunami
+

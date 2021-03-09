@@ -1,0 +1,35 @@
+Main
+4 Mishra's Factory
+3 Forest
+2 Paralyze
+3 Nether Void
+4 Birds of Paradise
+3 Erhnam Djinn
+4 Bayou
+3 City of Brass
+4 Sinkhole
+4 Crumble
+2 Sengir Vampire
+1 Demonic Tutor
+4 Swamp
+1 Strip Mine
+1 Pendelhaven
+4 Ice Storm
+4 Black Vise
+3 Elves of Deep Shadow
+1 Mox Emerald
+1 Demonic Hordes
+1 Mind Twist
+1 Regrowth
+1 Sol Ring
+1 Sylvan Library
+
+Sideboard
+2 Tsunami
+2 Animate Dead
+3 Terror
+3 Gloom
+2 Storm Seeker
+2 Hurricane
+1 Tranquility
+

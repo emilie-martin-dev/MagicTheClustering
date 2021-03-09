@@ -1,0 +1,44 @@
+Main
+3 Strip Mine
+1 Library of Alexandria
+2 Plateau
+3 Volcanic Island
+4 Tundra
+4 City of Brass
+1 Plains
+1 Island
+1 Mox Jet
+1 Mox Ruby
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Sapphire
+1 Sol Ring
+1 Black Lotus
+1 Chaos Orb
+2 Fellwar Stone
+1 Moat
+3 Swords to Plowshares
+4 Lightning Bolt
+4 Disenchant
+4 Serendib Efreet
+2 Serra Angel
+2 Azure Drake
+4 Counterspell
+1 Mana Drain
+1 Time Walk
+1 Ancestral Recall
+1 Timetwister
+1 Braingeyser
+1 Fireball
+1 Balance
+
+Sideboard
+3 Red Elemental Blast
+1 Moat
+1 Swords to Plowshares
+1 Circle of Protection: Red
+1 Dust to Dust
+2 Blue Elemental Blast
+2 Control Magic
+2 Energy Flux
+

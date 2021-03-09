@@ -1,0 +1,31 @@
+Main
+1 Hammerheim
+10 Mountain
+4 Mishra's Factory
+4 Plateau
+4 Strip Mine
+4 Fireball
+4 Chain Lightning
+4 Lightning Bolt
+4 Blood Moon
+3 Mana Vault
+4 Granite Gargoyle
+4 Shivan Dragon
+2 Orgg
+1 Wheel of Fortune
+1 Fork
+2 Eternal Flame
+1 Sol Ring
+1 Mox Pearl
+1 Mox Ruby
+1 Black Lotus
+1 Chaos Orb
+
+Sideboard
+4 Red Elemental Blast
+4 Disenchant
+2 Shatterstorm
+2 City in a Bottle
+2 Earthquake
+1 Balance
+

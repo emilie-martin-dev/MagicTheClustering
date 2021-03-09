@@ -1,0 +1,44 @@
+Main
+4 Volcanic Island
+4 Tundra
+2 Plateau
+4 City of Brass
+1 Library of Alexandria
+3 Strip Mine
+4 Mishra's Factory
+1 Mox Jet
+1 Mox Emerald
+1 Mox Sapphire
+1 Mox Pearl
+1 Mox Ruby
+1 Black Lotus
+1 Sol Ring
+1 Time Walk
+1 Ancestral Recall
+1 Timetwister
+1 Demonic Tutor
+1 Mind Twist
+1 Chaos Orb
+1 Balance
+1 Wheel of Fortune
+1 Regrowth
+3 Counterspell
+1 Mana Drain
+1 Fireball
+4 Chain Lightning
+4 Lightning Bolt
+2 Psionic Blast
+4 Savannah Lions
+4 Serendib Efreet
+
+Sideboard
+3 Disenchant
+2 Divine Offering
+2 Red Elemental Blast
+2 Blue Elemental Blast
+2 Spirit Link
+1 Control Magic
+1 Wrath of God
+1 Earthquake
+1 Circle of Protection: Black
+

@@ -1,0 +1,40 @@
+Main
+4 Badlands
+4 Bayou
+2 City of Brass
+3 Maze of Ith
+3 Mishra's Factory
+1 Strip Mine
+4 Taiga
+1 Guardian Beast
+3 Juggernaut
+3 Su-Chi
+1 Black Lotus
+1 Chaos Orb
+2 Crumble
+1 Demonic Tutor
+1 Fireball
+4 Ice Storm
+1 Mind Twist
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Nether Void
+1 Regrowth
+4 Sinkhole
+1 Sol Ring
+4 Stone Rain
+1 Sylvan Library
+2 The Abyss
+1 Wheel of Fortune
+
+Sideboard
+2 City in a Bottle
+3 Gloom
+3 Red Elemental Blast
+2 Shatter
+3 Tranquility
+2 Tsunami
+

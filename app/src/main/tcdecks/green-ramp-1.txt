@@ -1,0 +1,35 @@
+Main
+15 Forest
+4 Mishra's Factory
+2 Pendelhaven
+1 Strip Mine
+4 Argothian Pixies
+1 Elves of Deep Shadow
+4 Erhnam Djinn
+1 Force of Nature
+4 Llanowar Elves
+4 Nafs Asp
+3 Scavenger Folk
+2 Whirling Dervish
+1 Avoid Fate
+1 Berserk
+1 Concordant Crossroads
+4 Giant Growth
+1 Hurricane
+4 Ice Storm
+1 Regrowth
+1 Sol Ring
+1 Sylvan Library
+
+Sideboard
+2 Citanul Druid
+1 Cockatrice
+2 Scryb Sprites
+1 Avoid Fate
+2 Crumble
+1 Desert Twister
+3 Hurricane
+1 Titania's Song
+1 Tranquility
+1 Winter Blast
+

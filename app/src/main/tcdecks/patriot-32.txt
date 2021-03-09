@@ -1,0 +1,40 @@
+Main
+1 Library of Alexandria
+4 Tundra
+4 Volcanic Island
+2 Plateau
+1 Plains
+4 Mishra's Factory
+1 Strip Mine
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Pearl
+1 Mox Ruby
+1 Chaos Orb
+4 Counterspell
+1 Mana Drain
+1 Time Walk
+1 Ancestral Recall
+1 Timetwister
+1 Braingeyser
+2 Swords to Plowshares
+4 Disenchant
+1 Balance
+4 Black Vise
+1 Wheel of Fortune
+4 Savannah Lions
+2 Serra Angel
+4 Psionic Blast
+4 Lightning Bolt
+4 Chain Lightning
+
+Sideboard
+3 Serendib Efreet
+3 Red Elemental Blast
+2 Blue Elemental Blast
+2 Divine Offering
+2 Power Sink
+1 Energy Flux
+1 Spirit Link
+1 Swords to Plowshares
+

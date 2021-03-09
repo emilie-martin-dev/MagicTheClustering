@@ -1,0 +1,40 @@
+Main
+4 Bayou
+4 Underground Sea
+1 Swamp
+3 Forest
+3 Mishra's Factory
+4 Strip Mine
+3 City of Brass
+4 Sinkhole
+4 Ice Storm
+2 Evil Presence
+3 Crumble
+1 Chaos Orb
+2 Nether Void
+3 Maze of Ith
+1 Black Lotus
+1 Sol Ring
+1 Mox Emerald
+1 Mox Jet
+4 Birds of Paradise
+2 Sylvan Library
+1 Regrowth
+1 Demonic Tutor
+1 Mind Twist
+1 Ancestral Recall
+1 Time Walk
+3 Juzám Djinn
+3 Erhnam Djinn
+1 Demonic Hordes
+
+Sideboard
+3 Energy Flux
+2 Argothian Pixies
+2 Blue Elemental Blast
+2 Tranquility
+3 Gloom
+1 Control Magic
+1 Paralyze
+1 Terror
+

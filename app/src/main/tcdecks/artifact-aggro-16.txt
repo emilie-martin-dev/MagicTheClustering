@@ -1,0 +1,46 @@
+Main
+3 Atog
+4 Shivan Dragon
+1 Triskelion
+3 Shatter
+4 Lightning Bolt
+2 Fork
+1 Ancestral Recall
+1 Balance
+1 Demonic Tutor
+2 Fireball
+1 Mind Twist
+1 Time Walk
+1 Wheel of Fortune
+2 Blood Moon
+3 Mana Vault
+1 Sol Ring
+1 Black Lotus
+1 Chaos Orb
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+2 Icy Manipulator
+1 City in a Bottle
+3 Volcanic Island
+3 Badlands
+2 City of Brass
+1 Strip Mine
+1 Library of Alexandria
+4 Mishra's Factory
+1 Tundra
+4 Plateau
+
+Sideboard
+1 Tundra
+3 Serra Angel
+2 Moat
+3 Disenchant
+1 Sleight of Mind
+1 City in a Bottle
+3 Red Elemental Blast
+1 Braingeyser
+

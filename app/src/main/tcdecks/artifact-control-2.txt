@@ -1,0 +1,44 @@
+Main
+2 City of Brass
+1 Island
+4 Mishra's Factory
+1 Mishra's Workshop
+1 Strip Mine
+1 Swamp
+4 Underground Sea
+3 Volcanic Island
+3 Juggernaut
+4 Su-Chi
+3 Tetravus
+4 Triskelion
+1 Ancestral Recall
+1 Black Lotus
+1 Braingeyser
+1 Chaos Orb
+1 City in a Bottle
+4 Copy Artifact
+1 Demonic Tutor
+2 Fellwar Stone
+1 Mana Drain
+1 Mana Vault
+1 Mind Twist
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Tawnos's Coffin
+3 The Abyss
+1 Time Walk
+1 Timetwister
+2 Transmute Artifact
+
+Sideboard
+2 Active Volcano
+2 All Hallow's Eve
+1 City in a Bottle
+4 Gloom
+4 Red Elemental Blast
+2 Shatter
+

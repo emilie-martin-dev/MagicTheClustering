@@ -1,0 +1,28 @@
+Main
+4 Granite Gargoyle
+4 Ironclaw Orcs
+4 Savannah Lions
+4 Disenchant
+4 Lightning Bolt
+4 Swords to Plowshares
+1 Wheel of Fortune
+4 Chain Lightning
+3 Blood Moon
+2 City in a Bottle
+1 Sol Ring
+4 Black Vise
+1 Hammerheim
+1 Strip Mine
+3 Mishra's Factory
+4 Plateau
+6 Mountain
+6 Plains
+
+Sideboard
+2 Serra Angel
+3 Spirit Link
+4 Divine Offering
+4 Red Elemental Blast
+1 Balance
+1 Earthquake
+

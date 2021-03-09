@@ -1,0 +1,44 @@
+Main
+4 Serendib Efreet
+2 Serra Angel
+4 Savannah Lions
+1 Mana Drain
+4 Counterspell
+2 Power Sink
+1 Braingeyser
+1 Timetwister
+1 Time Walk
+1 Ancestral Recall
+1 Demonic Tutor
+1 Mind Twist
+1 Balance
+2 Psionic Blast
+1 Sol Ring
+1 Chaos Orb
+4 Disenchant
+4 Swords to Plowshares
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Emerald
+2 City of Brass
+4 Tundra
+1 Underground Sea
+1 Scrubland
+1 Strip Mine
+1 Library of Alexandria
+2 Plains
+2 Island
+4 Mishra's Factory
+
+Sideboard
+2 Control Magic
+3 Blue Elemental Blast
+2 Circle of Protection: Red
+1 Circle of Protection: Black
+4 Divine Offering
+1 Serra Angel
+2 City in a Bottle
+

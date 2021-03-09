@@ -1,0 +1,37 @@
+Main
+4 Hymn to Tourach
+4 Hypnotic Specter
+4 Order of the Ebon Hand
+1 Mind Twist
+1 Demonic Tutor
+1 Fireball
+4 Sedge Troll
+1 Ancestral Recall
+1 Time Walk
+4 Serendib Efreet
+3 Disenchant
+4 Swords to Plowshares
+1 Library of Alexandria
+1 Mox Jet
+1 Mox Pearl
+1 Mox Sapphire
+1 Mox Ruby
+1 Black Lotus
+1 Chaos Orb
+1 Sol Ring
+4 Strip Mine
+4 Underground Sea
+4 City of Brass
+4 Scrubland
+4 Badlands
+
+Sideboard
+4 Red Elemental Blast
+1 Divine Offering
+1 Disenchant
+1 Balance
+1 Circle of Protection: Red
+3 Energy Flux
+3 Blue Elemental Blast
+1 Maze of Ith
+

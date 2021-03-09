@@ -1,0 +1,32 @@
+Main
+1 Hammerheim
+3 Mishra's Factory
+13 Mountain
+4 Strip Mine
+4 Atog
+4 Aeolipile
+4 Ankh of Mishra
+1 Black Lotus
+4 Black Vise
+3 Blood Moon
+4 Chain Lightning
+1 Chaos Orb
+4 Lightning Bolt
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+4 Stone Rain
+1 Wheel of Fortune
+
+Sideboard
+3 City in a Bottle
+1 Earthquake
+1 Fireball
+1 Fork
+4 Psychic Purge
+4 Red Elemental Blast
+1 Shatter
+

@@ -1,0 +1,36 @@
+Main
+3 City of Brass
+3 Mishra's Factory
+4 Taiga
+4 Tropical Island
+4 Volcanic Island
+4 Argothian Pixies
+4 Erhnam Djinn
+4 Kird Ape
+4 Serendib Efreet
+1 Ancestral Recall
+1 Black Lotus
+1 Black Vise
+4 Chain Lightning
+1 Fireball
+4 Lightning Bolt
+1 Mox Emerald
+1 Mox Ruby
+1 Mox Sapphire
+4 Psionic Blast
+1 Regrowth
+1 Sol Ring
+2 Sylvan Library
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+1 Mishra's Factory
+2 Black Vise
+3 Blue Elemental Blast
+1 Control Magic
+3 Red Elemental Blast
+3 Shatter
+2 Tranquility
+

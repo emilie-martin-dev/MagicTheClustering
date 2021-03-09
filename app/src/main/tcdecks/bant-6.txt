@@ -1,0 +1,36 @@
+Main
+4 Savannah Lions
+4 Argothian Pixies
+4 Serendib Efreet
+4 Erhnam Djinn
+4 Counterspell
+4 Disenchant
+4 Swords to Plowshares
+2 Sylvan Library
+1 Mox Emerald
+1 Mox Sapphire
+1 Mox Pearl
+1 Black Lotus
+1 Chaos Orb
+1 Sol Ring
+1 Ancestral Recall
+1 Time Walk
+1 Mana Drain
+1 Regrowth
+4 Tundra
+4 Tropical Island
+3 Savannah
+2 Island
+1 Plains
+2 City of Brass
+1 Strip Mine
+3 Mishra's Factory
+
+Sideboard
+4 Divine Offering
+1 Balance
+2 Spirit Link
+2 Psionic Blast
+2 Control Magic
+4 Blue Elemental Blast
+

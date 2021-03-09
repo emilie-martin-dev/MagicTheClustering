@@ -1,0 +1,42 @@
+Main
+3 Underground Sea
+3 Tundra
+4 Scrubland
+4 Strip Mine
+1 Swamp
+2 Plains
+1 Island
+1 Library of Alexandria
+1 Maze of Ith
+2 City of Brass
+1 Black Lotus
+1 Mox Pearl
+1 Mox Jet
+1 Mox Sapphire
+1 Chaos Orb
+1 Sol Ring
+4 Hypnotic Specter
+4 Serendib Efreet
+2 Sengir Vampire
+4 Dark Ritual
+1 Demonic Tutor
+4 Sinkhole
+3 Disenchant
+3 Swords to Plowshares
+2 Moat
+1 Ancestral Recall
+1 Time Walk
+1 Balance
+1 Mind Twist
+1 Braingeyser
+
+Sideboard
+3 Blue Elemental Blast
+2 Chains of Mephistopheles
+1 Disenchant
+2 Energy Flux
+4 Psychic Purge
+1 Swords to Plowshares
+1 Dust to Dust
+1 Circle of Protection: Red
+

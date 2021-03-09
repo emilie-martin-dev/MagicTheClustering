@@ -1,0 +1,41 @@
+Main
+3 Order of the Ebon Hand
+3 Hypnotic Specter
+2 Juzám Djinn
+2 Sengir Vampire
+2 Sedge Troll
+2 Dark Ritual
+4 Sinkhole
+4 Hymn to Tourach
+1 Mind Twist
+1 Demonic Tutor
+1 Balance
+3 Disenchant
+3 Swords to Plowshares
+4 Lightning Bolt
+1 Chaos Orb
+1 Sol Ring
+1 Mox Pearl
+1 Mox Jet
+1 Mox Ruby
+1 Black Lotus
+1 Urborg
+2 Swamp
+4 Scrubland
+4 Badlands
+2 City of Brass
+3 Mishra's Factory
+3 Strip Mine
+
+Sideboard
+1 Disenchant
+1 Swords to Plowshares
+2 Circle of Protection: Red
+2 Paralyze
+1 Drain Life
+2 City in a Bottle
+1 Terror
+2 Dust to Dust
+1 Disrupting Scepter
+2 Underworld Dreams
+

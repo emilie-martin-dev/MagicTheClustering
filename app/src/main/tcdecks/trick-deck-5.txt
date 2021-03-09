@@ -1,0 +1,38 @@
+Main
+1 Mox Ruby
+1 Mox Jet
+1 Mox Sapphire
+4 Black Vise
+4 Howling Mine
+1 Chaos Orb
+1 Sol Ring
+4 Underworld Dreams
+2 Nether Void
+2 The Abyss
+2 Paralyze
+1 Word of Command
+4 Dark Ritual
+1 Ancestral Recall
+4 City of Brass
+1 Maze of Ith
+1 Island
+4 Strip Mine
+5 Swamp
+3 Badlands
+4 Underground Sea
+1 Library of Alexandria
+1 Demonic Tutor
+4 Sinkhole
+1 Wheel of Fortune
+1 Time Walk
+1 Timetwister
+
+Sideboard
+3 Gloom
+2 Paralyze
+2 Hurkyl's Recall
+2 Shatter
+3 Red Elemental Blast
+1 Flashfires
+2 Earthquake
+

@@ -1,0 +1,37 @@
+Main
+4 City of Brass
+4 Mishra's Factory
+1 Strip Mine
+4 Taiga
+3 Tropical Island
+2 Volcanic Island
+2 Argothian Pixies
+4 Birds of Paradise
+4 Kird Ape
+4 Serendib Efreet
+1 Ancestral Recall
+1 Black Lotus
+4 Chain Lightning
+1 Channel
+1 Chaos Orb
+1 Demonic Tutor
+4 Fireball
+4 Lightning Bolt
+1 Mind Twist
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+2 Psionic Blast
+1 Regrowth
+2 Sylvan Library
+1 Time Walk
+
+Sideboard
+2 Blue Elemental Blast
+2 Control Magic
+4 Disenchant
+2 Energy Flux
+4 Red Elemental Blast
+1 Shatter
+

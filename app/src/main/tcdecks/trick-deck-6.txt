@@ -1,0 +1,39 @@
+Main
+4 Badlands
+4 City of Brass
+1 Library of Alexandria
+4 Maze of Ith
+4 Mishra's Factory
+1 Strip Mine
+2 Swamp
+4 Underground Sea
+1 Ancestral Recall
+1 Balance
+1 Black Lotus
+4 Chain Lightning
+1 Chaos Orb
+4 Copper Tablet
+2 Dark Ritual
+1 Demonic Tutor
+1 Fireball
+4 Lightning Bolt
+1 Mind Twist
+1 Mox Jet
+1 Mox Ruby
+1 Mox Sapphire
+2 Shatter
+1 Sol Ring
+2 The Abyss
+1 Time Walk
+1 Timetwister
+4 Underworld Dreams
+1 Wheel of Fortune
+
+Sideboard
+2 Black Vise
+2 Blue Elemental Blast
+1 Detonate
+4 Gloom
+4 Red Elemental Blast
+2 Shatter
+

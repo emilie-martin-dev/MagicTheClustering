@@ -1,0 +1,35 @@
+Main
+3 Goblin Artisans
+4 Ball Lightning
+4 Goblin Balloon Brigade
+4 Goblins of the Flarg
+1 Ancestral Recall
+4 Lightning Bolt
+1 Demonic Tutor
+1 Regrowth
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+4 Chain Lightning
+4 Goblin Grenade
+1 Black Lotus
+1 Chaos Orb
+1 Mox Ruby
+4 Black Vise
+2 Badlands
+2 Taiga
+4 City of Brass
+4 Plateau
+4 Strip Mine
+4 Volcanic Island
+
+Sideboard
+3 Ydwen Efreet
+2 Blood Moon
+2 Earthquake
+4 Disenchant
+1 Balance
+1 Energy Flux
+1 Psionic Blast
+1 Library of Alexandria
+

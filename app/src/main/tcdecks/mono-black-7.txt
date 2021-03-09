@@ -1,0 +1,38 @@
+Main
+8 Swamp
+1 Urborg
+2 City of Brass
+4 Underground Sea
+4 Mishra's Factory
+1 Mox Sapphire
+1 Mox Jet
+1 Black Lotus
+1 Sol Ring
+1 Library of Alexandria
+1 Strip Mine
+4 Dark Ritual
+4 Sinkhole
+3 Black Knight
+4 Hypnotic Specter
+4 Juzám Djinn
+2 Sengir Vampire
+3 Black Vise
+3 Underworld Dreams
+1 Ancestral Recall
+1 Time Walk
+1 Timetwister
+1 Demonic Tutor
+1 Mind Twist
+1 Chaos Orb
+1 Nevinyrral's Disk
+2 Drain Life
+
+Sideboard
+2 Blue Elemental Blast
+2 Energy Flux
+3 Terror
+3 Icy Manipulator
+3 Gloom
+1 Nevinyrral's Disk
+1 Nether Void
+

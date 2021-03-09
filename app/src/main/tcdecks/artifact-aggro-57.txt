@@ -1,0 +1,43 @@
+Main
+4 Black Vise
+4 Ankh of Mishra
+1 Mox Ruby
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Pearl
+1 Mox Emerald
+1 Black Lotus
+1 Fellwar Stone
+1 Chaos Orb
+1 Sol Ring
+4 Atog
+4 Lightning Bolt
+1 Ancestral Recall
+1 Psionic Blast
+1 Shatter
+1 Hurkyl's Recall
+4 Mishra's Factory
+4 Volcanic Island
+2 Badlands
+4 City of Brass
+4 Strip Mine
+4 Chain Lightning
+2 Earthquake
+1 Timetwister
+1 Time Walk
+1 Demonic Tutor
+1 Regrowth
+1 Wheel of Fortune
+1 Balance
+1 Mind Twist
+
+Sideboard
+2 City in a Bottle
+2 Gloom
+2 Blood Moon
+3 Red Elemental Blast
+1 Hurkyl's Recall
+3 Shatter
+1 Blue Elemental Blast
+1 Psychic Purge
+

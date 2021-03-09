@@ -1,0 +1,39 @@
+Main
+4 Birds of Paradise
+2 Llanowar Elves
+4 Elvish Archers
+4 Erhnam Djinn
+3 Serra Angel
+1 Jasmine Boreal
+3 Armageddon
+1 Icy Manipulator
+1 Regrowth
+4 Swords to Plowshares
+1 Balance
+1 Chaos Orb
+2 Sylvan Library
+4 Disenchant
+2 Land Tax
+1 Sol Ring
+1 Mox Emerald
+1 Mox Pearl
+4 Savannah
+4 Forest
+4 Plains
+4 Strip Mine
+2 City of Brass
+1 Karakas
+1 Library of Alexandria
+
+Sideboard
+2 Dust to Dust
+2 Black Vise
+1 Circle of Protection: Red
+3 Whirling Dervish
+1 Preacher
+1 Divine Offering
+1 Maze of Ith
+2 Spirit Link
+1 Spiritual Sanctuary
+1 Cleanse
+

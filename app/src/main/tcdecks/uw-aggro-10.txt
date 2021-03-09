@@ -1,0 +1,37 @@
+Main
+3 Serra Angel
+4 Savannah Lions
+4 Serendib Efreet
+1 Ancestral Recall
+3 Swords to Plowshares
+3 Disenchant
+4 Lightning Bolt
+4 Psionic Blast
+1 Fireball
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+4 Chain Lightning
+1 Black Lotus
+1 Chaos Orb
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Sol Ring
+1 Library of Alexandria
+1 Strip Mine
+4 Plateau
+2 Tundra
+4 City of Brass
+4 Mishra's Factory
+4 Volcanic Island
+
+Sideboard
+2 Red Elemental Blast
+2 Shatter
+2 Blue Elemental Blast
+4 Black Vise
+3 Nevinyrral's Disk
+1 Serra Angel
+1 Swords to Plowshares
+

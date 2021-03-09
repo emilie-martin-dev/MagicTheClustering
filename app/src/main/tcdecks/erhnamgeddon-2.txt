@@ -1,0 +1,46 @@
+Main
+4 Disenchant
+4 Swords to Plowshares
+2 Serra Angel
+3 Armageddon
+4 Erhnam Djinn
+2 Sylvan Library
+1 Regrowth
+3 Mishra's Factory
+1 Library of Alexandria
+1 Strip Mine
+2 City of Brass
+2 Tropical Island
+2 Tundra
+4 Savannah
+2 Plains
+2 Forest
+4 Birds of Paradise
+2 Argothian Pixies
+1 Mox Jet
+1 Mox Emerald
+1 Mox Pearl
+1 Mox Sapphire
+1 Mox Ruby
+1 Black Lotus
+1 Chaos Orb
+1 Sol Ring
+1 Fellwar Stone
+1 Mind Twist
+1 Demonic Tutor
+1 Fireball
+1 Ancestral Recall
+1 Time Walk
+4 Serendib Efreet
+
+Sideboard
+1 Control Magic
+2 Blue Elemental Blast
+1 Circle of Protection: Black
+2 Circle of Protection: Red
+2 Circle of Protection: Artifacts
+2 Argothian Pixies
+3 Whirling Dervish
+1 Divine Offering
+1 Dust to Dust
+

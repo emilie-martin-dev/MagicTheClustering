@@ -1,0 +1,33 @@
+Main
+1 Chaos Orb
+1 Sol Ring
+1 Mox Pearl
+1 Mox Emerald
+4 Savannah Lions
+2 Birds of Paradise
+2 Serra Angel
+4 Argothian Pixies
+4 Llanowar Elves
+4 Erhnam Djinn
+2 Sylvan Library
+4 Disenchant
+4 Swords to Plowshares
+3 Forest
+1 Pendelhaven
+4 Plains
+4 Savannah
+4 City of Brass
+4 Strip Mine
+1 Balance
+1 Regrowth
+4 Ice Storm
+
+Sideboard
+3 Whirling Dervish
+2 Circle of Protection: Red
+2 Karma
+2 Divine Offering
+2 Crumble
+2 Armageddon
+2 Tranquility
+

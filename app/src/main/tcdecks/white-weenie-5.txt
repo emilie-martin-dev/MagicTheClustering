@@ -1,0 +1,29 @@
+Main
+10 Plains
+4 Plateau
+3 City of Brass
+1 Black Lotus
+1 Mox Pearl
+1 Mox Ruby
+1 Sol Ring
+4 Tundra Wolves
+4 Savannah Lions
+4 White Knight
+4 Thunder Spirit
+3 Serra Angel
+4 Crusade
+4 Swords to Plowshares
+4 Disenchant
+4 Lightning Bolt
+3 Armageddon
+1 Wheel of Fortune
+1 Balance
+
+Sideboard
+4 Red Elemental Blast
+3 Divine Offering
+3 Dust to Dust
+2 Exorcist
+2 Preacher
+1 King Suleiman
+

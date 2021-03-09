@@ -1,0 +1,39 @@
+Main
+3 Jade Statue
+3 Juggernaut
+4 Tetravus
+4 Triskelion
+4 Icy Manipulator
+1 Jayemdae Tome
+1 Chaos Orb
+3 Derelor
+1 Demonic Tutor
+2 Mishra's Factory
+4 Strip Mine
+4 Mishra's Workshop
+3 City of Brass
+4 Scrubland
+4 Tundra
+1 Underground Sea
+1 Mox Jet
+1 Mox Sapphire
+1 Mox Pearl
+1 Mox Emerald
+1 Mox Ruby
+1 Sol Ring
+1 Black Lotus
+3 Fellwar Stone
+1 Time Walk
+1 Ancestral Recall
+1 Mana Drain
+1 Braingeyser
+
+Sideboard
+4 Serendib Efreet
+4 Disenchant
+1 Swords to Plowshares
+2 Spirit Link
+2 Disrupting Scepter
+1 Circle of Protection: Red
+1 Flash Counter
+

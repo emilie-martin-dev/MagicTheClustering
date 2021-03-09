@@ -1,0 +1,49 @@
+Main
+4 City of Brass
+3 Island
+1 Library of Alexandria
+3 Plains
+1 Strip Mine
+4 Tundra
+1 Underground Sea
+3 Volcanic Island
+1 Serra Angel
+1 Ancestral Recall
+1 Balance
+1 Black Lotus
+1 Braingeyser
+1 Chaos Orb
+4 Counterspell
+1 Demonic Tutor
+4 Disenchant
+1 Fellwar Stone
+1 Fireball
+3 Jayemdae Tome
+1 Mana Drain
+1 Mind Twist
+1 Mirror Universe
+2 Moat
+1 Mox Emerald
+1 Mox Jet
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+1 Recall
+1 Red Elemental Blast
+1 Regrowth
+1 Sol Ring
+4 Swords to Plowshares
+1 Time Walk
+1 Timetwister
+
+Sideboard
+1 Serra Angel
+1 Blood Moon
+2 Blue Elemental Blast
+1 Circle of Protection: Red
+2 Dust to Dust
+2 Ivory Tower
+1 Lightning Bolt
+3 Red Elemental Blast
+2 Tranquility
+

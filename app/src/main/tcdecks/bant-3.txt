@@ -1,0 +1,37 @@
+Main
+4 Savannah
+4 Tundra
+4 Tropical Island
+4 City of Brass
+1 Library of Alexandria
+3 Mishra's Factory
+4 Disenchant
+4 Swords to Plowshares
+2 Psionic Blast
+1 Mox Pearl
+1 Black Lotus
+1 Chaos Orb
+1 Sol Ring
+1 Timetwister
+1 Counterspell
+1 Time Walk
+1 Regrowth
+4 Savannah Lions
+1 Mox Sapphire
+1 Mox Emerald
+4 Argothian Pixies
+4 Erhnam Djinn
+4 Serendib Efreet
+2 Serra Angel
+1 Control Magic
+1 Ancestral Recall
+
+Sideboard
+4 Whirling Dervish
+1 Circle of Protection: Red
+2 Circle of Protection: Black
+2 Greater Realm of Preservation
+2 Dust to Dust
+2 Divine Offering
+2 Blue Elemental Blast
+

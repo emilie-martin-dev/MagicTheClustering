@@ -1,0 +1,39 @@
+Main
+4 Su-Chi
+4 Birds of Paradise
+4 Erhnam Djinn
+2 Serra Angel
+4 Swords to Plowshares
+4 Disenchant
+1 Mox Sapphire
+1 Mox Pearl
+1 Mana Vault
+2 Sylvan Library
+1 Regrowth
+1 Balance
+3 Armageddon
+1 Ancestral Recall
+1 Time Walk
+3 Fellwar Stone
+1 Demonic Tutor
+1 Mind Twist
+3 Forest
+3 Savannah
+3 Mishra's Factory
+3 Plains
+1 Strip Mine
+4 City of Brass
+1 Library of Alexandria
+1 Chaos Orb
+1 Sol Ring
+
+Sideboard
+1 Tranquility
+1 Karma
+1 City in a Bottle
+2 Circle of Protection: Red
+2 Dust to Dust
+2 Sleight of Mind
+2 Spirit Link
+4 Whirling Dervish
+

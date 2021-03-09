@@ -1,0 +1,36 @@
+Main
+4 City of Brass
+4 Mishra's Factory
+2 Plateau
+4 Strip Mine
+4 Volcanic Island
+4 Atog
+1 Ancestral Recall
+4 Ankh of Mishra
+1 Balance
+1 Black Lotus
+4 Black Vise
+1 Braingeyser
+4 Chain Lightning
+2 Disenchant
+2 Earthquake
+4 Lightning Bolt
+1 Mox Pearl
+1 Mox Ruby
+1 Mox Sapphire
+3 Psionic Blast
+1 Sol Ring
+4 Stone Rain
+1 Time Walk
+1 Timetwister
+1 Wheel of Fortune
+
+Sideboard
+2 Island
+3 Blood Moon
+2 Disenchant
+2 Earthquake
+2 Fireball
+1 Jayemdae Tome
+3 Meekstone
+

@@ -1,0 +1,33 @@
+Main
+4 Elvish Archers
+2 Llanowar Elves
+4 Birds of Paradise
+4 Serra Angel
+4 Erhnam Djinn
+2 Land Tax
+2 Sylvan Library
+1 Icy Manipulator
+1 Sol Ring
+1 Regrowth
+4 Armageddon
+4 Disenchant
+4 Swords to Plowshares
+1 Balance
+4 Plains
+4 Forest
+4 Savannah
+3 Strip Mine
+3 Mishra's Factory
+4 City of Brass
+
+Sideboard
+3 Whirling Dervish
+2 Spirit Link
+1 Wrath of God
+2 Circle of Protection: Red
+1 Maze of Ith
+1 Cleanse
+2 Dust to Dust
+2 Black Vise
+1 Preacher
+

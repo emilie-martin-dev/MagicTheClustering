@@ -1,0 +1,38 @@
+Main
+4 Volcanic Island
+6 Island
+4 Mountain
+3 Mishra's Factory
+1 Maze of Ith
+1 Strip Mine
+1 Library of Alexandria
+1 Black Lotus
+1 Mox Sapphire
+1 Mox Ruby
+1 Mox Pearl
+1 Sol Ring
+4 Su-Chi
+1 Chaos Orb
+3 Flash Counter
+4 Serendib Efreet
+4 Psionic Blast
+3 Counterspell
+1 Mana Drain
+1 Time Walk
+1 Timetwister
+1 Ancestral Recall
+1 Recall
+4 Lightning Bolt
+2 Chain Lightning
+1 Fork
+2 Earthquake
+3 Fireball
+1 Wheel of Fortune
+
+Sideboard
+3 Red Elemental Blast
+4 Red Elemental Blast
+3 Nevinyrral's Disk
+2 Control Magic
+3 Flashfires
+

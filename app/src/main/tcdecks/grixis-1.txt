@@ -1,0 +1,37 @@
+Main
+4 Savannah Lions
+4 Order of the Ebon Hand
+4 Serendib Efreet
+3 Sedge Troll
+2 Swords to Plowshares
+4 Lightning Bolt
+2 Psionic Blast
+1 Ancestral Recall
+1 Time Walk
+1 Fireball
+1 Demonic Tutor
+1 Mind Twist
+4 Hymn to Tourach
+1 Chaos Orb
+1 Mox Ruby
+1 Mox Sapphire
+1 Mox Jet
+1 Mox Pearl
+1 Sol Ring
+1 Black Lotus
+4 City of Brass
+4 Badlands
+4 Scrubland
+4 Underground Sea
+4 Strip Mine
+1 Library of Alexandria
+
+Sideboard
+3 Disenchant
+2 Swords to Plowshares
+1 Maze of Ith
+2 Blue Elemental Blast
+1 Braingeyser
+3 Energy Flux
+3 Red Elemental Blast
+
