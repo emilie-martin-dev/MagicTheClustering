@@ -6,7 +6,7 @@ public class Card{
 	int manaCost;
 	private String name;
 
-    public Card(String name, int costMana){
+	public Card(String name, int manaCost){
 		this.name = name;
 		this.manaCost = manaCost;
 	}
@@ -20,6 +20,6 @@ public class Card{
 	}
 
 	public String toString(){
-		return this.name;
+		return "name :"+this.name+" mana cost : "+this.manaCost;
 	}
 }

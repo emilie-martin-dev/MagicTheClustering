@@ -11,7 +11,7 @@ public class ParserDeck{
 	private Deck deck;
 
 	public ParserDeck(String fichier){
-		this.file = new File("../tcdecks/"+fichier);
+		this.file = new File("src/main/tcdecks/"+fichier);
 		read();
 	}
 
@@ -34,7 +34,7 @@ public class ParserDeck{
 			this.deck = new Deck(listeDeck);
 
 			for(Map.Entry<Card, Integer> liste : listeDeck.entrySet()){
-				System.out.println(liste.getKey()+" "+ liste.getValue());
+				System.out.println(liste.getKey()+"  number :"+ liste.getValue());
 			}
 
 		}catch(Exception e){

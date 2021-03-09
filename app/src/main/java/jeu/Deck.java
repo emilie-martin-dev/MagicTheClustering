@@ -8,7 +8,7 @@ public class Deck{
 	//String en Carte
 	private HashMap<Card, Integer> cards;
 
-    public Deck(HashMap<Card, Integer> cards){
+	public Deck(HashMap<Card, Integer> cards){
 		this.cards = cards;
 	}
 
