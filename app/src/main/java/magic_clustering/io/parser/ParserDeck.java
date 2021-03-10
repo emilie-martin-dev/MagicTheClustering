@@ -6,38 +6,48 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.List;
 
-public class ParserDeck implements IParser<Deck>{
+public class ParserDeck implements IParser<Deck> {
 
-	public ParserDeck() {
-		
+	private String cardsPath;
+	
+	public ParserDeck(String cardsPath) {
+		this.cardsPath = cardsPath;
 	}
 
+	@Override
 	public Deck parse(String path) {
-		HashMap<Card,Integer> listeDeck = new HashMap<>();
-		
-		try{
-			BufferedReader fileR = new BufferedReader(new FileReader(path));
-			String line;
-
-			while((line = fileR.readLine()) != null) {
-				// si la ligne n'est pas vide et que le premier caractère est nombre :https://java2blog.com/java-isnumeric/
-				if(line.length() != 0 &&line.substring(0, 1).matches("[0-9]+")){
-					Integer nombre = Integer.valueOf(line.substring(0, line.indexOf(" ")));
-					String nameCard = line.substring(line.indexOf(" ")+1);//prend la chaine après l'espace
-					ParserCards parse = new ParserCards("cards.json");
+		HashMap<Card, Integer> deckCards = new HashMap<>();
+		HashMap<String, Integer> deckRequestedCards = new HashMap<>();
 					
-					List<Card> list = parse.parse(nameCard);
-					for(Card c: list){
-						if(c.name.equals(nameCard)){
-							listeDeck.put(c, nombre);
-							break;//break pour éviter les doublons
-						}
-					}
+		ParserCards parserCards = new ParserCards();
+		List<Card> cardsList = parserCards.parse(cardsPath);
+		
+		try {
+			BufferedReader inputStream = new BufferedReader(new FileReader(path));
+			String line;
+			
+			while((line = inputStream.readLine()) != null) {
+				if(!line.isEmpty() && line.matches("^[0-9]+\\ .*")) {
+					Integer nombre = Integer.valueOf(line.substring(0, line.indexOf(" ")));					
+					String cardName = line.substring(line.indexOf(" ") + 1);
+					
+					deckRequestedCards.put(cardName, nombre);
 				}
 			}
 			
-			return new Deck(listeDeck);
-		} catch(Exception e){
+			for(Card c : cardsList) {
+				if(deckRequestedCards.containsKey(c.name)) {
+					deckCards.put(c, deckRequestedCards.get(c.name));
+					deckRequestedCards.remove(c.name);
+					
+					// Si on a trouvé toutes les cartes on stop
+					if(deckRequestedCards.isEmpty())
+						break;
+				}
+			}
+			
+			return new Deck(deckCards);
+		} catch(IOException e) {
 			e.printStackTrace();
 		}
 		

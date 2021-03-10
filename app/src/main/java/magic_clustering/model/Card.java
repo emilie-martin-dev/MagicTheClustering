@@ -2,7 +2,7 @@ package magic_clustering.model;
 
 import com.google.gson.annotations.SerializedName;
 
-public class Card{
+public class Card {
 
 	@SerializedName("convertedManaCost")
 	public int manaCost;
