@@ -1,16 +1,15 @@
 package magic_clustering;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
-import java.util.Arrays;
+import magic_clustering.io.parser.ParserDeck;
 
 import io.parser.*;
+import magic_clustering.model.Deck;
 
 public class Main {
 
 	public static void main(String[] args) {
-		ParserDeck testDeck = new ParserDeck("ponza-1.txt");
+		ParserDeck parserDeck = new ParserDeck();
+		Deck deck = parserDeck.parse("ponza-1.txt");
 	}
 
 }

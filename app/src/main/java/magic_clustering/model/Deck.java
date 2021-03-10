@@ -1,19 +1,16 @@
-package model;
+package magic_clustering.model;
 
 import java.util.HashMap;
-import java.util.Map;
 
+public class Deck {
 
-public class Deck{
-
-	//String en Carte
 	private HashMap<Card, Integer> cards;
 
-	public Deck(HashMap<Card, Integer> cards){
+	public Deck(HashMap<Card, Integer> cards) {
 		this.cards = cards;
 	}
 
-	public HashMap<Card, Integer> getDeck(){
+	public HashMap<Card, Integer> getDeck() {
 		return this.cards;
 	}
 

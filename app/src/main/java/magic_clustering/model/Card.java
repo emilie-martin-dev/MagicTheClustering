@@ -1,4 +1,4 @@
-package model;
+package magic_clustering.model;
 
 import com.google.gson.annotations.SerializedName;
 
@@ -8,28 +8,35 @@ public class Card{
 	public int manaCost;
 
 	public String name;
+	
+	public Card() {
+		
+	}
 
-	public Card(String name, int manaCost){
+	public Card(String name, int manaCost) {
 		this.name = name;
 		this.manaCost = manaCost;
 	}
 
-	public String getName(){
+	public String getName() {
 		return this.name;
 	}
 
-	public int getManaCost(){
+	public int getManaCost() {
 		return this.manaCost;
 	}
 
-	public void setName(String name){
+	public void setName(String name) {
 		this.name = name;
 	}
 
-	public void setManaCost(int manaCost){
+	public void setManaCost(int manaCost) {
 		this.manaCost = manaCost;
 	}
-	public String toString(){
-		return "name :"+this.name+" mana cost : "+this.manaCost;
-	}
+
+	@Override
+	public String toString() {
+		return "Card{" + "manaCost=" + manaCost + ", name=" + name + '}';
+	}	
+	
 }

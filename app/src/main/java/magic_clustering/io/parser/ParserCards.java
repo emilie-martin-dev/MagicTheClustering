@@ -1,4 +1,6 @@
-package io.parser;
+package magic_clustering.io.parser;
+
+import magic_clustering.model.*;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -7,14 +9,10 @@ import com.google.gson.reflect.TypeToken;
 import java.lang.reflect.Type;
 import java.io.*;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 
-import model.*;
-
-public class ParserCards{
+public class ParserCards implements IParser<List<Card>> {
 
 	private final File file;
 
@@ -22,7 +20,7 @@ public class ParserCards{
 		this.file  = new File("data/"+file);
 	}
 
-	protected List<Card> read(String cardname){
+	public List<Card> parse(String path) {
 		try{
 			GsonBuilder builder = new GsonBuilder();
 			builder.setPrettyPrinting();
