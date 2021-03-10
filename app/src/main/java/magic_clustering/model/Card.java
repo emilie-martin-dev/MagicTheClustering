@@ -1,4 +1,4 @@
-package jeu;
+package model;
 
 public class Card{
 

@@ -1,17 +1,18 @@
-package jeu;
+package io.parser;
 
-
-import java.io.File;
 import java.util.Map;
 import java.util.HashMap;
 import java.io.*;
+
+import model.*;
+
 public class ParserDeck{
 
 	private final File file;
 	private Deck deck;
 
 	public ParserDeck(String fichier){
-		this.file = new File("src/main/tcdecks/"+fichier);
+		this.file = new File("data/tcdecks/"+fichier);
 		read();
 	}
 

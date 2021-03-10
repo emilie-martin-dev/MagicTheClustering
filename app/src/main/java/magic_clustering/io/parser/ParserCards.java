@@ -1,19 +1,22 @@
-package jeu;
+package io.parser;
+
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.File;
 import java.util.Map;
 import java.util.HashMap;
 import java.io.*;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 
-public class ParserExtension{
+import model.*;
+
+public class ParserCards{
 
 	private final File file;
 	private String cardName;
 
-	public ParserExtension(String file, String cardName){
-		this.file  = new File("src/main/json/"+file);
+	public ParserCards(String file, String cardName){
+		this.file  = new File("data/"+file);
 		this.cardName = cardName;
 		read();
 	}
@@ -30,17 +33,15 @@ public class ParserExtension{
 // Type myType= new TypeToken<ArrayList<Card>>() {}.getType();
 // FileReader reader = new FileReader(path);
 // List<Card> cards= m_gson.fromJson(reader, myType);
-			// while((line = fileR.readLine()) != null) {
-			// 	if(line.contains(this.cardName)){
-			// 		GsonBuilder builder = new GsonBuilder();
-      		// 		builder.setPrettyPrinting();
-      		// 		Gson gson = builder.create();
-			// 		System.out.println("la carte est présente dans le deck");
-			//
-			// 	}else{
-			// 		System.out.println("la carte recherchée n'est pas dans cette extension");
-			// 	}
-			//}
+			while((line = fileR.readLine()) != null) {
+				if(line.contains(this.cardName)){
+					GsonBuilder builder = new GsonBuilder();
+      				builder.setPrettyPrinting();
+      				Gson gson = builder.create();
+					System.out.println("la carte est présente dans le fichier");
+
+				}
+			}
 
 
 		}catch(Exception e){
