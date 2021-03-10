@@ -2,51 +2,40 @@ package io.parser;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+import com.google.gson.reflect.TypeToken;
 
-import java.io.File;
-import java.util.Map;
-import java.util.HashMap;
+import java.lang.reflect.Type;
 import java.io.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 
 import model.*;
 
 public class ParserCards{
 
 	private final File file;
-	private String cardName;
 
-	public ParserCards(String file, String cardName){
+	public ParserCards(String file){
 		this.file  = new File("data/"+file);
-		this.cardName = cardName;
-		read();
 	}
 
-	private void read(){
+	protected List<Card> read(String cardname){
 		try{
-			BufferedReader fileR = new BufferedReader(new FileReader(this.file));
-			String line;
+			GsonBuilder builder = new GsonBuilder();
+			builder.setPrettyPrinting();
+			Gson gson = builder.create();
 
-// 			GsonBuilder builder = new GsonBuilder();
-// builder.setPrettyPrinting();
-// Gson  m_gson = builder.create();
-//
-// Type myType= new TypeToken<ArrayList<Card>>() {}.getType();
-// FileReader reader = new FileReader(path);
-// List<Card> cards= m_gson.fromJson(reader, myType);
-			while((line = fileR.readLine()) != null) {
-				if(line.contains(this.cardName)){
-					GsonBuilder builder = new GsonBuilder();
-      				builder.setPrettyPrinting();
-      				Gson gson = builder.create();
-					System.out.println("la carte est présente dans le fichier");
+			Type myType= new TypeToken<ArrayList<Card>>() {}.getType();
+			FileReader reader = new FileReader(this.file);
 
-				}
-			}
-
-
+			return gson.fromJson(reader, myType);
 		}catch(Exception e){
-			System.out.println("Terrible erreur de la part des dev français! : "+e);
+			e.printStackTrace();
 		}
+		return null;
 	}
 
 }

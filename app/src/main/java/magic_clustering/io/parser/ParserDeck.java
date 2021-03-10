@@ -1,8 +1,9 @@
 package io.parser;
 
-import java.util.Map;
-import java.util.HashMap;
 import java.io.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.List;
 
 import model.*;
 
@@ -26,20 +27,25 @@ public class ParserDeck{
 				// si la ligne n'est pas vide et que le premier caractère est nombre :https://java2blog.com/java-isnumeric/
 				if(line.length()!=0 &&line.substring(0, 1).matches("[0-9]+")){
 					Integer nombre = Integer.valueOf(line.substring(0, line.indexOf(" ")));
-					String nameCarte = line.substring(line.indexOf(" "));
-					Card card = new Card(nameCarte, 0); //0 = valeur par défaut le temps de faire le parser json
-					listeDeck.put(card, nombre);
+					String nameCard = line.substring(line.indexOf(" ")+1);//prend la chaine après l'espace
+					ParserCards parse = new ParserCards("cards.json");
+					List<Card> list = parse.read(nameCard);
+					for(Card c: list){
+						if(c.name.equals(nameCard)){
+							listeDeck.put(c, nombre);
+							break;//break pour éviter les doublons
+						}
+					}
 				}
 
 			}
 			this.deck = new Deck(listeDeck);
-
 			for(Map.Entry<Card, Integer> liste : listeDeck.entrySet()){
 				System.out.println(liste.getKey()+"  number :"+ liste.getValue());
 			}
 
 		}catch(Exception e){
-			System.out.println("Terrible erreur de la part des dev français! : "+e);
+			e.printStackTrace();
 		}
 	}
 
