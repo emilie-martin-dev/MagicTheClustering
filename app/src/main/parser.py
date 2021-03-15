@@ -18,7 +18,7 @@ if __name__ == "__main__":
 			for card in data["data"]["cards"]:
 				cards.append({field:card[field] for field in fields})
 
-	
-	# Exporting the resutlts as card.json 
-	with open("cards.json", "w") as outstream: 
-		outstream.write(json.dumps(cards, indent = 4)) 
+
+	# Exporting the resutlts as card.json
+	with open("cards.json", "w") as outstream:
+		outstream.write(json.dumps(cards, indent = 4))

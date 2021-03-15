@@ -8,14 +8,17 @@ public class Card {
 	public int manaCost;
 
 	public String name;
-	
+
+	public String type;
+
 	public Card() {
-		
+
 	}
 
-	public Card(String name, int manaCost) {
+	public Card(String name, int manaCost, String type) {
 		this.name = name;
 		this.manaCost = manaCost;
+		this.type = type;
 	}
 
 	public String getName() {
@@ -26,6 +29,10 @@ public class Card {
 		return this.manaCost;
 	}
 
+	public String getType(){
+		return this.type;
+	}
+
 	public void setName(String name) {
 		this.name = name;
 	}
@@ -34,9 +41,13 @@ public class Card {
 		this.manaCost = manaCost;
 	}
 
+	public void setType(String type) {
+		this.type = type;
+	}
+
 	@Override
 	public String toString() {
 		return "Card{" + "manaCost=" + manaCost + ", name=" + name + '}';
-	}	
-	
+	}
+
 }

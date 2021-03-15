@@ -18,7 +18,7 @@ public class Deck {
 	@Override
 	public String toString() {
 		StringBuilder bufferCards = new StringBuilder();
-		
+
 		bufferCards.append("[");
 		for(Map.Entry<Card, Integer> entry : cards.entrySet()) {
 			bufferCards.append("{count=");
@@ -27,12 +27,14 @@ public class Deck {
 			bufferCards.append(entry.getKey());
 			bufferCards.append("}, ");
 		}
-		
+
 		bufferCards.delete(bufferCards.length()-2, bufferCards.length());
-		
+
 		bufferCards.append("]");
-		
+
 		return "Deck{" + "cards=" + bufferCards.toString() + '}';
 	}
+
+
 
 }
