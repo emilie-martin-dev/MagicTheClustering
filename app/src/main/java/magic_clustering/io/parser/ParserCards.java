@@ -14,7 +14,7 @@ import java.util.List;
 public class ParserCards implements IParser<List<Card>> {
 
 	public ParserCards() {
-		
+
 	}
 
 	@Override
@@ -25,12 +25,12 @@ public class ParserCards implements IParser<List<Card>> {
 			Gson gson = builder.create();
 
 			Type myType = new TypeToken<ArrayList<Card>>() {}.getType();
-			
+
 			return gson.fromJson(new FileReader(path), myType);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		
+
 		return null;
 	}
 
