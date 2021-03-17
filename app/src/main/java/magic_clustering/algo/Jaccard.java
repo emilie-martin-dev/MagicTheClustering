@@ -82,50 +82,131 @@ public class Jaccard {
 		HashMap<Integer, ArrayList<Deck>> distanceDeJaccardDeck = new HashMap<Integer, ArrayList<Deck>>();
 		HashMap<HashMap<Card, ArrayList<Deck>>, Integer> distanceDeJaccard = jaccardDistEntre2Cartes();
 		
+		if(distanceDeJaccardDeck.isEmpty() == false){
+			for(Map.Entry<HashMap<Card, ArrayList<Deck>>,Integer> forJacc : distanceDeJaccard.entrySet()){
+				HashMap<Card, ArrayList<Deck>> hashMap = forJacc.getKey();
 
-        for(Map.Entry<HashMap<Card, ArrayList<Deck>>,Integer> forJacc : distanceDeJaccard.entrySet()){
-            HashMap<Card, ArrayList<Deck>> hashMap = forJacc.getKey();
-
-            for(Map.Entry<Card,ArrayList<Deck>> forDansJacc : hashMap.entrySet()){
-				deckComparer = forDansJacc.getValue().get(0);
-				Deck deckSecond = forDansJacc.getValue().get(1);
-				
-				if(deckPremier == null){
-					deckPremier = deckSecond;
-				}if(deckPremier == deckSecond){
-					moyenneJaccardCartes += forJacc.getValue();
-					nombresCartesCommunes += 1;
-				}else{
-							
-					ArrayList<Deck> theDecks = new ArrayList<Deck>();
-		
-					moyenneJaccardCartes = moyenneJaccardCartes/nombresCartesCommunes;
+				for(Map.Entry<Card,ArrayList<Deck>> forDansJacc : hashMap.entrySet()){
+					deckComparer = forDansJacc.getValue().get(0);
+					Deck deckSecond = forDansJacc.getValue().get(1);
 					
-					theDecks.add(deckComparer);
-					theDecks.add(deckPremier);
-					distanceDeJaccardDeck.put(moyenneJaccardCartes, theDecks);
-					
-					deckPremier = deckSecond;
-					moyenneJaccardCartes = forJacc.getValue();
-					nombresCartesCommunes = 1;
-				}
-            }
-        }
-        ArrayList<Deck> theDecks = new ArrayList<Deck>();
-		moyenneJaccardCartes = moyenneJaccardCartes/nombresCartesCommunes;
-        
-        theDecks.add(deckComparer);
-		theDecks.add(deckPremier);
-		distanceDeJaccardDeck.put(moyenneJaccardCartes, theDecks);
-
-
-		for(Map.Entry<Integer,ArrayList<Deck>> forDansJacc : distanceDeJaccardDeck.entrySet()){
-			for(int i = 0; i< toutLesDecks.size(); i++){
-				if((toutLesDecks.get(i) == forDansJacc.getValue().get(0))||(toutLesDecks.get(i) == forDansJacc.getValue().get(1))){
-					toutLesDecks.remove(i);
+					if(deckPremier == null){
+						deckPremier = deckSecond;
+					}if(deckPremier == deckSecond){
+						moyenneJaccardCartes += forJacc.getValue();
+						nombresCartesCommunes += 1;
+					}else{
+								
+						ArrayList<Deck> theDecks = new ArrayList<Deck>();
+			
+						moyenneJaccardCartes = moyenneJaccardCartes/nombresCartesCommunes;
+						
+						theDecks.add(deckComparer);
+						theDecks.add(deckPremier);
+						distanceDeJaccardDeck.put(moyenneJaccardCartes, theDecks);
+						
+						deckPremier = deckSecond;
+						moyenneJaccardCartes = forJacc.getValue();
+						nombresCartesCommunes = 1;
+					}
 				}
 			}
-		}while(toutLesDecks.isEmpty() == false){
+			ArrayList<Deck> theDecks = new ArrayList<Deck>();
+			moyenneJaccardCartes = moyenneJaccardCartes/nombresCartesCommunes;
+			
+			theDecks.add(deckComparer);
+			theDecks.add(deckPremier);
+			distanceDeJaccardDeck.put(moyenneJaccardCartes, theDecks);
+		}
+		if(distanceDeJaccardDeck.isEmpty() == false){
+			for(Map.Entry<Integer,ArrayList<Deck>> forDansJacc : distanceDeJaccardDeck.entrySet()){
+				for(int i = 0; i< toutLesDecks.size(); i++){
+					if((toutLesDecks.get(i) == forDansJacc.getValue().get(0))||(toutLesDecks.get(i) == forDansJacc.getValue().get(1))){
+						toutLesDecks.remove(i);
+					}
+				}
+			}
+		}
+		while(toutLesDecks.isEmpty() == false){
+			ArrayList<Deck> theDecksBis = new ArrayList<Deck>();
+			theDecksBis.add(deckComparer);
+			theDecksBis.add(toutLesDecks.get(0));
+			distanceDeJaccardDeck.put(1, theDecksBis);
+			toutLesDecks.remove(0);
+		}return distanceDeJaccardDeck;
+	}
+	
+	
+	
+	
+	
+	
+	
+	public HashMap<Integer, ArrayList<Deck>> jaccardSurJaccardDistEntre2Decks(ArrayList<Deck> toutLesDecks){
+		
+		int minimum = 0;
+		int maximum = 0;
+		int jaccardValeur = 0;
+		
+		Deck deckPremier = null;
+		Deck deckComparer = null;
+		
+		HashMap<Integer, ArrayList<Deck>> distanceDeJaccardDeck = new HashMap<Integer, ArrayList<Deck>>();
+		HashMap<HashMap<Card, ArrayList<Deck>>, Integer> distanceDeJaccard = jaccardDistEntre2Cartes();
+		
+		if(distanceDeJaccard.isEmpty() == false){
+			for(Map.Entry<HashMap<Card, ArrayList<Deck>>,Integer> forJacc : distanceDeJaccard.entrySet()){
+				HashMap<Card, ArrayList<Deck>> hashMap = forJacc.getKey();
+
+				for(Map.Entry<Card,ArrayList<Deck>> forDansJacc : hashMap.entrySet()){
+					deckComparer = forDansJacc.getValue().get(0);
+					Deck deckSecond = forDansJacc.getValue().get(1);
+					
+					if(deckPremier == null){
+						maximum = forJacc.getValue();
+						minimum = forJacc.getValue();
+						
+					}if(deckPremier == deckSecond){
+						if(maximum<forJacc.getValue()){
+							maximum = forJacc.getValue();
+						}if(minimum>forJacc.getValue()){
+							minimum = forJacc.getValue();
+						}
+					}else{
+						ArrayList<Deck> theDecks = new ArrayList<Deck>();
+			
+						jaccardValeur = minimum/maximum;
+						
+						theDecks.add(deckComparer);
+						theDecks.add(deckPremier);
+						distanceDeJaccardDeck.put(jaccardValeur, theDecks);
+						
+						deckPremier = deckSecond;
+						maximum = forJacc.getValue();
+						minimum = forJacc.getValue();
+					}
+				}
+			}
+			
+			ArrayList<Deck> theDecks = new ArrayList<Deck>();
+			
+			jaccardValeur = minimum/maximum;
+						
+			theDecks.add(deckComparer);
+			theDecks.add(deckPremier);
+			distanceDeJaccardDeck.put(jaccardValeur, theDecks);
+		}
+		
+		if(distanceDeJaccardDeck.isEmpty() == false){
+			for(Map.Entry<Integer,ArrayList<Deck>> forDansJacc : distanceDeJaccardDeck.entrySet()){
+				for(int i = 0; i< toutLesDecks.size(); i++){
+					if((toutLesDecks.get(i) == forDansJacc.getValue().get(0))||(toutLesDecks.get(i) == forDansJacc.getValue().get(1))){
+						toutLesDecks.remove(i);
+					}
+				}
+			}
+		}
+		while(toutLesDecks.isEmpty() == false){
 			ArrayList<Deck> theDecksBis = new ArrayList<Deck>();
 			theDecksBis.add(deckComparer);
 			theDecksBis.add(toutLesDecks.get(0));

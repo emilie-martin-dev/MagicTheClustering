@@ -26,9 +26,14 @@ public class Main {
         listDeck.add(deckTer);
         
         Jaccard jackard = new Jaccard(deck, listDeck);
-        
+
         HashMap<Integer, ArrayList<Deck>> distanceDeJaccardDeck = jackard.jaccardDistEntre2DecksMoyenne(listDeck);
         for(Map.Entry<Integer,ArrayList<Deck>> forDansJacc : distanceDeJaccardDeck.entrySet()){
+			System.out.println("premier deck : " + forDansJacc.getValue().get(0) + "second deck : " + forDansJacc.getValue().get(1) + "distance de Jaccard : " + forDansJacc.getKey());
+        }
+        
+        HashMap<Integer, ArrayList<Deck>> distanceDeJaccardDeck2 = jackard.jaccardSurJaccardDistEntre2Decks(listDeck);
+        for(Map.Entry<Integer,ArrayList<Deck>> forDansJacc : distanceDeJaccardDeck2.entrySet()){
 			System.out.println("premier deck : " + forDansJacc.getValue().get(0) + "second deck : " + forDansJacc.getValue().get(1) + "distance de Jaccard : " + forDansJacc.getKey());
         }
     }
