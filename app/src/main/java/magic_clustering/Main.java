@@ -23,24 +23,13 @@ public class Main {
         }
 
         ArrayList<Deck> listDeck = new ArrayList<Deck>();
-        listDeck.add(deck);
         listDeck.add(deckTer);
         
         Jaccard jackard = new Jaccard(deck, listDeck);
-		
-        HashMap<HashMap<Card, ArrayList<Deck>>, Integer> distanceDeJaccard = jackard.jaccardDistEntre2Cartes();
-
-        for(Map.Entry<HashMap<Card, ArrayList<Deck>>,Integer> forJacc : distanceDeJaccard.entrySet()){
-            HashMap<Card, ArrayList<Deck>> hashMap = forJacc.getKey();
-
-            int nombre = forJacc.getValue();
-            for(Map.Entry<Card,ArrayList<Deck>> forDansJacc : hashMap.entrySet()){
-				if(forDansJacc.getKey() == null){
-					System.out.println("il n'y a pas de carte en commun");
-				}else{
-					System.out.println("Nom de la carte : " + forDansJacc.getKey().getName() + "premier deck : " + forDansJacc.getValue().get(0) + "second deck : " + forDansJacc.getValue().get(1) + "distance de Jaccard : " + forJacc.getValue());
-				}
-            }
-        }/*unt=3, card=Card{manaCost=0, name=Forest}}]}*/
+        
+        HashMap<Integer, ArrayList<Deck>> distanceDeJaccardDeck = jackard.jaccardDistEntre2DecksMoyenne(listDeck);
+        for(Map.Entry<Integer,ArrayList<Deck>> forDansJacc : distanceDeJaccardDeck.entrySet()){
+			System.out.println("premier deck : " + forDansJacc.getValue().get(0) + "second deck : " + forDansJacc.getValue().get(1) + "distance de Jaccard : " + forDansJacc.getKey());
+        }
     }
 }

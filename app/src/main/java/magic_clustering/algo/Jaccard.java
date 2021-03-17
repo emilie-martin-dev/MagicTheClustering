@@ -22,9 +22,9 @@ public class Jaccard {
 
 	/**Cet algorithme va renvoyer:
 	 * - la carte dont on évalue la distance (Card)
-	 * -
+	 * - la liste des deux decks contenant la carte que l'on évalue (le deck que l'on compare avec l'autre deck)
 	 * - la distance entre chaque carte du deck (deck) et son omologue dans les autres deck (listDeck):
-	 * - 
+	 * 
 	 * 
 	 * **/
     public HashMap<HashMap<Card, ArrayList<Deck>>, Integer> jaccardDistEntre2Cartes(){
@@ -67,4 +67,70 @@ public class Jaccard {
         }
         return jack_ard;
     }
+    
+    /**on parcourt le hashMap de jaccardDistEntre2Cartes (voir main)
+     * if deck = celui là alors bon: (moyenne des deux decks plus petite divisé par plus grande) ajout au hashmap
+     * **/
+    public HashMap<Integer, ArrayList<Deck>> jaccardDistEntre2DecksMoyenne(ArrayList<Deck> toutLesDecks){
+		
+		int moyenneJaccardCartes = 0;
+		int nombresCartesCommunes = 0;
+		
+		Deck deckPremier = null;
+		Deck deckComparer = null;
+		
+		HashMap<Integer, ArrayList<Deck>> distanceDeJaccardDeck = new HashMap<Integer, ArrayList<Deck>>();
+		HashMap<HashMap<Card, ArrayList<Deck>>, Integer> distanceDeJaccard = jaccardDistEntre2Cartes();
+		
+
+        for(Map.Entry<HashMap<Card, ArrayList<Deck>>,Integer> forJacc : distanceDeJaccard.entrySet()){
+            HashMap<Card, ArrayList<Deck>> hashMap = forJacc.getKey();
+
+            for(Map.Entry<Card,ArrayList<Deck>> forDansJacc : hashMap.entrySet()){
+				deckComparer = forDansJacc.getValue().get(0);
+				Deck deckSecond = forDansJacc.getValue().get(1);
+				
+				if(deckPremier == null){
+					deckPremier = deckSecond;
+				}if(deckPremier == deckSecond){
+					moyenneJaccardCartes += forJacc.getValue();
+					nombresCartesCommunes += 1;
+				}else{
+							
+					ArrayList<Deck> theDecks = new ArrayList<Deck>();
+		
+					moyenneJaccardCartes = moyenneJaccardCartes/nombresCartesCommunes;
+					
+					theDecks.add(deckComparer);
+					theDecks.add(deckPremier);
+					distanceDeJaccardDeck.put(moyenneJaccardCartes, theDecks);
+					
+					deckPremier = deckSecond;
+					moyenneJaccardCartes = forJacc.getValue();
+					nombresCartesCommunes = 1;
+				}
+            }
+        }
+        ArrayList<Deck> theDecks = new ArrayList<Deck>();
+		moyenneJaccardCartes = moyenneJaccardCartes/nombresCartesCommunes;
+        
+        theDecks.add(deckComparer);
+		theDecks.add(deckPremier);
+		distanceDeJaccardDeck.put(moyenneJaccardCartes, theDecks);
+
+
+		for(Map.Entry<Integer,ArrayList<Deck>> forDansJacc : distanceDeJaccardDeck.entrySet()){
+			for(int i = 0; i< toutLesDecks.size(); i++){
+				if((toutLesDecks.get(i) == forDansJacc.getValue().get(0))||(toutLesDecks.get(i) == forDansJacc.getValue().get(1))){
+					toutLesDecks.remove(i);
+				}
+			}
+		}while(toutLesDecks.isEmpty() == false){
+			ArrayList<Deck> theDecksBis = new ArrayList<Deck>();
+			theDecksBis.add(deckComparer);
+			theDecksBis.add(toutLesDecks.get(0));
+			distanceDeJaccardDeck.put(1, theDecksBis);
+			toutLesDecks.remove(0);
+		}return distanceDeJaccardDeck;
+	}
 }
