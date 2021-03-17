@@ -7,8 +7,6 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.List;
 
-
-
 public class ParserDeck implements IParser<Deck> {
 
 	private String cardsPath;
@@ -55,6 +53,7 @@ public class ParserDeck implements IParser<Deck> {
 					//création de l'ensemble des cartes
 					deckCards.put(c, deckRequestedCards.get(c.name));
 					//création de la courbe de mana et manaCube
+					//gestion cas particulier des terrains pour la courbes et le cube
 					if(c.type.contains("Land")){
 						if(deckManaCurve.containsKey(-1)){
 							numbCard = deckManaCurve.get(-1) + deckRequestedCards.get(c.name);
@@ -66,6 +65,7 @@ public class ParserDeck implements IParser<Deck> {
 						land.put(-1, numbCard);
 					}
 					else{
+						//HashMap courbe de mana
 						if(deckManaCurve.containsKey(c.manaCost)){
 							numbCard = deckManaCurve.get(c.manaCost) + deckRequestedCards.get(c.name);
 						}
@@ -73,56 +73,13 @@ public class ParserDeck implements IParser<Deck> {
 							numbCard = deckRequestedCards.get(c.name);
 						}
 						deckManaCurve.put(c.manaCost, numbCard);
-						//Hashmap du cube de mana
-						if(c.type.contains("Artifact")){
-							if(artifact.containsKey(c.manaCost)){
-								numbCard = artifact.get(c.manaCost) + deckRequestedCards.get(c.name);
-							}
-							else{
-								numbCard = deckRequestedCards.get(c.name);
-							}
-							artifact.put(c.manaCost, numbCard);
-						}
 
-						else if(c.type.contains("Creature")){
-							if(creature.containsKey(c.manaCost)){
-								numbCard = creature.get(c.manaCost) + deckRequestedCards.get(c.name);
-							}
-							else{
-								numbCard = deckRequestedCards.get(c.name);
-							}
-							creature.put(c.manaCost, numbCard);
-						}
-
-						else if(c.type.contains("Enchantment")){
-							if(enchantment.containsKey(c.manaCost)){
-								numbCard = enchantment.get(c.manaCost) + deckRequestedCards.get(c.name);
-							}
-							else{
-								numbCard = deckRequestedCards.get(c.name);
-							}
-							enchantment.put(c.manaCost, numbCard);
-						}
-
-						else if(c.type.contains("Instant")){
-							if(instant.containsKey(c.manaCost)){
-								numbCard = instant.get(c.manaCost) + deckRequestedCards.get(c.name);
-							}
-							else{
-								numbCard = deckRequestedCards.get(c.name);
-							}
-							instant.put(c.manaCost, numbCard);
-						}
-
-						else if(c.type.contains("Sorcery")){
-							if(sorcery.containsKey(c.manaCost)){
-								numbCard = sorcery.get(c.manaCost) + deckRequestedCards.get(c.name);
-							}
-							else{
-								numbCard = deckRequestedCards.get(c.name);
-							}
-							sorcery.put(c.manaCost, numbCard);
-						}
+						//Hashmap du cube de mana: partie HashMap<Integer, Integer> du cube de mana
+						createManaCube(artifact, deckRequestedCards, c, "Artifact", numbCard);
+						createManaCube(creature, deckRequestedCards, c, "Creature", numbCard);
+						createManaCube(enchantment, deckRequestedCards, c, "Enchantment", numbCard);
+						createManaCube(instant, deckRequestedCards, c, "Instant", numbCard);
+						createManaCube(sorcery, deckRequestedCards, c, "Sorcery", numbCard);
 					}
 					deckRequestedCards.remove(c.name);
 
@@ -131,7 +88,7 @@ public class ParserDeck implements IParser<Deck> {
 						break;
 				}
 			}
-			//temporaire
+			//Hashmap du cube de mana
 			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Artifact, artifact);
 			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Creature, creature);
 			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Enchantment, enchantment);
@@ -147,4 +104,17 @@ public class ParserDeck implements IParser<Deck> {
 		return null;
 	}
 
+	private void createManaCube( HashMap<Integer, Integer> typeMap, HashMap<String, Integer> deck, Card c, String type, Integer numbCard){
+
+		if(c.type.contains(type)){
+			if(typeMap.containsKey(c.manaCost)){
+				numbCard = typeMap.get(c.manaCost) + deck.get(c.name);
+			}
+			else{
+				numbCard = deck.get(c.name);
+			}
+			typeMap.put(c.manaCost, numbCard);
+		}
+
+	}
 }
