@@ -3,16 +3,15 @@ package magic_clustering.model;
 import java.util.HashMap;
 import java.util.Map;
 
-import static magic_clustering.model.Deck.TypeEnum.*;
+import magic_clustering.model.TypeEnum.TypeEnume;
 
 public class Deck {
-	public enum TypeEnum{Artifact, Creature, Enchantment, Instant, Land, Sorcery};
 	private HashMap<Card, Integer> cards;
 	private HashMap<Integer, Integer> manaCurve;
-	private HashMap<TypeEnum, HashMap<Integer, Integer>> manaCube;
+	private HashMap<TypeEnume, HashMap<Integer, Integer>> manaCube;
 
 
-	public Deck(HashMap<Card, Integer> cards, HashMap<Integer, Integer> manaCurve, HashMap<TypeEnum, HashMap<Integer, Integer>> manaCube) {
+	public Deck(HashMap<Card, Integer> cards, HashMap<Integer, Integer> manaCurve, HashMap<TypeEnume, HashMap<Integer, Integer>> manaCube) {
 		this.cards = cards;
 		this.manaCurve = manaCurve;
 		this.manaCube = manaCube;
@@ -26,7 +25,7 @@ public class Deck {
 		return this.manaCurve;
 	}
 
-	public HashMap<TypeEnum, HashMap<Integer, Integer>> getManaCube() {
+	public HashMap<TypeEnume, HashMap<Integer, Integer>> getManaCube() {
 		return this.manaCube;
 	}
 

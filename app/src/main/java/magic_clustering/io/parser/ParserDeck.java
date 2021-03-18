@@ -1,7 +1,7 @@
 package magic_clustering.io.parser;
 
 import magic_clustering.model.*;
-import magic_clustering.model.Deck.TypeEnum.*;
+import magic_clustering.model.TypeEnum.TypeEnume;
 
 import java.io.*;
 import java.util.HashMap;
@@ -22,16 +22,23 @@ public class ParserDeck implements IParser<Deck> {
 		HashMap<Card, Integer> deckCards = new HashMap<>();
 
 		HashMap<Integer, Integer> deckManaCurve = new HashMap<>();
+		init(deckManaCurve);
 		Integer numbCard;
 
-		HashMap<magic_clustering.model.Deck.TypeEnum, HashMap<Integer, Integer>> deckManaCube = new HashMap<magic_clustering.model.Deck.TypeEnum, HashMap<Integer, Integer>>();
+		HashMap<TypeEnume, HashMap<Integer, Integer>> deckManaCube = new HashMap<TypeEnume, HashMap<Integer, Integer>>();
 		HashMap<Integer, Integer> artifact = new HashMap<>();
+		init(artifact);
 		HashMap<Integer, Integer> creature = new HashMap<>();
+		init(creature);
 		HashMap<Integer, Integer> instant = new HashMap<>();
+		init(instant);
 		HashMap<Integer, Integer> land= new HashMap<>();
+		init(land);
 		HashMap<Integer, Integer> enchantment= new HashMap<>();
+		init(enchantment);
 		HashMap<Integer, Integer> sorcery = new HashMap<>();
-
+		init(sorcery);
+		
 		ParserCards parserCards = new ParserCards();
 		List<Card> cardsList = parserCards.parse(cardsPath);
 
@@ -55,23 +62,13 @@ public class ParserDeck implements IParser<Deck> {
 					//création de la courbe de mana et manaCube
 					//gestion cas particulier des terrains pour la courbes et le cube
 					if(c.type.contains("Land")){
-						if(deckManaCurve.containsKey(-1)){
-							numbCard = deckManaCurve.get(-1) + deckRequestedCards.get(c.name);
-						}
-						else{
-							numbCard = deckRequestedCards.get(c.name);
-						}
+						numbCard = deckManaCurve.get(-1) + deckRequestedCards.get(c.name);
 						deckManaCurve.put(-1, numbCard);
 						land.put(-1, numbCard);
 					}
 					else{
 						//HashMap courbe de mana
-						if(deckManaCurve.containsKey(c.manaCost)){
-							numbCard = deckManaCurve.get(c.manaCost) + deckRequestedCards.get(c.name);
-						}
-						else{
-							numbCard = deckRequestedCards.get(c.name);
-						}
+						numbCard = deckManaCurve.get(c.manaCost) + deckRequestedCards.get(c.name);
 						deckManaCurve.put(c.manaCost, numbCard);
 
 						//Hashmap du cube de mana: partie HashMap<Integer, Integer> du cube de mana
@@ -89,12 +86,12 @@ public class ParserDeck implements IParser<Deck> {
 				}
 			}
 			//Hashmap du cube de mana
-			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Artifact, artifact);
-			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Creature, creature);
-			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Enchantment, enchantment);
-			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Instant, instant);
-			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Land, land);
-			deckManaCube.put(magic_clustering.model.Deck.TypeEnum.Sorcery, sorcery);
+			deckManaCube.put(TypeEnume.Artifact, artifact);
+			deckManaCube.put(TypeEnume.Creature, creature);
+			deckManaCube.put(TypeEnume.Enchantment, enchantment);
+			deckManaCube.put(TypeEnume.Instant, instant);
+			deckManaCube.put(TypeEnume.Land, land);
+			deckManaCube.put(TypeEnume.Sorcery, sorcery);
 
 			return new Deck(deckCards, deckManaCurve, deckManaCube);
 		} catch(IOException e) {
@@ -104,8 +101,8 @@ public class ParserDeck implements IParser<Deck> {
 		return null;
 	}
 
-	private void createManaCube( HashMap<Integer, Integer> typeMap, HashMap<String, Integer> deck, Card c, String type, Integer numbCard){
-
+	//gestion des HashMap<Integer, Integer> du cube de mana
+	private void createManaCube(HashMap<Integer, Integer> typeMap, HashMap<String, Integer> deck, Card c, String type, Integer numbCard){
 		if(c.type.contains(type)){
 			if(typeMap.containsKey(c.manaCost)){
 				numbCard = typeMap.get(c.manaCost) + deck.get(c.name);
@@ -115,6 +112,14 @@ public class ParserDeck implements IParser<Deck> {
 			}
 			typeMap.put(c.manaCost, numbCard);
 		}
+	}
 
+	/*initialisation des Hashmap<Integer, Integer avec les clé allant de -1 (terrain)
+	à 10 (cout max cartes de 93-94) et valeur à 0 pour faciliter les comparaisons de
+	deux courbes/cubes de mana*/
+	private void init(HashMap<Integer, Integer> mana){
+		for(int i = -1; i <= 10; i++){
+			mana.put(i,0);
+		}
 	}
 }

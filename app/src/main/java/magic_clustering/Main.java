@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 import magic_clustering.io.parser.ParserDeck;
 import magic_clustering.model.Card;
-import magic_clustering.model.Deck.TypeEnum.*;
+import magic_clustering.model.TypeEnum.TypeEnume;
 import magic_clustering.model.Deck;
 
 public class Main {
@@ -26,16 +26,20 @@ public class Main {
 
 		System.out.println("\n" + "Courbe de mana du deck : \n");
 		for(Map.Entry<Integer, Integer> entry : deck.getManaCurve().entrySet()) {
-			System.out.println("Cout des cartes : " + entry.getKey() + " | nombre de cartes : " + entry.getValue());
+			if(entry.getValue() != 0){
+				System.out.println("Cout des cartes : " + entry.getKey() + " | nombre de cartes : " + entry.getValue());
+			}
 		}
 
 		System.out.println("\n" + "Cube de mana du deck : \n");
 
 		System.out.println("WIP");
-		for(Map.Entry<magic_clustering.model.Deck.TypeEnum, HashMap<Integer, Integer>> entry : deck.getManaCube().entrySet()) {
+		for(Map.Entry<TypeEnume, HashMap<Integer, Integer>> entry : deck.getManaCube().entrySet()) {
 			System.out.println("\n" + "Type de carte : " + entry.getKey() + "\n");
 			for(Map.Entry<Integer, Integer> entry2 : entry.getValue().entrySet()) {
-				System.out.println("Cout des cartes : " + entry2.getKey() + " | nombre de cartes : " + entry2.getValue());
+				if(entry2.getValue() != 0){
+					System.out.println("Cout des cartes : " + entry2.getKey() + " | nombre de cartes : " + entry2.getValue());
+				}
 			}
 		}
 	}
