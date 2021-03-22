@@ -3,7 +3,7 @@ package magic_clustering;
 import java.util.Map;
 import magic_clustering.io.parser.ParserDeck;
 import magic_clustering.model.*;
-import magic_clustering.algo.Jaccard2;
+import magic_clustering.algo.*;
 
 import java.util.ArrayList;
 import java.util.HashMap;
