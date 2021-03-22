@@ -27,7 +27,7 @@ public class Main {
         listDeck.add(deckBis);
         listDeck.add(deckTer);
         
-        Jaccard2 jackard = new Jaccard(deck, listDeck);
+        Jaccard jackard = new Jaccard(deck, listDeck);
 
         HashMap<ArrayList<Deck>, Float> distanceDeJaccard = jackard.jaccardDistEntre2Deck();
         
