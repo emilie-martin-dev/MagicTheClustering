@@ -13,12 +13,12 @@ import magic_clustering.io.parser.ParserDeck;
  * - un deck que le va comparer au autres (deck)
  * - une liste de decks (listDeck) que l'on va comparer au deck principale (deck)
  **/
-public class Jaccard2 {
+public class Jaccard {
 
     public Deck deck;
     public ArrayList<Deck> listDeck;
 
-    public Jaccard2(Deck deck, ArrayList<Deck> listDeck) {
+    public Jaccard(Deck deck, ArrayList<Deck> listDeck) {
         this.deck = deck;
         this.listDeck = listDeck;
     }
