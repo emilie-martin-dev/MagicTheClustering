@@ -5,9 +5,11 @@ import java.util.Map;
 
 public class Deck {
 
+	private String name;
 	private HashMap<Card, Integer> cards;
 
-	public Deck(HashMap<Card, Integer> cards) {
+	public Deck(String nameDeck, HashMap<Card, Integer> cards) {
+		this.name = nameDeck;
 		this.cards = cards;
 	}
 
@@ -18,7 +20,7 @@ public class Deck {
 	@Override
 	public String toString() {
 		StringBuilder bufferCards = new StringBuilder();
-		
+
 		bufferCards.append("[");
 		for(Map.Entry<Card, Integer> entry : cards.entrySet()) {
 			bufferCards.append("{count=");
@@ -27,12 +29,12 @@ public class Deck {
 			bufferCards.append(entry.getKey());
 			bufferCards.append("}, ");
 		}
-		
+
 		bufferCards.delete(bufferCards.length()-2, bufferCards.length());
-		
+
 		bufferCards.append("]");
-		
-		return "Deck{" + "cards=" + bufferCards.toString() + '}';
+
+		return "{ name=" + this.name + ", cards=" + bufferCards.toString() + '}';
 	}
 
 }
