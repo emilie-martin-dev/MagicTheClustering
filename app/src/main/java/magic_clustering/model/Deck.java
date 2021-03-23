@@ -5,11 +5,11 @@ import java.util.Map;
 
 public class Deck {
 
-	private String nameDeck;
+	private String name;
 	private HashMap<Card, Integer> cards;
 
 	public Deck(String nameDeck, HashMap<Card, Integer> cards) {
-		this.nameDeck = nameDeck;
+		this.name = nameDeck;
 		this.cards = cards;
 	}
 
@@ -34,7 +34,7 @@ public class Deck {
 
 		bufferCards.append("]");
 
-		return this.nameDeck+"{" + "cards=" + bufferCards.toString() + '}';
+		return "{ name=" + this.name + ", cards=" + bufferCards.toString() + '}';
 	}
 
 }

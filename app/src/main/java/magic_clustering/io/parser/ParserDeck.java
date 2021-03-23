@@ -5,8 +5,6 @@ import magic_clustering.model.*;
 import java.io.*;
 import java.util.HashMap;
 import java.util.List;
-import java.io.File;
-import java.nio.file.Files;
 
 public class ParserDeck implements IParser<Deck> {
 
@@ -24,25 +22,11 @@ public class ParserDeck implements IParser<Deck> {
 		ParserCards parserCards = new ParserCards();
 		List<Card> cardsList = parserCards.parse(cardsPath);
 
-		int parseNomDebut = 0;
-		int parseNomFin = 0;
 		String nomDeck = "";
 
-
 		try {
-
-			for(int nbrCaractere = 0; nbrCaractere < path.length() ; nbrCaractere++){
-				if(Character.toString(path.charAt(nbrCaractere)).equals(".")){
-					parseNomFin = nbrCaractere;
-				}
-				else if(Character.toString(path.charAt(nbrCaractere)).equals("/")){
-					parseNomDebut = nbrCaractere;
-				}
-			}
-
-			for(parseNomDebut+=1; parseNomDebut < parseNomFin; parseNomDebut++){
-				nomDeck+=path.charAt(parseNomDebut);
-			}
+			String[] pathSplitted = path.split("/");
+			nomDeck = pathSplitted[pathSplitted.length - 1].replaceAll("\\.[^.]*$", "");
 			
 			BufferedReader inputStream = new BufferedReader(new FileReader(path));
 			String line;
