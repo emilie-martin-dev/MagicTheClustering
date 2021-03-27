@@ -16,13 +16,14 @@ public class ParserDeck implements IParser<Deck> {
 
 	@Override
 	public Deck parse(String path) {
-		HashMap<Card, Integer> deckCards = new HashMap<>();
 		HashMap<String, Integer> deckRequestedCards = new HashMap<>();
+
+		String nomDeck = "";
+
+		HashMap<Card, Integer> deckCards = new HashMap<>();
 
 		ParserCards parserCards = new ParserCards();
 		List<Card> cardsList = parserCards.parse(cardsPath);
-
-		String nomDeck = "";
 
 		try {
 			String[] pathSplitted = path.split("/");
@@ -42,6 +43,7 @@ public class ParserDeck implements IParser<Deck> {
 
 			for(Card c : cardsList) {
 				if(deckRequestedCards.containsKey(c.name)) {
+					//création de l'ensemble des cartes
 					deckCards.put(c, deckRequestedCards.get(c.name));
 					deckRequestedCards.remove(c.name);
 
@@ -51,7 +53,7 @@ public class ParserDeck implements IParser<Deck> {
 				}
 			}
 
-			return new Deck(nomDeck,deckCards);
+			return new Deck(nomDeck, deckCards);
 		} catch(IOException e) {
 			e.printStackTrace();
 		}
