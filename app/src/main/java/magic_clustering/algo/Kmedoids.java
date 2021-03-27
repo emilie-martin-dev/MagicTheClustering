@@ -42,8 +42,10 @@ public class Kmedoids {
 		
 		for(int i = 0 ; i < kMedoids ; i++) {
 			int r = rand.nextInt(decks.size());
-			if(rIndex.contains(r))
+			if(rIndex.contains(r)) {
+				i--;
 				continue;
+			}
 			
 			rIndex.add(r);
 		}

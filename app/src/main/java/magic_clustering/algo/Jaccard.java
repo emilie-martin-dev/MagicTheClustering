@@ -41,7 +41,6 @@ public class Jaccard {
 	 * **/
 	 public HashMap<Deck, HashMap<Deck, Float>> jaccardDist(){
 		HashMap<Deck, HashMap<Deck, Float>> jaccardMatrice = new HashMap<>();
-
 		for( int i = 0; i < this.listDeck.size(); i++){
 			for(int j = 0 ; j < this.listDeck.size() ; j++) {
 				float min = 0;
@@ -60,6 +59,7 @@ public class Jaccard {
 						jaccardMatrice.put(deckJ, new HashMap<>());
 					
 					jaccardMatrice.get(deckJ).put(deckI, 0f);
+					
 					continue;
 				}
 				
