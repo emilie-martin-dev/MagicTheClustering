@@ -2,6 +2,7 @@ package magic_clustering.model;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Objects;
 
 public class Deck {
 
@@ -110,6 +111,10 @@ public class Deck {
 	public HashMap<TypeEnum, HashMap<Integer, Integer>> getManaCube() {
 		return this.manaCurvePerType;
 	}
+	
+	public String getName() {
+		return this.name;
+	}
 
 	@Override
 	public String toString() {
@@ -131,6 +136,14 @@ public class Deck {
 		return "Deck{ name=" + this.name + "cards=" + bufferCards.toString() + '}';
 	}
 
-
+	@Override
+	public int hashCode() {
+		int hash = 7;
+		hash = 59 * hash + Objects.hashCode(this.name);
+		hash = 59 * hash + Objects.hashCode(this.cards);
+		hash = 59 * hash + Objects.hashCode(this.manaCurve);
+		hash = 59 * hash + Objects.hashCode(this.manaCurvePerType);
+		return hash;
+	}
 
 }

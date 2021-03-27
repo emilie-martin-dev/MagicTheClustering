@@ -1,6 +1,7 @@
 package magic_clustering.model;
 
 import com.google.gson.annotations.SerializedName;
+import java.util.Objects;
 
 public class Card {
 
@@ -49,5 +50,14 @@ public class Card {
 	public String toString() {
 		return "Card{" + "manaCost=" + manaCost + ", name=" + name + '}';
 	}
+
+	@Override
+	public int hashCode() {
+		int hash = 7;
+		hash = 29 * hash + this.manaCost;
+		hash = 29 * hash + Objects.hashCode(this.name);
+		hash = 29 * hash + Objects.hashCode(this.type);
+		return hash;
+	}	
 
 }

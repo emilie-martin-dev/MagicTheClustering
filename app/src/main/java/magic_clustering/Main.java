@@ -1,12 +1,17 @@
 package magic_clustering;
 
-import java.util.HashMap;
+import java.util.ArrayList;
 import java.util.Map;
+import magic_clustering.algo.Jaccard;
 
 import magic_clustering.io.parser.ParserDeck;
+
 import magic_clustering.model.Card;
 import magic_clustering.model.TypeEnum;
 import magic_clustering.model.Deck;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Set;
 
 public class Main {
 
@@ -41,6 +46,28 @@ public class Main {
 				}
 			}
 		}
-	}
 
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		
+		Deck deckBis = parserDeck.parse("data/tcdecks/erhnamgeddon-15.txt");
+		Deck deckTer = parserDeck.parse("data/tcdecks/the-deck-10.txt");
+		
+		ArrayList<Deck> listDeck = new ArrayList<>();
+		listDeck.add(deck);
+		listDeck.add(deckBis);
+		listDeck.add(deckTer);
+
+		Jaccard jaccard = new Jaccard(listDeck);
+
+		HashMap<ArrayList<Deck>, Float> distanceDeJaccard = jaccard.jaccardDistEntre2Deck();
+
+		for(Map.Entry<ArrayList<Deck>, Float> forJacc : distanceDeJaccard.entrySet()){
+			for(Deck d : forJacc.getKey())
+				System.out.print(d.getName() + ", ");
+			
+			System.out.println( "distance de Jaccard : " + forJacc.getValue());
+		}
+	}
 }
