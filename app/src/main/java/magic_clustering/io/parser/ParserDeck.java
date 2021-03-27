@@ -9,9 +9,13 @@ import java.util.List;
 public class ParserDeck implements IParser<Deck> {
 
 	private String cardsPath;
+	private List<Card> cardsList;
 
 	public ParserDeck(String cardsPath) {
 		this.cardsPath = cardsPath;
+		
+		ParserCards parserCards = new ParserCards();
+		cardsList = parserCards.parse(cardsPath);
 	}
 
 	@Override
@@ -22,8 +26,6 @@ public class ParserDeck implements IParser<Deck> {
 
 		HashMap<Card, Integer> deckCards = new HashMap<>();
 
-		ParserCards parserCards = new ParserCards();
-		List<Card> cardsList = parserCards.parse(cardsPath);
 
 		try {
 			String[] pathSplitted = path.split("/");
