@@ -1,7 +1,7 @@
 package magic_clustering.io.parser;
 
 import magic_clustering.model.*;
-import magic_clustering.model.TypeEnum.TypeEnume;
+import magic_clustering.model.TypeEnum;
 
 import java.io.*;
 import java.util.HashMap;
@@ -25,7 +25,7 @@ public class ParserDeck implements IParser<Deck> {
 		init(deckManaCurve);
 		Integer numbCard;
 
-		HashMap<TypeEnume, HashMap<Integer, Integer>> deckManaCube = new HashMap<TypeEnume, HashMap<Integer, Integer>>();
+		HashMap<TypeEnum, HashMap<Integer, Integer>> deckManaCube = new HashMap<TypeEnum, HashMap<Integer, Integer>>();
 		HashMap<Integer, Integer> artifact = new HashMap<>();
 		init(artifact);
 		HashMap<Integer, Integer> creature = new HashMap<>();
@@ -86,12 +86,12 @@ public class ParserDeck implements IParser<Deck> {
 				}
 			}
 			//Hashmap du cube de mana
-			deckManaCube.put(TypeEnume.Artifact, artifact);
-			deckManaCube.put(TypeEnume.Creature, creature);
-			deckManaCube.put(TypeEnume.Enchantment, enchantment);
-			deckManaCube.put(TypeEnume.Instant, instant);
-			deckManaCube.put(TypeEnume.Land, land);
-			deckManaCube.put(TypeEnume.Sorcery, sorcery);
+			deckManaCube.put(TypeEnum.Artifact, artifact);
+			deckManaCube.put(TypeEnum.Creature, creature);
+			deckManaCube.put(TypeEnum.Enchantment, enchantment);
+			deckManaCube.put(TypeEnum.Instant, instant);
+			deckManaCube.put(TypeEnum.Land, land);
+			deckManaCube.put(TypeEnum.Sorcery, sorcery);
 
 			return new Deck(deckCards, deckManaCurve, deckManaCube);
 		} catch(IOException e) {

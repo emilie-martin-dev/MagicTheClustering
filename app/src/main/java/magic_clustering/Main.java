@@ -2,11 +2,10 @@ package magic_clustering;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Scanner;
 
 import magic_clustering.io.parser.ParserDeck;
 import magic_clustering.model.Card;
-import magic_clustering.model.TypeEnum.TypeEnume;
+import magic_clustering.model.TypeEnum;
 import magic_clustering.model.Deck;
 
 public class Main {
@@ -34,7 +33,7 @@ public class Main {
 		System.out.println("\n" + "Cube de mana du deck : \n");
 
 		System.out.println("WIP");
-		for(Map.Entry<TypeEnume, HashMap<Integer, Integer>> entry : deck.getManaCube().entrySet()) {
+		for(Map.Entry<TypeEnum, HashMap<Integer, Integer>> entry : deck.getManaCube().entrySet()) {
 			System.out.println("\n" + "Type de carte : " + entry.getKey() + "\n");
 			for(Map.Entry<Integer, Integer> entry2 : entry.getValue().entrySet()) {
 				if(entry2.getValue() != 0){
