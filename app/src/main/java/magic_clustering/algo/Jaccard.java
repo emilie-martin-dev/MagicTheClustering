@@ -3,6 +3,7 @@ package magic_clustering.algo;
 import java.util.Map;
 import java.util.HashMap;
 import java.util.ArrayList;
+import java.util.List;
 import magic_clustering.model.*;
 
 /**Cette classe nous permet de calculer la distance entre deux decks en fonction:
@@ -14,9 +15,9 @@ import magic_clustering.model.*;
  **/
 public class Jaccard {
 
-	public ArrayList<Deck> listDeck;
+	public List<Deck> listDeck;
 
-	public Jaccard(ArrayList<Deck> listDeck) {
+	public Jaccard(List<Deck> listDeck) {
 		this.listDeck = listDeck;
 	}
 
@@ -38,8 +39,8 @@ public class Jaccard {
 	 * 		- on ajoute le HashMap précédemment créer (theCardDecks) et la distance de Jaccard (distanceDeJaccard) à un nouvel HashMap (jack_ard)
 	 * 6) on retourne le nouvel HashMap (jack_ard), ce dernier peut être vide si aucune des cartes n'est communes entre les différets decks.
 	 * **/
-	 public HashMap<ArrayList<Deck>, Float> jaccardDistEntre2Deck(){
-		HashMap<ArrayList<Deck>, Float> jaccardMatrice = new HashMap<>();
+	 public HashMap<Deck, HashMap<Deck, Float>> jaccardDist(){
+		HashMap<Deck, HashMap<Deck, Float>> jaccardMatrice = new HashMap<>();
 
 		for( int i = 0; i < this.listDeck.size(); i++){
 			for(int j = 0 ; j < this.listDeck.size() ; j++) {
@@ -55,7 +56,10 @@ public class Jaccard {
 					theDecks.add(deckJ);
 					theDecks.add(deckI);
 
-					jaccardMatrice.put(theDecks, 0f);
+					if(!jaccardMatrice.containsKey(deckJ))
+						jaccardMatrice.put(deckJ, new HashMap<>());
+					
+					jaccardMatrice.get(deckJ).put(deckI, 0f);
 					continue;
 				}
 				
@@ -108,14 +112,13 @@ public class Jaccard {
 					}
 				}
 	
-				ArrayList<Deck> theDecks = new ArrayList<>();
-
-				theDecks.add(deckJ);
-				theDecks.add(deckI);
 
 				float dist = 1-(min/max);
 				
-				jaccardMatrice.put(theDecks, dist);
+				if(!jaccardMatrice.containsKey(deckJ))
+					jaccardMatrice.put(deckJ, new HashMap<>());
+				
+				jaccardMatrice.get(deckJ).put(deckI, dist);
 			}
 		}
 		
