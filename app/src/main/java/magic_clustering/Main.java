@@ -1,6 +1,8 @@
 package magic_clustering;
 
-import java.util.ArrayList;
+import java.io.File;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.Map;
 import magic_clustering.algo.Jaccard;
 
@@ -11,12 +13,14 @@ import magic_clustering.model.TypeEnum;
 import magic_clustering.model.Deck;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Set;
+import java.util.List;
+import java.util.Map.Entry;
+import magic_clustering.algo.Kmedoids;
 
 public class Main {
 
 	public static void main(String[] args) {
-		ParserDeck parserDeck = new ParserDeck("data/cards.json");
+		/*ParserDeck parserDeck = new ParserDeck("data/cards.json");
 
 		Deck deck = parserDeck.parse("data/tcdecks/zoo-1.txt");
 		//System.out.println(""+deck);
@@ -59,15 +63,35 @@ public class Main {
 		listDeck.add(deckBis);
 		listDeck.add(deckTer);
 
-		Jaccard jaccard = new Jaccard(listDeck);
+		Jaccard jaccard = new Jaccard(listDeck);*/
 
-		HashMap<ArrayList<Deck>, Float> distanceDeJaccard = jaccard.jaccardDistEntre2Deck();
+		/*HashMap<ArrayList<Deck>, Float> distanceDeJaccard = jaccard.jaccardDist();
 
 		for(Map.Entry<ArrayList<Deck>, Float> forJacc : distanceDeJaccard.entrySet()){
 			for(Deck d : forJacc.getKey())
 				System.out.print(d.getName() + ", ");
 			
 			System.out.println( "distance de Jaccard : " + forJacc.getValue());
+		}*/
+		ParserDeck parserDeck = new ParserDeck("data/cards.json");
+		List<Deck> decks = new ArrayList<>();
+		File deckFolder = new File("data/tcdecks");
+		for(File f : deckFolder.listFiles()) {
+			decks.add(parserDeck.parse(f.getPath()));
+		}
+		
+		Kmedoids kmedoids = new Kmedoids(decks, 75);
+		HashMap<Integer, List<Deck>> clusters = kmedoids.compute();
+		for(Entry<Integer, List<Deck>> entry : clusters.entrySet()) {
+			System.out.println("=========================");
+			System.out.println("Cluster numéro " + entry.getKey());
+			System.out.println("=========================");
+			
+			for(Deck d : entry.getValue()) {
+				System.out.println(d.getName());
+			}
+			
+			System.out.println();
 		}
 	}
 }
