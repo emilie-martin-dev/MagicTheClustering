@@ -16,43 +16,43 @@ Pour lancé notre application, nous avons deux commandes possibles:
 script pour celà, nous devons ouvrir un terminal dans le répertoire courant et
 entre les commandes suivantes:
 
-'''bash
+``` bash
 cd scripts
-'''
+```
 
-'''bash
+``` bash
 ./run.sh
-'''
+```
 
 - Nous pouvons également passer par le fichier gradlew présent dans le répertoire
 app, en ouvrant un terminal dans le répertoire courant:
 
-'''bash
+``` bash
 cd app
-'''
+```
 
-'''
+``` bash
 ./gradlew run
-'''
+```
 
 Nous avons également la possibilité de générer une archive.jar exécutable grâce
 à un script dist.sh qui génèrera un répertoire dist contenant une archive.jar et
 l'ensemble des documents nécessaire au lancement de notre application, en ouvrant
  un terminal dans le repertoire courant:
 
- '''bash
+``` bash
 cd scripts
-'''
+```
 
-'''bash
+``` bash
 ./dist.sh
-'''
+```
 
 WARNING: il est possible que votre terminal vous informe que vous n'avez pas les
 droits pour exécuter les scripts ou le gradlew, pour résoudre ce problème,
 lancer la commande suivante:
 
-'''bash
+``` bash
 chmod 774 <adresse_script>
 '''
 
