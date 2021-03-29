@@ -3,7 +3,7 @@
 distPath="dist"
 appPath="app"
 mainClass="magic_clustering.Main"
-zipName="Magic The Clustering"
+zipName="MagicTheClustering"
 
 cd ..
 
@@ -30,6 +30,7 @@ if [ $? -ne 0 ]; then
 fi
 
 echo "Copie des fichiers"
+cp data "$distDir" -R
 cd "$gradleDistDir"
 
 if [ -d "$gradleDistDir/$zipName" ]; then
