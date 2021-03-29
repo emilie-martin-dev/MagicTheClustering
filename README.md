@@ -54,7 +54,7 @@ lancer la commande suivante:
 
 ``` bash
 chmod 774 <adresse_script>
-'''
+```
 
 # Structuration du projet
 
