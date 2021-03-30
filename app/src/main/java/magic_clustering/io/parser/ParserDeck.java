@@ -28,6 +28,7 @@ public class ParserDeck implements IParser<Deck> {
 
 
 		try {
+			// Récupère le nom du deck en fonction du nom du fichier
 			String[] pathSplitted = path.split("/");
 			nomDeck = pathSplitted[pathSplitted.length - 1].replaceAll("\\.[^.]*$", "");
 			
@@ -35,17 +36,20 @@ public class ParserDeck implements IParser<Deck> {
 			String line;
 
 			while((line = inputStream.readLine()) != null) {
+				// Si la ligne commence par un numéro, c'est une carte et le nombre d'exemplaire
 				if(!line.isEmpty() && line.matches("^[0-9]+\\ .*")) {
 					Integer nombre = Integer.valueOf(line.substring(0, line.indexOf(" ")));
 					String cardName = line.substring(line.indexOf(" ") + 1);
 
+					// On ajoute la carte à la liste de celles que l'on souhaite
 					deckRequestedCards.put(cardName, nombre);
 				}
 			}
 
+			// On parcours chaques cartes pour trouver celles que l'on souhaite
 			for(Card c : cardsList) {
+				// Si la carte a le même nom, c'est celle que l'on cherche
 				if(deckRequestedCards.containsKey(c.name)) {
-					//création de l'ensemble des cartes
 					deckCards.put(c, deckRequestedCards.get(c.name));
 					deckRequestedCards.remove(c.name);
 

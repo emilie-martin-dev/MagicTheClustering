@@ -25,14 +25,18 @@ public class Main {
 
 		//showManaStats(parserDeck);
 
+		// Récupère tous les decks du dossier
 		List<Deck> decks = new ArrayList<>();
 		File deckFolder = new File(PATH_DECKS);
 		for(File f : deckFolder.listFiles()) {
 			decks.add(parserDeck.parse(f.getPath()));
 		}
 		
+		// Effectue le clustering des deck
 		Kmedoids kmedoids = new Kmedoids(decks, K_MEDOIDS);
 		HashMap<Integer, List<Deck>> clusters = kmedoids.compute();
+		
+		// Affiche les résultats
 		for(Entry<Integer, List<Deck>> entry : clusters.entrySet()) {
 			System.out.println("=========================");
 			System.out.println("Cluster numéro " + entry.getKey());
@@ -45,6 +49,7 @@ public class Main {
 			System.out.println();
 		}
 	}
+	
 	
 	public static void showManaStats(ParserDeck parserDeck) {
 		Deck deck = parserDeck.parse("data/tcdecks/zoo-1.txt");

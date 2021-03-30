@@ -20,12 +20,15 @@ public class ParserCards implements IParser<List<Card>> {
 	@Override
 	public List<Card> parse(String path) {
 		try {
+			// Initialise le parser
 			GsonBuilder builder = new GsonBuilder();
 			builder.setPrettyPrinting();
 			Gson gson = builder.create();
 
+			// Comme on veut obtenir une arraylist, il faut définir le type d'une manière assez spéciale
 			Type myType = new TypeToken<ArrayList<Card>>() {}.getType();
 
+			// On parse le fichier
 			return gson.fromJson(new FileReader(path), myType);
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();

@@ -18,12 +18,15 @@ public class Kmedoids {
 	}
 	
 	public HashMap<Integer, List<Deck>> compute() {
+		// Si on veut plus de KMedoids que de deck on stop
 		if(kMedoids >= decks.size())
 			return new HashMap<>();
 		
+		// On récupère les distances de Jaccard
 		Jaccard jaccard = new Jaccard(decks);
 		HashMap<Deck, HashMap<Deck, Float>> distanceDeJaccard = jaccard.jaccardDist();
 		
+		// On initialise les clusters
 		HashMap<Integer, List<Deck>> clusters = new HashMap<>();
 		for(int i = 0 ; i < kMedoids ; i++) {
 			clusters.put(i, new ArrayList<>());
@@ -42,6 +45,8 @@ public class Kmedoids {
 		
 		for(int i = 0 ; i < kMedoids ; i++) {
 			int r = rand.nextInt(decks.size());
+			
+			// Si on a deja selectionné ce kmedois, on en reselectionne un autre
 			if(rIndex.contains(r)) {
 				i--;
 				continue;
@@ -54,6 +59,7 @@ public class Kmedoids {
 	}
 
 	private void assignCluster(List<Integer> medoidsIndex, HashMap<Deck, HashMap<Deck, Float>> distanceDeJaccard, HashMap<Integer, List<Deck>> clusters) {
+		// Pour chaque deck on cherche la distance minimum avec les kmedois
 		for(Deck d : decks) {
 			int minMedoidIndex = -1;
 			float minMedoidDist = 1;

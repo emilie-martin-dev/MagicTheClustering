@@ -46,7 +46,6 @@ public class Deck {
 		for(Map.Entry<Card, Integer> entry : this.cards.entrySet()) {
 			Card c = entry.getKey();
 			int n = entry.getValue();
-			//création de la courbe de mana et manaCube
 			//gestion cas particulier des terrains pour la courbes et le cube
 			if(c.type.contains("Land")){
 				numbCard = manaCurve.get(-1) + n;
@@ -59,16 +58,15 @@ public class Deck {
 				numbCard = manaCurve.get(c.manaCost) + n;
 				manaCurve.put(c.manaCost, numbCard);
 
-				//Hashmap du cube de mana: partie HashMap<Integer, Integer> du cube de mana
-				updateManaCube(artifact, n, c, "Artifact");
-				updateManaCube(creature, n, c, "Creature");
-				updateManaCube(enchantment, n, c, "Enchantment");
-				updateManaCube(instant, n, c, "Instant");
-				updateManaCube(sorcery, n, c, "Sorcery");
+				// Courbe de mana par type
+				updateManaStat(artifact, n, c, "Artifact");
+				updateManaStat(creature, n, c, "Creature");
+				updateManaStat(enchantment, n, c, "Enchantment");
+				updateManaStat(instant, n, c, "Instant");
+				updateManaStat(sorcery, n, c, "Sorcery");
 			}			
 		}		
 		
-		//Hashmap du cube de mana
 		manaCurvePerType.put(TypeEnum.Artifact, artifact);
 		manaCurvePerType.put(TypeEnum.Creature, creature);
 		manaCurvePerType.put(TypeEnum.Enchantment, enchantment);
@@ -77,8 +75,8 @@ public class Deck {
 		manaCurvePerType.put(TypeEnum.Sorcery, sorcery);
 	}
 	
-	//gestion des HashMap<Integer, Integer> du cube de mana
-	private void updateManaCube(HashMap<Integer, Integer> typeMap, int n, Card c, String type){
+	// Met a jour la courbe d'un type donné
+	private void updateManaStat(HashMap<Integer, Integer> typeMap, int n, Card c, String type){
 		int numbCard = 0;
 		if(c.type.contains(type)){
 			if(typeMap.containsKey(c.manaCost)){
